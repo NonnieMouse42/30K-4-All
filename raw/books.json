@@ -1,7 +1,119 @@
 [
   {
-    "file_name": "ZwQB9kBXZA3CyHN4.pdf",
-    "pub_id": "2d3f-82d2-9db5-ca6d",
-    "target_file_name": "2022 - LI - Solar Auxilia.cat"
+    "file_name": "Liber-Panoptica_PAGES_v5.2.pdf",
+    "pub_id": "9fab-fea7-a93c-2074",
+    "priority": 1,
+    "target_file_name": "Panoptica Library.cat",
+    "page_ranges": [
+      {
+        "start": 112,
+        "end": 161,
+        "type": "faq_pages"
+      },
+      {
+        "start": 164,
+        "end": 167,
+        "type": "special_rule_pages"
+      },
+      {
+        "start": 170,
+        "end": 175,
+        "type": "weapon_profile_pages"
+      }
+    ]
+  },
+  {
+    "file_name": "Liber-Antiquia_PAGES_v1.6.pdf",
+    "pub_id": "a368-64f0-10c7-c49d",
+    "page_ranges": [
+      {
+        "start": 12,
+        "end": 103,
+        "target_file_name": "PO - Asuryani.cat"
+      },
+      {
+        "start": 106,
+        "end": 133,
+        "target_file_name": "PO - Saedath.cat"
+      },
+      {
+        "start": 136,
+        "end": 165,
+        "target_file_name": "Panoptica Library.cat"
+      }
+    ]
+  },
+  {
+    "file_name": "Liber-Centura_PAGES_v1.6.pdf",
+    "pub_id": "9c07-3edc-5aa8-9304",
+    "page_ranges": [
+      {
+        "start": 6,
+        "end": 61,
+        "target_file_name": "PO - Centura Library.cat"
+      },
+      {
+        "start": 78,
+        "end": 91,
+        "target_file_name": "Panoptica Library.cat"
+      }
+    ]
+  },
+  {
+    "file_name": "Liber-Imperatus_PAGES_v1.2.pdf",
+    "pub_id": "f505-5fc8-ee53-1cec",
+    "page_ranges": [
+      {
+        "start": 8,
+        "end": 51,
+        "target_file_name": "PO - Traders Militant.cat"
+      },
+      {
+        "start": 54,
+        "end": 87,
+        "target_file_name": "PO - Legio Custodes.cat"
+      },
+      {
+        "start": 92,
+        "end": 117,
+        "target_file_name": "PO - Sisters of Silence.cat"
+      },
+      {
+        "start": 120,
+        "end": 193,
+        "target_file_name": "PO - Solar Auxilia.cat"
+      },
+      {
+        "start": 194,
+        "end": 263,
+        "target_file_name": "PO - Imperialis Militia.cat"
+      },
+      {
+        "start": 270,
+        "end": 314,
+        "target_file_name": "Panoptica Library.cat"
+      }
+    ]
+  },
+  {
+    "file_name": "Liber-Ingenium_PAGES_v1.3.pdf",
+    "pub_id": "89c5-118c-61fb-e6d8",
+    "page_ranges": [
+      {
+        "start": 6,
+        "end": 67,
+        "target_file_name": "PO - Mechanicum.cat"
+      },
+      {
+        "start": 71,
+        "end": 75,
+        "target_file_name": "PO - Questoris Knights.cat"
+      },
+      {
+        "start": 82,
+        "end": 110,
+        "target_file_name": "Panoptica Library.cat"
+      }
+    ]
   }
 ]

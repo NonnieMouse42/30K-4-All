@@ -28,6 +28,10 @@
     <publication id="3fc0-bf46-1f1-eff9" name="Legacies of The Age of Darkness Solar Auxilia 1.1" shortName="Legacies Solar Aux"/>
     <publication id="2d3f-82d2-9db5-ca6d" name="Free Rules for the Solar Auxilia Aethon Heavy Sentinel" shortName="Aethon Heavy Sentinel Datasheet" publisher="Warhammer Community" publicationDate="February 27th 2024" publisherUrl="https://www.warhammer-community.com/wp-content/uploads/2024/02/ZwQB9kBXZA3CyHN4.pdf"/>
     <publication id="9fab-fea7-a93c-2074" name="Liber Panoptica V5.2" shortName="Panoptica" publisher="Liber Panoptica V5.2" publicationDate="January 2022" publisherUrl="https://hh-ageofdarkness.itch.io/liberpanoptica/devlog/662579/panoptica-v52-release"/>
+    <publication name="Liber Imperatus" hidden="false" id="f505-5fc8-ee53-1cec"/>
+    <publication name="Liber Ingenium" hidden="false" id="89c5-118c-61fb-e6d8"/>
+    <publication name="Liber Centura" hidden="false" id="9c07-3edc-5aa8-9304"/>
+    <publication name="Liber Antiquia" hidden="false" id="a368-64f0-10c7-c49d"/>
   </publications>
   <costTypes>
     <costType id="d2ee-04cb-5f8a-2642" name="Pts" defaultCostLimit="-1" hidden="false"/>
