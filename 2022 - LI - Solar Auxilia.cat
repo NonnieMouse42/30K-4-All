@@ -6106,7 +6106,7 @@ Once assigned to a unit, the Auxilia Medicae is considered part of that unit and
             <characteristic name="Description" typeId="347e-ee4a-764f-6be3">Any friendly unit that includes at least one model with a command vox may choose to use the Leadership value of any model in a friendly unit with another command vox when making Pinning tests or Morale checks – this includes any friendly units with command voxs that are in Reserves or Embarked on unit with the Vehicle Unit Type. A unit that includes a command vox also offer benefits to friendly units that include a vox interlock (see page 153).
 
 
-While at least one model with a Command Vox is present on the battlefield and not Embarked in a Vehicle or Building, the Controlling Player may re-roll any Scatter rolls made (whether as part of a weapon attack or the deployment of a model or unit), as long as the model with the Command Vox has line of sight to the unit targeted by the attack or the point chosen as the target of the deployment.</characteristic>
+While at least one model with a Command Vox is present on the battlefield and not Embarked in a Vehicle or Building, the Controlling Player may re-roll any Scatter rolls made (whether as part of a weapon attack or the deployment of a model or unit), as long as the model with the Command Vox has line of sight to the unit targeted by the attack or the point chosen as the target of the deployment.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -11500,7 +11500,7 @@ If a Weapon Destroyed result is repaired, that weapon may not be used to attack 
           <rules>
             <rule id="05af-452b-0e23-3b16" name="Reborn Cohorts" publicationId="15a4-fc68-502d-48a9" page="71" hidden="false">
               <description>Effects
-• All models with the Infantry Unit Type in a Detachment using this Cohort Doctrine gain a bonus of +1 to their Leadership Characteristic, to a maximum of Leadership 10, and the Stubborn Special Rule.
+• All models with the Infantry Unit Type in a Detachment using this Cohort Doctrine gain a bonus of +1 to their Leadership Characteristic, to a maximum of Leadership 10, and the Stubborn Special Rule.
 • When making a Shooting Attack during any Game Turn in which the attacking unit has not Moved, a unit from a Detachment using this Cohort Doctrine may re-roll all failed To Hit rolls of ‘1’.
 
 Limitations
@@ -11537,7 +11537,7 @@ Limitations
           <rules>
             <rule id="a28b-aeef-6d88-8985" name="Armoured Fist Pattern Cohorts" publicationId="15a4-fc68-502d-48a9" page="71" hidden="false">
               <description>Effects
-• A Detachment using this Cohort Doctrine may select Auxilia Armoured Tercios as Troops choices. An Auxilia Armoured Tercio selected as a Troops choice may only consist of a single unit. Auxilia Armoured Tercios selected as Compulsory Troop Choices in a Primary Detachment using this Cohort Doctrine gain the Line Unit Sub-type. The first time in a game that any models with the Infantry Unit Type Disembark from their own Dedicated Transport, they gain the Relentless special rule until the end of that turn. (THIS MUST BE MANUALLY CHECKED)
+• A Detachment using this Cohort Doctrine may select Auxilia Armoured Tercios as Troops choices. An Auxilia Armoured Tercio selected as a Troops choice may only consist of a single unit. Auxilia Armoured Tercios selected as Compulsory Troop Choices in a Primary Detachment using this Cohort Doctrine gain the Line Unit Sub-type. The first time in a game that any models with the Infantry Unit Type Disembark from their own Dedicated Transport, they gain the Relentless special rule until the end of that turn. (THIS MUST BE MANUALLY CHECKED)
 • In a Primary Detachment using this Cohort Doctrine, a single Solar Auxilia Armoured Command Section composed of only a single Leman Russ Command Tank, must be selected as a HQ choice. This Leman Russ Command Tank gains the Cohort Doctrines special rule and must be selected as the army’s Warlord and must use the Armoured Legate Warlord trait (see below). A model with the Vehicle Unit Type must be selected as the Warlord of an army using this Cohort Doctrine, regardless of any rules which would require a model to be selected as the army’s Warlord (note this means that some units and Characters cannot be selected as part of this army):
 
 Warlord Trait: Armoured Legate
@@ -11562,7 +11562,7 @@ Doctrine may not select any Fortifiction choice.</description>
             <rule id="dc68-cb01-b862-110a" name="Penal Pattern Cohorts" publicationId="15a4-fc68-502d-48a9" page="72" hidden="false">
               <description>Effects
 • All models in a unit from a Detachment using this Cohort Doctrine that include models with the Tercio special rule also gain the Furious Charge (1) special rule.
-• Any model with the Infantry Unit Type in a Detachment using this Cohort Doctrine may replace a Lasrifle or Volkite Charger with a Lascarbine, Lasgun, Stubcarbine, Autorifle, Laspistol and Close Combat Weapon, or Shotgun for no additional points cost. In addition, one Auxilia in any Solar Auxilia Rifle Section may replace a Lasrifle with a Heavy Stubber for +5 points per model.
+• Any model with the Infantry Unit Type in a Detachment using this Cohort Doctrine may replace a Lasrifle or Volkite Charger with a Lascarbine, Lasgun, Stubcarbine, Autorifle, Laspistol and Close Combat Weapon, or Shotgun for no additional points cost. In addition, one Auxilia in any Solar Auxilia Rifle Section may replace a Lasrifle with a Heavy Stubber for +5 points per model.
 • All models selected as part of a Solar Auxilia Rifle Section gain the Feel No Pain (6+) special rule – this does not stack with any other variant of this special rule and if the unit has access to any other Feel No Pain (X) special rule, the controlling player must select one to use.
 • Any model in a Detachment using this Cohort Doctrine may replace a
 Close Combat Weapon with a Chainsword for +1 point per model.”
@@ -11582,9 +11582,9 @@ Limitations
               <description>Effects (THIS MUST BE CHECKED MANUALLY)
 • Any unit made up entirely of models with the Infantry Unit Type may be given the Fear (1) special rule for a cost of +25 points per unit.
 • All units that include one or more models with the Tercio special rule gain the Counter-attack (1) special rule while ‘In Formation’.
-• All models with the Infantry Unit Type from a Detachment using this Cohort Doctrine gain a bonus of +1 to their Weapon Skill, to a maximum of 5, for the duration of any player turn in which they make a Successful Charge.
-• Any model in a Detachment using this Cohort Doctrine may replace a Bayonet with a Chain Bayonet for +1 point per model.
-• Any model with the Character Unit Sub-type in a Detachment using this Cohort Doctrine may exchange a Close Combat Weapon for a Chain Axe for +2 points per model.
+• All models with the Infantry Unit Type from a Detachment using this Cohort Doctrine gain a bonus of +1 to their Weapon Skill, to a maximum of 5, for the duration of any player turn in which they make a Successful Charge.
+• Any model in a Detachment using this Cohort Doctrine may replace a Bayonet with a Chain Bayonet for +1 point per model.
+• Any model with the Character Unit Sub-type in a Detachment using this Cohort Doctrine may exchange a Close Combat Weapon for a Chain Axe for +2 points per model.
 
 Limitations
 • All units in a Detachment using this Cohort Doctrine that begin the controlling player’s Assault phase with an enemy unit that is a valid target for a Charge must declare a Charge. If more than one enemy unit is a valid target, the controlling player chooses which enemy unit is the target of the Charge.
@@ -11599,13 +11599,13 @@ Limitations
           <rules>
             <rule id="bf71-d394-4968-20e3" name="Siege Pattern Cohorts" publicationId="9fab-fea7-a93c-2074" page="146" hidden="false">
               <description>Effects (THIS MUST BE CHECKED MANUALLY)
-• A Detachment using this Cohort Doctrine may select Auxilia Artillery Tercios and Solar Auxilia Armoured Batteries as both Elites and Heavy Support choices. In addition, they may select Solar Auxilia Artillery Battery squads as both Heavy Support and Fortification choices.
+• A Detachment using this Cohort Doctrine may select Auxilia Artillery Tercios and Solar Auxilia Armoured Batteries as both Elites and Heavy Support choices. In addition, they may select Solar Auxilia Artillery Battery squads as both Heavy Support and Fortification choices.
 • When a model from a Detachment using this Cohort Doctrine makes a Shooting Attack with any weapon with the Barrage and/or Blast special rules, the controlling player may choose to re-roll the Scatter dice (but not any D6 rolled to determine the distance of any scatter).
-• Any unit eligible to purchase a Dedicated Transport may instead elect to purchase a Defence Line without occupying a Fortification Force Organisation slot, but the cost in points must be counted towards the army total as usual.
-• When a model from a Detachment using this Cohort Doctrine makes a Shooting Attack with any weapon with the Barrage Special Rule, if the enemy unit they are targeting is in Line of Sight of a friendly model equipped with a Command Vox then it should be counted as firing directly at that enemy unit, even if it is outside of Line of Sight of the firing model.
+• Any unit eligible to purchase a Dedicated Transport may instead elect to purchase a Defence Line without occupying a Fortification Force Organisation slot, but the cost in points must be counted towards the army total as usual.
+• When a model from a Detachment using this Cohort Doctrine makes a Shooting Attack with any weapon with the Barrage Special Rule, if the enemy unit they are targeting is in Line of Sight of a friendly model equipped with a Command Vox then it should be counted as firing directly at that enemy unit, even if it is outside of Line of Sight of the firing model.
 
 Limitations (THIS MUST BE CHECKED MANUALLY)
-• All units in a Detachment using this Cohort Doctrine with the option to select a Dedicated Transport must select that option, or have purchased a Defence Line, at the normal cost in points – If a Dedicated Transport was purchased for a unit, it does not have to start the battle Embarked on that Dedicated Transport.
+• All units in a Detachment using this Cohort Doctrine with the option to select a Dedicated Transport must select that option, or have purchased a Defence Line, at the normal cost in points – If a Dedicated Transport was purchased for a unit, it does not have to start the battle Embarked on that Dedicated Transport.
 • A Detachment using this Cohort Doctrine may only be selected for an
 army’s Primary Detachment.</description>
             </rule>
@@ -11663,7 +11663,7 @@ Limitations
       <description>A Solar Auxilia Rapier Battery must have one Auxilia Gunner per Rapier Carrier in order for all Rapier Carriers to make Shooting Attacks in the Shooting phase. If, at the start of any of the controlling player’s Shooting phases, the Solar Auxilia Rapier Battery contains fewer Auxilia Gunners than Rapier Carriers, then only a number of Rapier Carriers equal to the number of  Auxilia Gunners may make Shooting Attacks in that Shooting phase. In addition, as long as there are at least as many Auxilia Gunners in the unit as there are Rapier Carriers, then the unit cannot be Pinned, automatically passing any Pinning tests it is called upon to take without any dice being rolled (this benefit is lost immediately once the number of Auxilia Gunners is reduced to less than the number of Rapier Carriers in the unit).</description>
     </rule>
     <rule id="a217-f49a-7a73-981d" name="Demolition Vehicle" publicationId="15a4-fc68-502d-48a9" page="131" hidden="false">
-      <description>A model with this Special Rule may declare and make charge moves, even if it would normally be prevented from doing so by any Unit Types or Sub-types. When a model with this Special Rule is in combat, at Initiative step 10 it inflicts one automatic hit using the profile below on any one enemy model it is in base contact with (chosen by the player that controls the model with this Special Rule). Once this Hit is resolved, the model with this special rule is automatically removed as a casualty (the removal of this model does not add any Wounds to the total used to determine which side has won the Assault).
+      <description>A model with this Special Rule may declare and make charge moves, even if it would normally be prevented from doing so by any Unit Types or Sub-types. When a model with this Special Rule is in combat, at Initiative step 10 it inflicts one automatic hit using the profile below on any one enemy model it is in base contact with (chosen by the player that controls the model with this Special Rule). Once this Hit is resolved, the model with this special rule is automatically removed as a casualty (the removal of this model does not add any Wounds to the total used to determine which side has won the Assault).
 
 Weapon Range Str AP Type
 Demo charge - 10 1 Melee, Armourbane (Melee), Instant Death, Brutal (2)</description>

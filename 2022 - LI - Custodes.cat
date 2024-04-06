@@ -456,7 +456,7 @@
           </profiles>
           <rules>
             <rule id="e88c-465d-fc13-d71d" name="Tribune of the Golden Legion" hidden="false">
-              <description>A model with this Special Rule may only be included in the Primary Detachment of an army with a total value of at least 2,000 points. Furthermore, unless Constantin Valdor is also part of the same army, a model with this Special Rule must be chosen as the army’s Warlord.</description>
+              <description>A model with this Special Rule may only be included in the Primary Detachment of an army with a total value of at least 2,000 points. Furthermore, unless Constantin Valdor is also part of the same army, a model with this Special Rule must be chosen as the army’s Warlord.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -2311,7 +2311,7 @@
       <profiles>
         <profile id="09e1-791e-2a1c-d2c8" name="Praesidium Shield" publicationId="15a4-fc68-502d-48a9" page="156" hidden="false" typeId="2a1f-7837-f0ef-be44" typeName="Wargear Item">
           <characteristics>
-            <characteristic name="Description" typeId="347e-ee4a-764f-6be3">A model with a Praesidium Shield adds +1 to its Invulnerable Save (to a maximum of 3+) or an Invulnerable Save of 6+ if they do not already possess one. In addition, a model with a Praesidium Shield cannot claim bonus attacks for having more than one melee weapon, or make attacks during the Assault phase using a weapon with the Two-Handed Special Rule.</characteristic>
+            <characteristic name="Description" typeId="347e-ee4a-764f-6be3">A model with a Praesidium Shield adds +1 to its Invulnerable Save (to a maximum of 3+) or an Invulnerable Save of 6+ if they do not already possess one. In addition, a model with a Praesidium Shield cannot claim bonus attacks for having more than one melee weapon, or make attacks during the Assault phase using a weapon with the Two-Handed Special Rule.</characteristic>
           </characteristics>
         </profile>
       </profiles>

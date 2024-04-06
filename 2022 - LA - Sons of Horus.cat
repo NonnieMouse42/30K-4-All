@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="db61-af86-a1bc-6c06" name="LA -  XVI: Sons of Horus" revision="2036" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" xmlns="http://www.battlescribe.net/schema/catalogueSchema" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="db61-af86-a1bc-6c06" name="LA -  XVI: Sons of Horus" revision="2036" battleScribeVersion="2.03" library="false" gameSystemId="66e4-4610-1d0e-3c25" gameSystemRevision="2001" type="catalogue">
   <entryLinks>
     <entryLink id="c2a2-9b6d-b384-3f43" name="XVI: Sons of Horus" hidden="false" collective="false" import="false" targetId="01b4-57c7-bf61-2abf" type="selectionEntry">
       <modifiers>
@@ -4676,7 +4676,7 @@
       </constraints>
       <rules>
         <rule id="cc22-87b0-6a3b-bbb6" name="Born Survivor" hidden="false" publicationId="9fab-fea7-a93c-2074" page="130">
-          <description>The first time in any battle when a model with this Special Rule is reduced to 0 Wounds for any reason or otherwise removed from play as a casualty, the Controlling Player must immediately make a Leadership test for that model. If the Test is failed then the model is removed as a casualty as normal, but if the Test is passed then the model is not removed as a casualty, but instead remains in play and regains D3 Wounds.</description>
+          <description>The first time in any battle when a model with this Special Rule is reduced to 0 Wounds for any reason or otherwise removed from play as a casualty, the Controlling Player must immediately make a Leadership test for that model. If the Test is failed then the model is removed as a casualty as normal, but if the Test is passed then the model is not removed as a casualty, but instead remains in play and regains D3 Wounds.</description>
         </rule>
       </rules>
       <infoLinks>

@@ -4395,7 +4395,7 @@
           <profiles>
             <profile id="af9f-4a39-2626-23a4" name="Keeper of the Keys" hidden="false" typeId="a0e6-a7b4-d55d-85b8" typeName="Warlord Trait">
               <characteristics>
-                <characteristic name="Text" typeId="c68e-2cda-b67b-baca">Any model with the Dreadnought Unit Type and the Legiones Astartes (Salamanders) special rule in the same detachment as a Warlord with this Trait may add +2&quot; to their Charge Distance. In addition, an army whose Warlord has this Trait may make an additional Reaction during the opposing player’s Shooting phase as long as the Warlord has not been removed as a casualty.</characteristic>
+                <characteristic name="Text" typeId="c68e-2cda-b67b-baca">Any model with the Dreadnought Unit Type and the Legiones Astartes (Salamanders) special rule in the same detachment as a Warlord with this Trait may add +2&quot; to their Charge Distance. In addition, an army whose Warlord has this Trait may make an additional Reaction during the opposing player’s Shooting phase as long as the Warlord has not been removed as a casualty.</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -5905,7 +5905,7 @@
   </catalogueLinks>
   <sharedRules>
     <rule name="Flame in the Darkness" hidden="false" id="753e-43cd-f3a0-f58d" publicationId="9fab-fea7-a93c-2074" page="135">
-      <description>In addition, all models in a unit joined by Nomus Rhy’tan gain the Stubborn and Hatred (Everything) Special Rules.</description>
+      <description>In addition, all models in a unit joined by Nomus Rhy’tan gain the Stubborn and Hatred (Everything) Special Rules.</description>
     </rule>
   </sharedRules>
 </catalogue>
