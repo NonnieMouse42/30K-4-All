@@ -770,9 +770,13 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
         </infoLink>
         <infoLink name="Command Node" hidden="false" type="rule" targetId="177f-965b-4b5d-bcd1" id="a68c-6a4f-4bbd-b85e"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Independent Character
-Could not find rule: Command Protocols (Skitarius)</comment>
+      <comment>
+</comment>
+      <rules>
+        <rule name="Command Protocols (Skitarius)" hidden="false" id="975a-f8cd-9f13-b4ae" publicationId="89c5-118c-61fb-e6d8" page="90">
+          <description>Once per game, at the start of the Controlling Player’s Shooting phase, you may nominate one unit with the Skitarii Sub-type unit within 12” of this model. This unit can re-roll failed to Hit rolls of 1 during that Shooting Phase.</description>
+        </rule>
+      </rules>
     </selectionEntry>
     <selectionEntry name="Sicarian Clademaster" type="unit" id="0e52-17c2-4d08-9b49" page="11" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -2294,14 +2298,51 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="The Kill-Clade must select one of the following upgrades:" id="c3c9-cc9f-46de-86c5">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Stealth Suite Modules
-	 Checked under Stealth Suite Modules
-Could not find wargear Aggression Stim-Injectors
-	 Checked under Aggression Stim-Injectors</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="540b-2c00-43ae-9462"/>
           </constraints>
+          <selectionEntries>
+            <selectionEntry type="upgrade" import="true" name="Stealth Suite Modules" hidden="false" id="cc32-e651-fdd0-feaf">
+              <profiles>
+                <profile name="Stealth Suite Module" hidden="false" id="b6b0-7bb8-bdc-d82c" typeId="2a1f-7837-f0ef-be44" typeName="Wargear Item">
+                  <characteristics>
+                    <characteristic name="Description" typeId="347e-ee4a-764f-6be3">A model equipped with a Stealth Suite Module gains the Infiltrate, Scout, Pathfinder, and Shrouded (5+) Special Rules.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink name="Infiltrate" hidden="false" id="e371-725d-26ad-4ed9" type="rule" targetId="0e32-5b92-a95a-8464"/>
+                <infoLink name="Scout" hidden="false" id="5281-f512-4aac-6076" type="rule" targetId="aacf-9a7e-982d-b793"/>
+                <infoLink name="Pathfinder" hidden="false" id="f5b1-1c53-cff5-9525" type="rule" targetId="ec97-7aa8-49f5-b298"/>
+                <infoLink name="Shrouded (X)" hidden="false" id="fe88-e339-3500-b5b3" type="rule" targetId="10c3-fdb0-089f-ca65">
+                  <modifiers>
+                    <modifier type="set" value="Shrouded (5+)" field="name"/>
+                  </modifiers>
+                </infoLink>
+              </infoLinks>
+            </selectionEntry>
+            <selectionEntry type="upgrade" import="true" name="Aggression Stim-Injectors" hidden="false" id="d2ba-ed16-61f6-abfc">
+              <profiles>
+                <profile name="Aggression Stim-Injectors" hidden="false" id="64ad-3dcc-f461-faa9" typeId="2a1f-7837-f0ef-be44" typeName="Wargear Item">
+                  <characteristics>
+                    <characteristic name="Description" typeId="347e-ee4a-764f-6be3">A model equipped with Aggression Stim-Injectors gains the Furious Charge (1), and Rage (2) Special Rules.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink name="Furious Charge (X)" hidden="false" id="fb00-da15-b34a-8576" type="rule" targetId="2821-9269-862f-0554">
+                  <modifiers>
+                    <modifier type="set" value="Furious Charge (1)" field="name"/>
+                  </modifiers>
+                </infoLink>
+                <infoLink name="Rage (X)" hidden="false" id="328a-9653-26c6-1594" type="rule" targetId="564d-3550-ae44-2f99">
+                  <modifiers>
+                    <modifier type="set" value="Rage (2)" field="name"/>
+                  </modifiers>
+                </infoLink>
+              </infoLinks>
+            </selectionEntry>
+          </selectionEntries>
         </selectionEntryGroup>
         <selectionEntryGroup name="One Sicarian Stalker may take a:" id="fdb7-75ad-4b71-bef0">
           <entryLinks>
@@ -2331,8 +2372,6 @@ Could not find wargear Aggression Stim-Injectors
         </selectionEntryGroup>
       </selectionEntryGroups>
       <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Kill-Clade must select one of the following upgrades:
-Could not find wargear in The Kill-Clade must select one of the following upgrades:
 Taser Goad is in two option lists for Sicarian Stalker, you will need to combine them by hand.
 Stubcarbine is in two option lists for Sicarian Stalker, you will need to combine them by hand.
 Taser Goad is in two option lists for Sicarian Alpha, you will need to combine them by hand.
@@ -3343,7 +3382,6 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="89ac-61fc-4102-ad38"/>
             <constraint type="max" value="19" field="selections" scope="parent" shared="true" id="89d4-f46c-49b7-8d24"/>
           </constraints>
-          <categoryLinks/>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Frag Grenades&apos;</comment>
         </selectionEntry>
@@ -3418,7 +3456,6 @@ Could not find type or subtype &apos;Frag Grenades&apos;</comment>
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <categoryLinks/>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Frag Grenades&apos;</comment>
         </selectionEntry>
@@ -3508,7 +3545,6 @@ The option &apos;Irad-Cleanser&apos; may need a &apos;multiply by number of mode
 The option &apos;Plasma Caliver&apos; may need a &apos;multiply by number of models&apos; modifier
 The option &apos;Arc Rifle&apos; may need a &apos;multiply by number of models&apos; modifier
 The option &apos;Arcana Potentis&apos; may need a &apos;multiply by number of models&apos; modifier</comment>
-      <infoLinks/>
     </selectionEntry>
     <selectionEntry name="Electro-Priest Conclave" type="unit" id="2048-5044-4f8a-92aa" page="35" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -4365,7 +4401,6 @@ Could not find wargear Power Sword and Phosphor Serpenta
           </selectionEntryGroups>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any model in the unit may exchange their Two Phosphor Serpentas for one of the following:</comment>
-          <categoryLinks/>
         </selectionEntry>
         <selectionEntry type="model" name="Tormentor Alpha" id="f7f7-4fc8-4f70-9734" page="44" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -5869,6 +5904,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="2107-c372-43e8-90bc" id="ff40-487b-4238-bdad" name="Skitarii" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="1951-584e-41da-a7e1" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -6938,4 +6976,15 @@ Could not find wargear Hull (Front) Mounted Macro Gatling Blaster
       </infoLinks>
     </selectionEntry>
   </sharedSelectionEntries>
+  <catalogueLinks>
+    <catalogueLink type="catalogue" name="Mech Library" id="85e0-de8a-e5c-2b32" targetId="7265-8b7a-50ae-51ec"/>
+    <catalogueLink type="catalogue" name="Mechanicum" id="a2ec-18a7-81b1-4197" targetId="eb19-d768-b767-c84b"/>
+    <catalogueLink type="catalogue" name="Panoptica Library" id="76db-115b-8237-5f9b" targetId="69b7-3f60-9f7f-8ce5"/>
+  </catalogueLinks>
+  <entryLinks>
+    <entryLink import="true" name="Skitarii Centurius" hidden="false" id="2868-a966-b61b-2f13" targetId="3283-a0b5-40b2-b42b" type="selectionEntry"/>
+    <entryLink import="true" name="Skitarii Ranger Cohort" hidden="false" id="3db9-de2d-28b3-b508" targetId="5d5e-9998-45ab-a2b1" type="selectionEntry"/>
+    <entryLink import="true" name="Sicarian Kill-Clade" hidden="false" id="84a3-99fa-d6c1-52ab" targetId="018f-666c-4720-a52c" type="selectionEntry"/>
+    <entryLink import="true" name="Ironstrider Ballistarii" hidden="false" id="a7d7-c991-84a1-5a34" targetId="cca2-87b6-4284-9887" type="selectionEntry"/>
+  </entryLinks>
 </catalogue>

@@ -549,10 +549,6 @@ If the Archmagos Prime has selected the Reductor High Order of Techno-Arcana, yo
     <rule name="Command Node" id="177f-965b-4b5d-bcd1" page="90" publicationId="89c5-118c-61fb-e6d8">
       <description>A friendly unit with the Skitarii Sub-type wholly within 12&quot; of a model with this Special Rule may use its unmodified Leadership Characteristic for any Morale or Pinning tests they are required to make.</description>
     </rule>
-    <rule name="Command Protocols" id="a2d4-3fb0-4ee0-b272" page="90" publicationId="89c5-118c-61fb-e6d8">
-      <description>Wherever this Special Rule is present, it will include a qualifier after the rule in brackets, for example Command Protocols (Skitarius).
-These variants are described below:</description>
-    </rule>
     <rule name="Kill-Clade" id="563a-8793-4ca0-8ae0" page="90" publicationId="89c5-118c-61fb-e6d8">
       <description>In addition, if a model with this Special Rule is your Warlord, all Sicarian Kill-Clades in the same Detachment gain the Line Sub- type for as long as they have not been removed as a casualty.</description>
     </rule>
@@ -626,13 +622,13 @@ The Repulsor Grid cannot be activated by any weapon which does not roll to Hit.<
     </rule>
   </sharedRules>
   <sharedSelectionEntries>
-    <selectionEntry name=" Adrastus Bolt Caliver - Bolt Volley" type="upgrade" id="8c95-14de-426e-a476">
+    <selectionEntry name="Adrastus Bolt Caliver - Bolt Volley" type="upgrade" id="8c95-14de-426e-a476">
       <infoLinks>
         <infoLink name="Shred" hidden="false" type="rule" targetId="5e7e-1628-8174-6f2c" id="04e1-bd0f-416b-9daa"/>
         <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="75cc-8b67-40a7-a54e"/>
       </infoLinks>
       <profiles>
-        <profile name=" Adrastus Bolt Caliver - Bolt Volley" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="f0aa-0e1f-4e5f-82cb" page="171" publicationId="9fab-fea7-a93c-2074">
+        <profile name="Adrastus Bolt Caliver - Bolt Volley" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="f0aa-0e1f-4e5f-82cb" page="171" publicationId="9fab-fea7-a93c-2074">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">36&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">5</characteristic>
@@ -3076,7 +3072,6 @@ Could not find rule: Monofilament</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Spinneret Rifle" type="upgrade" id="db81-5700-42d7-8ec5">
-      <infoLinks/>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Monofilament</comment>
       <profiles>
@@ -3428,7 +3423,6 @@ Could not find rule: Sonic Pulse</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Singing Spear (Ranged)" type="upgrade" id="8247-ab23-4115-bdee">
-      <infoLinks/>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Soul Tear</comment>
       <profiles>
@@ -4782,7 +4776,7 @@ Could not find rule: One Use</comment>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">Blast</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">12&quot;</characteristic>
             <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">6</characteristic>
-            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type"> -   Assault 8, Ignores Cover,     Concussive (2), One Use</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">-   Assault 8, Ignores Cover,     Concussive (2), One Use</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -5347,7 +5341,6 @@ Could not find rule: Tremor</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Fallout Discharger" type="upgrade" id="f6d5-0088-4a7d-bb8c">
-      <infoLinks/>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Debilitating</comment>
       <profiles>
@@ -6783,7 +6776,7 @@ Could not find rule: Gravitic Implosion*</comment>
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry name=" Balistus Grenade Launcher - Frag" type="upgrade" id="fe56-072b-45d4-92f0">
+    <selectionEntry name="Balistus Grenade Launcher - Frag" type="upgrade" id="fe56-072b-45d4-92f0">
       <infoLinks>
         <infoLink name="Blast" hidden="false" type="rule" targetId="1d9a-73ef-5f4f-8bd8" id="d537-5b2e-4a21-91f2">
           <modifiers>
@@ -6798,7 +6791,7 @@ Could not find rule: Gravitic Implosion*</comment>
         </infoLink>
       </infoLinks>
       <profiles>
-        <profile name=" Balistus Grenade Launcher - Frag" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c830-c12d-48f7-955b" page="296" publicationId="f505-5fc8-ee53-1cec">
+        <profile name="Balistus Grenade Launcher - Frag" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c830-c12d-48f7-955b" page="296" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">18&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">3</characteristic>
@@ -6808,7 +6801,7 @@ Could not find rule: Gravitic Implosion*</comment>
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry name=" Balistus Grenade Launcher - Krak" type="upgrade" id="628f-04bd-4257-a1ab">
+    <selectionEntry name="Balistus Grenade Launcher - Krak" type="upgrade" id="628f-04bd-4257-a1ab">
       <infoLinks>
         <infoLink name="Concussive (X)" hidden="false" type="rule" targetId="7ce5-1bfb-64e6-f826" id="db5b-d34a-4fd1-b5bb">
           <modifiers>
@@ -6817,7 +6810,7 @@ Could not find rule: Gravitic Implosion*</comment>
         </infoLink>
       </infoLinks>
       <profiles>
-        <profile name=" Balistus Grenade Launcher - Krak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e16a-007c-4b7e-903d" page="296" publicationId="f505-5fc8-ee53-1cec">
+        <profile name="Balistus Grenade Launcher - Krak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e16a-007c-4b7e-903d" page="296" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">18&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">6</characteristic>
@@ -6827,7 +6820,7 @@ Could not find rule: Gravitic Implosion*</comment>
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry name=" Balistus Grenade Launcher - Tanglefoot" type="upgrade" id="98a3-d8b6-4cc0-b574">
+    <selectionEntry name="Balistus Grenade Launcher - Tanglefoot" type="upgrade" id="98a3-d8b6-4cc0-b574">
       <infoLinks>
         <infoLink name="Entangle (X)" hidden="false" type="rule" targetId="4a92-bb9b-613a-accb" id="6d95-5b54-4569-81f3">
           <modifiers>
@@ -6836,7 +6829,7 @@ Could not find rule: Gravitic Implosion*</comment>
         </infoLink>
       </infoLinks>
       <profiles>
-        <profile name=" Balistus Grenade Launcher - Tanglefoot" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="5785-92d6-40ed-8cb4" page="296" publicationId="f505-5fc8-ee53-1cec">
+        <profile name="Balistus Grenade Launcher - Tanglefoot" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="5785-92d6-40ed-8cb4" page="296" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">18&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">4</characteristic>
@@ -7108,7 +7101,6 @@ Could not find rule: Gravitic Implosion*</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Lasgun Arrays" type="upgrade" id="fa2d-f03c-4906-b40e">
-      <infoLinks/>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Array Fire (3)</comment>
       <profiles>
@@ -7236,7 +7228,7 @@ Could not find rule: Array Fire (3)</comment>
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry name=" Cyclone Missile Launcher - Frag" type="upgrade" id="c290-1fd7-4e6f-a00a">
+    <selectionEntry name="Cyclone Missile Launcher - Frag" type="upgrade" id="c290-1fd7-4e6f-a00a">
       <infoLinks>
         <infoLink name="Blast" hidden="false" type="rule" targetId="1d9a-73ef-5f4f-8bd8" id="3ae4-ef4f-4b32-8348">
           <modifiers>
@@ -7246,7 +7238,7 @@ Could not find rule: Array Fire (3)</comment>
         <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="17df-6313-4a2d-a032"/>
       </infoLinks>
       <profiles>
-        <profile name=" Cyclone Missile Launcher - Frag" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="b78c-e7fa-4593-9ad1" page="298" publicationId="f505-5fc8-ee53-1cec">
+        <profile name="Cyclone Missile Launcher - Frag" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="b78c-e7fa-4593-9ad1" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">48&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">4</characteristic>
@@ -7256,7 +7248,7 @@ Could not find rule: Array Fire (3)</comment>
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry name=" Cyclone Missile Launcher - Krak" type="upgrade" id="5793-456f-4f58-ba03">
+    <selectionEntry name="Cyclone Missile Launcher - Krak" type="upgrade" id="5793-456f-4f58-ba03">
       <infoLinks>
         <infoLink name="Twin-linked" hidden="false" type="rule" targetId="8542-ee9d-e2fa-52fe" id="d232-1e1d-4669-a1ce">
           <modifiers>
@@ -7265,7 +7257,7 @@ Could not find rule: Array Fire (3)</comment>
         </infoLink>
       </infoLinks>
       <profiles>
-        <profile name=" Cyclone Missile Launcher - Krak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e691-ef54-4739-b700" page="298" publicationId="f505-5fc8-ee53-1cec">
+        <profile name="Cyclone Missile Launcher - Krak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e691-ef54-4739-b700" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">48&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">8</characteristic>
@@ -7275,7 +7267,7 @@ Could not find rule: Array Fire (3)</comment>
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry name=" Cyclone Missile Launcher - Flak" type="upgrade" id="981d-dfaf-452a-98dc">
+    <selectionEntry name="Cyclone Missile Launcher - Flak" type="upgrade" id="981d-dfaf-452a-98dc">
       <infoLinks>
         <infoLink name="Skyfire" hidden="false" type="rule" targetId="f2bf-5daa-9f93-0b01" id="22c0-e210-4f4a-a5d8"/>
         <infoLink name="Twin-linked" hidden="false" type="rule" targetId="8542-ee9d-e2fa-52fe" id="4e69-977e-4191-ac5c">
@@ -7285,7 +7277,7 @@ Could not find rule: Array Fire (3)</comment>
         </infoLink>
       </infoLinks>
       <profiles>
-        <profile name=" Cyclone Missile Launcher - Flak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="584c-9e21-4097-bf3c" page="298" publicationId="f505-5fc8-ee53-1cec">
+        <profile name="Cyclone Missile Launcher - Flak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="584c-9e21-4097-bf3c" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">48&quot;</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">7</characteristic>
@@ -7325,7 +7317,7 @@ Could not find rule: Shieldbreaker</comment>
       </infoLinks>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Apocalyptic Blast (10&quot;)
-Could not find rule: </comment>
+Could not find rule:</comment>
       <profiles>
         <profile name="Deathstrike Missile - Plasma Warhead P" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="f40d-9cb5-4231-b3f8" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7338,12 +7330,11 @@ Could not find rule: </comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Deathstrike Missile - Tactical Nuclear Warhead S" type="upgrade" id="916a-b16e-45d2-9db5">
-      <infoLinks/>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Apocalyptic Mega-Blast
 Could not find rule: Eye of the Storm
 Could not find rule: Impact Flash
-Could not find rule: </comment>
+Could not find rule:</comment>
       <profiles>
         <profile name="Deathstrike Missile - Tactical Nuclear Warhead S" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="528f-99bc-40a6-891b" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7370,7 +7361,7 @@ Could not find rule: </comment>
         </infoLink>
       </infoLinks>
       <comment>!BSC Errors from 20240406-1603
-Could not find rule: </comment>
+Could not find rule:</comment>
       <profiles>
         <profile name="Deathstrike Missile - Vortex Warhead I" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c741-c089-417a-b9d3" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -9223,7 +9214,6 @@ Vratine Voidplate confers a 2+ Armour Save. In addition, a unit that includes an
       </profiles>
     </selectionEntry>
     <selectionEntry name="Auto-Repeater Carbine" type="upgrade" id="1749-9225-4d8b-a32a">
-      <infoLinks/>
       <comment>!BSC Errors from 20240406-1603
 Could not find rule: Auxiliary Gunners</comment>
       <profiles>
