@@ -64,20 +64,14 @@
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Ambulator Frame
-	 Checked under Ambulator Frame
-Could not find wargear Psi-Jammer
-	 Checked under Psi-Jammer
-Could not find wargear in Ireton MaSade may be equipped with:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Ireton MaSade may be equipped with:" id="512c-bd1d-407e-8c78">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Extremis Warsuit*
-	 Checked under Extremis Warsuit</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8467-2cf6-43f9-8836"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Extremis Warsuit*
+	 Checked under Extremis Warsuit</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -85,6 +79,15 @@ Could not find wargear Extremis Warsuit*
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="fa54-7cd0-4ba4-b5ef" name="Character" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="54b0-ad04-4d07-864b" name="Unique" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Ambulator Frame
+	 Checked under Ambulator Frame
+Could not find wargear Psi-Jammer
+	 Checked under Psi-Jammer
+Could not find wargear in Ireton MaSade may be equipped with:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Ireton MaSade Mechanised" id="5d63-dbc1-4c89-bea4" page="130" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -137,11 +140,6 @@ Could not find wargear Extremis Warsuit*
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Ambulator Frame
-	 Checked under Ambulator Frame
-Could not find wargear Psi-Jammer
-	 Checked under Psi-Jammer</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f562-bcbe-43b5-9cbf" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="9cf4-1c65-4497-bfc1" name="Character" primary="false"/>
@@ -149,6 +147,14 @@ Could not find wargear Psi-Jammer
             <categoryLink targetId="bff2-ae16-74a8-8712" id="c963-dedb-4111-a914" name="Light" primary="false"/>
             <categoryLink targetId="ad48-f7f6-413d-afeb" id="0f22-7133-42d6-97df" name="Mechanised" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Ambulator Frame
+	 Checked under Ambulator Frame
+Could not find wargear Psi-Jammer
+	 Checked under Psi-Jammer</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -328,21 +334,24 @@ Could not find rule: Warlord: Master of the Battlefield</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="36f2-61f6-4087-8165"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in An Auxilia Battle Psyker may select any of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="43f6-da9f-45d6-bba4" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5aeb-ee12-44b0-9793" name="Character" primary="false"/>
             <categoryLink targetId="6e0c-29ba-a445-8321" id="7ad3-6090-4296-8e9d" name="Psyker" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in An Auxilia Battle Psyker may select any of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -384,11 +393,6 @@ Could not find rule: Independent Character</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2268-a058-4a75-8e3e"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="cea2-9ddc-4c06-bee3"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Dreadnought Power Gloves with in-built Twin-Linked Bolters
-	 Checked under Dreadnought Power Gloves with in-built Twin-Linked Bolter
-Could not find wargear in Any Furibundus Dreadnought may replace either of its Dreadnought Power Gloves with in-built Twin-Linked Bolters for one of the following options:
-Could not find type or subtype &apos;Dreadnought&apos;</comment>
           <entryLinks>
             <entryLink name="Atomantic Deflector" hidden="false" type="selectionEntry" targetId="38fb-9a0b-edef-a497" id="2dd1-80f0-4105-bb88">
               <constraints>
@@ -480,12 +484,12 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Missile Launcher (with Frag and Krak Missiles)
-	 Checked under Gravis Missile Launcher (with Frag and Krak Missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5053-cfbc-4f6d-89c2"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Missile Launcher (with Frag and Krak Missiles)
+	 Checked under Gravis Missile Launcher (with Frag and Krak Missiles)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Furibundus Dreadnought may replace an in-built Twin-Linked Bolter on a Dreadnought Power Glove for one of the following options:" id="f8d9-9078-44e2-8952">
               <entryLinks>
@@ -527,6 +531,14 @@ Could not find wargear Gravis Missile Launcher (with Frag and Krak Missiles)
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Dreadnought Power Gloves with in-built Twin-Linked Bolters
+	 Checked under Dreadnought Power Gloves with in-built Twin-Linked Bolter
+Could not find wargear in Any Furibundus Dreadnought may replace either of its Dreadnought Power Gloves with in-built Twin-Linked Bolters for one of the following options:
+Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -570,16 +582,6 @@ Could not find wargear Gravis Missile Launcher (with Frag and Krak Missiles)
             <constraint type="min" value="10" field="selections" scope="parent" shared="true" id="e295-236a-412c-818a"/>
             <constraint type="max" value="20" field="selections" scope="parent" shared="true" id="9b7f-f069-4609-afca"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Mutated Appendage (Greater Possessed Auxilia Only)
-	 Checked under Mutated Appendage (Greater Possessed Auxilia Only)
-Could not find wargear in For every five models in the unit, one Possessed Auxilia may be upgraded to a:
-Could not find wargear in Any Possessed Auxilia may exchange their Lasrifle for one of the following options:
-Could not find wargear in Any Possessed Auxilia may exchange their Lasrifle for one of the following options:
-Could not find wargear in Any Possessed Auxilia may exchange their Lasrifle for one of the following options:
-Could not find wargear in For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:
-Could not find wargear in For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:
-Could not find wargear in For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:</comment>
           <entryLinks>
             <entryLink name="Frag Grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="4e70-8e16-4314-855c">
               <constraints>
@@ -602,12 +604,12 @@ Could not find wargear in For every five models in the unit, one Possessed Auxil
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="For every five models in the unit, one Possessed Auxilia may be upgraded to a:" id="1c5a-5f2e-4ab1-a1bc">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Greater Possessed Auxilia
-	 Checked under Greater Possessed Auxilia</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="db6d-a65e-47de-a294"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Greater Possessed Auxilia
+	 Checked under Greater Possessed Auxilia</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Possessed Auxilia with a Lasrifle may take:" id="9b55-0fb8-4d92-ad17">
               <entryLinks>
@@ -661,6 +663,9 @@ Could not find wargear Greater Possessed Auxilia
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="da7d-a251-49f7-83db"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Laspistol and Close Combat Weapon
 	 Checked under Laspistol and Close Combat Weapon
@@ -668,18 +673,8 @@ Could not find wargear Chainsword and Laspistol
 	 Checked under Chainsword and Laspistol
 Could not find wargear Mutated Appendage
 	 Checked under Mutated Appendage</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="da7d-a251-49f7-83db"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:" id="97ba-adf6-4fb4-acde">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Power Weapon and Laspistol
-	 Checked under Power Weapon and Laspistol
-Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
-	 Checked under Grenade Launcher (with Frag and Krak Rounds)
-Could not find wargear Power Fist and Laspistol
-	 Checked under Power Fist and Laspistol</comment>
               <entryLinks>
                 <entryLink name="Flamer" hidden="false" type="selectionEntry" targetId="f0d1-c88b-4f7a-a4ae" id="ae19-5b6b-4e6b-b695">
                   <costs>
@@ -693,6 +688,13 @@ Could not find wargear Power Fist and Laspistol
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dd0a-94c3-4506-96b2"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Power Weapon and Laspistol
+	 Checked under Power Weapon and Laspistol
+Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
+	 Checked under Grenade Launcher (with Frag and Krak Rounds)
+Could not find wargear Power Fist and Laspistol
+	 Checked under Power Fist and Laspistol</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="For every five models in the unit, one Possessed Auxilia may exchange a Laspistol with one of the following options:" id="3cc3-066b-496e-a9e8">
               <entryLinks>
@@ -738,6 +740,19 @@ Could not find wargear Power Fist and Laspistol
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="9ed5-5fb9-40a1-a850" name="Infantry" primary="false"/>
             <categoryLink targetId="e69c-24ba-4ef9-8679" id="44ef-0306-49ac-a8bc" name="Corrupted" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="11"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Mutated Appendage (Greater Possessed Auxilia Only)
+	 Checked under Mutated Appendage (Greater Possessed Auxilia Only)
+Could not find wargear in For every five models in the unit, one Possessed Auxilia may be upgraded to a:
+Could not find wargear in Any Possessed Auxilia may exchange their Lasrifle for one of the following options:
+Could not find wargear in Any Possessed Auxilia may exchange their Lasrifle for one of the following options:
+Could not find wargear in Any Possessed Auxilia may exchange their Lasrifle for one of the following options:
+Could not find wargear in For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:
+Could not find wargear in For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:
+Could not find wargear in For every five models in the unit, one Possessed Auxilia may exchange their Lasrifle with one of the following options:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Greater Possessed Auxilia" id="7cf8-b10b-4cee-8a13" page="137" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -758,9 +773,6 @@ Could not find wargear Power Fist and Laspistol
             </profile>
           </profiles>
           <constraints/>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Mutated Appendage (Greater Possessed Auxilia Only)
-	 Checked under Mutated Appendage (Greater Possessed Auxilia Only)</comment>
           <entryLinks>
             <entryLink name="Frag Grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="3ac7-fa0b-4820-99a1">
               <constraints>
@@ -785,6 +797,12 @@ Could not find wargear Mutated Appendage (Greater Possessed Auxilia Only)
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b464-e097-4a00-abc5" name="Infantry" primary="false"/>
             <categoryLink targetId="e69c-24ba-4ef9-8679" id="9f69-553d-459c-8393" name="Corrupted" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Mutated Appendage (Greater Possessed Auxilia Only)
+	 Checked under Mutated Appendage (Greater Possessed Auxilia Only)</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -924,6 +942,9 @@ Lasrifle is in two option lists for Possessed Auxilia, you will need to combine 
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="05e1-5c15-43be-8651"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Heavy Lascutter
 	 Checked under Heavy Lascutter
@@ -931,9 +952,6 @@ Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
 	 Checked under Grenade Launcher (with Frag and Krak Rounds)
 Could not find wargear Missile Launcher (with Frag, Krak, and Flak Missiles)
 	 Checked under Missile Launcher (with Frag, Krak, and Flak Missiles)</comment>
-              <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="05e1-5c15-43be-8651"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model may select one of the following options:" id="cce5-41fc-4d04-9e07">
               <entryLinks>
@@ -946,12 +964,12 @@ Could not find wargear Missile Launcher (with Frag, Krak, and Flak Missiles)
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Servo Arm
-	 Checked under Servo Arm</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3bb9-0908-4692-a5ac"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Servo Arm
+	 Checked under Servo Arm</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model may select any of the following options:" id="2e25-5ef6-47f4-8421">
               <entryLinks>
@@ -977,16 +995,19 @@ Could not find wargear Servo Arm
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model may exchange their Multi-Laser and/or Heavy Lascutter for one of the following options:
-Could not find wargear in Any model may exchange their Multi-Laser and/or Heavy Lascutter for one of the following options:
-Could not find wargear in Any model may exchange their Multi-Laser and/or Heavy Lascutter for one of the following options:
-Could not find wargear in Any model may select one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4671-b9f7-4455-8242" name="Infantry" primary="false"/>
             <categoryLink targetId="ad48-f7f6-413d-afeb" id="de27-10c9-4813-96a1" name="Mechanised" primary="false"/>
             <categoryLink targetId="bff2-ae16-74a8-8712" id="ecb4-590b-4489-84fd" name="Light" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model may exchange their Multi-Laser and/or Heavy Lascutter for one of the following options:
+Could not find wargear in Any model may exchange their Multi-Laser and/or Heavy Lascutter for one of the following options:
+Could not find wargear in Any model may exchange their Multi-Laser and/or Heavy Lascutter for one of the following options:
+Could not find wargear in Any model may select one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -1053,6 +1074,9 @@ Could not find wargear in Any model may select one of the following options:</co
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f1f0-6bc1-4747-a087"/>
           </constraints>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Servo-Automata" id="8b16-63e2-4811-8523" page="139" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1074,6 +1098,9 @@ Could not find wargear in Any model may select one of the following options:</co
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <comment>!BSC Errors from 20240406-1603
@@ -1143,15 +1170,18 @@ Could not find profile for Servo-automata in [&apos;Enginseer Adept&apos;, &apos
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges
-Could not find type or subtype &apos;Close-Order&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3efd-23b7-4675-afa6" name="Infantry" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="a72d-36d9-40d8-9c2a" name="Line" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="f7c2-d5c6-4bf2-af02" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges
+Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Auxilia Breacher Troop Master" id="246f-ea4d-4808-9972" page="144" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1207,16 +1237,19 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges
-Could not find type or subtype &apos;Close-Order&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="aa67-a07d-4d6b-b256" name="Infantry" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="3458-f122-4368-aeaa" name="Line" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="a6ea-f08f-4dfc-9f0a" name="Heavy" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="39fb-ca30-455b-a8bf" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges
+Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1280,11 +1313,6 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges
-Could not find wargear in The Auxilia Breacher Sergeant may select any of the following options:
-Could not find type or subtype &apos;Close-Order&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Auxilia Breacher Sergeant may exchange their Shotgun for the following option:" id="bf33-84d1-43b0-9295">
               <entryLinks>
@@ -1402,12 +1430,12 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Auxilia Breacher Sergeant may select any of the following options:" id="3861-262c-42ea-af74">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f99d-65c2-4ca9-8c2b"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -1415,6 +1443,14 @@ Could not find wargear Melta Bombs
             <categoryLink targetId="6399-5c65-7833-1025" id="f6e4-24c3-41e1-a9a5" name="Line" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="93ae-b101-4339-8c41" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="8"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges
+Could not find wargear in The Auxilia Breacher Sergeant may select any of the following options:
+Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Auxilia Breacher Sergeant" id="d95d-48f7-4a9a-a134" page="146" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1464,11 +1500,6 @@ Could not find wargear Melta Bombs
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges
-Could not find wargear in The Auxilia Breacher Sergeant may select any of the following options:
-Could not find type or subtype &apos;Close-Order&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Auxilia Breacher Sergeant may exchange their Shotgun for the following option:" id="6622-4147-4ad3-9974">
               <entryLinks>
@@ -1586,12 +1617,12 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Auxilia Breacher Sergeant may select any of the following options:" id="6028-27bf-4acb-822d">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="aed8-f7fd-4a38-8a13"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -1600,6 +1631,14 @@ Could not find wargear Melta Bombs
             <categoryLink targetId="9231-183c-b97b-63f9" id="3d3f-8a4e-4f02-922d" name="Heavy" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="de33-5ef6-45cb-9f3a" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges
+Could not find wargear in The Auxilia Breacher Sergeant may select any of the following options:
+Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -1702,6 +1741,9 @@ Shotgun is in two option lists for Auxilia Breacher Sergeant, you will need to c
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8f9d-bc66-4bdc-96a8" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
@@ -1757,6 +1799,9 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7a6d-ebb6-4729-8f5c" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="21cc-5558-4dd7-bdeb" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
@@ -1829,12 +1874,15 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="751a-ad1e-4b4c-9053" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Pioneer Weapons Team" id="2cfb-f63c-4f52-9332" page="150" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1887,12 +1935,15 @@ Could not find wargear Breacher Charges
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8d8a-459c-4a68-b1a1" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Pioneer Sergeant" id="fd42-bccb-4751-bc7c" page="150" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1942,13 +1993,16 @@ Could not find wargear Breacher Charges
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Breacher Charges
-	 Checked under Breacher Charges</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e84c-5b89-4481-81ee" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="9476-4278-4847-a877" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Breacher Charges
+	 Checked under Breacher Charges</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2025,12 +2079,12 @@ Could not find rule: Crew-Served Weapon (Pioneer Weapons Team only)</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Laspistol and Close Combat Weapon
-	 Checked under Laspistol and Close Combat Weapon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8391-05a5-46fd-87e1"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Laspistol and Close Combat Weapon
+	 Checked under Laspistol and Close Combat Weapon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Auxilia Sergeant may exchange a Laspistol for one of the following options:" id="3bdb-da5a-47ab-928c">
               <entryLinks>
@@ -2103,13 +2157,16 @@ Could not find wargear Laspistol and Close Combat Weapon
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Auxilia Sergeant may exchange their Flamer for the following option:
-Could not find type or subtype &apos;Close-Order&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f176-c9f6-4fd0-9268" name="Infantry" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="d134-7d03-495d-be0e" name="Line" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="7"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Auxilia Sergeant may exchange their Flamer for the following option:
+Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Auxilia Sergeant" id="c2f7-ed11-432d-b728" page="152" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -2162,12 +2219,12 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Laspistol and Close Combat Weapon
-	 Checked under Laspistol and Close Combat Weapon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a88f-dd7d-4648-8e12"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Laspistol and Close Combat Weapon
+	 Checked under Laspistol and Close Combat Weapon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Auxilia Sergeant may exchange a Laspistol for one of the following options:" id="d8fb-0b82-449c-98af">
               <entryLinks>
@@ -2240,14 +2297,17 @@ Could not find wargear Laspistol and Close Combat Weapon
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Auxilia Sergeant may exchange their Flamer for the following option:
-Could not find type or subtype &apos;Close-Order&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="c4e7-808c-475e-88b5" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="3a7d-4d2d-4b47-99a8" name="Character" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="814a-3b04-4d54-bed6" name="Line" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Auxilia Sergeant may exchange their Flamer for the following option:
+Could not find type or subtype &apos;Close-Order&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -2306,19 +2366,19 @@ Could not find type or subtype &apos;Close-Order&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
-	 Checked under Grenade Launcher (with Frag and Krak Rounds)</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6742-8b27-4644-9ae5"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
+	 Checked under Grenade Launcher (with Frag and Krak Rounds)</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The entire unit may exchange their Flamers for one of the following options (all models in the unit must take the same option):</comment>
       <infoLinks>
         <infoLink name="Tercio" hidden="false" type="rule" targetId="6516-f81d-457b-a2cc" id="de45-38a8-41c7-acf3"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The entire unit may exchange their Flamers for one of the following options (all models in the unit must take the same option):</comment>
     </selectionEntry>
     <selectionEntry name="Solar Auxilia Heavy Weapons Section" type="unit" id="ca94-82b2-438f-ab63" page="153" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
@@ -2349,6 +2409,9 @@ Could not find wargear in The entire unit may exchange their Flamers for one of 
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <comment>!BSC Errors from 20240406-1603
@@ -2404,6 +2467,9 @@ Could not find profile for Auxilia Weapon Teams in [&apos;Auxilia Weapons Team&a
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0e2-24b1-436d-8eb6" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5487-aec1-4705-ba4b" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2442,9 +2508,6 @@ Could not find profile for Auxilia Weapon Teams in [&apos;Auxilia Weapons Team&a
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="42e2-c80b-4f32-9e78"/>
             <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="67b0-651a-4d53-b795"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Lasrifle (with Suspensor Web)
-	 Checked under Lasrifle (with Suspensor Web)</comment>
           <entryLinks>
             <entryLink name="Void Armour" hidden="false" type="selectionEntry" targetId="499b-b86b-3a44-17c6" id="788f-bc48-4bf0-ba01">
               <constraints>
@@ -2474,6 +2537,12 @@ Could not find wargear Lasrifle (with Suspensor Web)
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7993-5a0b-4848-9bfc" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Lasrifle (with Suspensor Web)
+	 Checked under Lasrifle (with Suspensor Web)</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Auxilia Drop Troop Master" id="ba85-9375-48c3-9494" page="158" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -2497,9 +2566,6 @@ Could not find wargear Lasrifle (with Suspensor Web)
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="590a-b1a6-4c8d-94aa"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0716-82db-47fa-a98c"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Lasrifle (with Suspensor Web)
-	 Checked under Lasrifle (with Suspensor Web)</comment>
           <entryLinks>
             <entryLink name="Void Armour" hidden="false" type="selectionEntry" targetId="499b-b86b-3a44-17c6" id="9ce1-4cee-4329-8da6">
               <constraints>
@@ -2530,6 +2596,12 @@ Could not find wargear Lasrifle (with Suspensor Web)
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1b00-a1e9-4748-b397" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="8dff-f301-4683-b76e" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Lasrifle (with Suspensor Web)
+	 Checked under Lasrifle (with Suspensor Web)</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2610,9 +2682,6 @@ Could not find wargear Lasrifle (with Suspensor Web)
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may exchange their Lasrifle (with Suspensor Web) for one of the following options:" id="64d4-8200-4b45-aec6">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Lasrifle (with Suspensor Web)
-	 Checked under Lasrifle (with Suspensor Web)</comment>
               <entryLinks>
                 <entryLink name="Shotgun" hidden="false" type="selectionEntry" targetId="2dba-5646-1049-c134" id="194b-587f-4249-9044">
                   <constraints>
@@ -2639,14 +2708,17 @@ Could not find wargear Lasrifle (with Suspensor Web)
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0d6f-7ad6-40ca-941d"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Lasrifle (with Suspensor Web)
+	 Checked under Lasrifle (with Suspensor Web)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Drop Auxilia Sergeant may exchange their Lasrifle (with Suspensor Web) for the following option:" id="90d4-f5b5-41bb-80a4">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Laspistol and Close Combat Weapon
-	 Checked under Laspistol and Close Combat Weapon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d15d-b40f-4124-830c"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Laspistol and Close Combat Weapon
+	 Checked under Laspistol and Close Combat Weapon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Drop Auxilia Sergeant may exchange a Laspistol for one of the following options:" id="f4fe-d582-4981-96af">
               <entryLinks>
@@ -2713,12 +2785,15 @@ Could not find wargear Laspistol and Close Combat Weapon
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may exchange their Lasrifle (with Suspensor Web) for one of the following options:
-Could not find wargear in The Drop Auxilia Sergeant may exchange their Lasrifle (with Suspensor Web) for the following option:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="a6aa-b86d-443d-a614" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="9"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may exchange their Lasrifle (with Suspensor Web) for one of the following options:
+Could not find wargear in The Drop Auxilia Sergeant may exchange their Lasrifle (with Suspensor Web) for the following option:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Drop Auxilia Sergeant" id="a570-4e13-44f9-a0c6" page="160" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -2785,9 +2860,6 @@ Could not find wargear in The Drop Auxilia Sergeant may exchange their Lasrifle 
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may exchange their Lasrifle (with Suspensor Web) for one of the following options:" id="a7b1-5f48-4415-a53c">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Lasrifle (with Suspensor Web)
-	 Checked under Lasrifle (with Suspensor Web)</comment>
               <entryLinks>
                 <entryLink name="Shotgun" hidden="false" type="selectionEntry" targetId="2dba-5646-1049-c134" id="c207-dfdb-46b0-9974">
                   <constraints>
@@ -2814,14 +2886,17 @@ Could not find wargear Lasrifle (with Suspensor Web)
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="75f1-e948-4771-ab53"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Lasrifle (with Suspensor Web)
+	 Checked under Lasrifle (with Suspensor Web)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Drop Auxilia Sergeant may exchange their Lasrifle (with Suspensor Web) for the following option:" id="5fc9-f4e7-4e25-9001">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Laspistol and Close Combat Weapon
-	 Checked under Laspistol and Close Combat Weapon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="41a6-7f79-4fa6-a3fd"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Laspistol and Close Combat Weapon
+	 Checked under Laspistol and Close Combat Weapon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Drop Auxilia Sergeant may exchange a Laspistol for one of the following options:" id="e7cc-9bee-4157-87c1">
               <entryLinks>
@@ -2888,13 +2963,16 @@ Could not find wargear Laspistol and Close Combat Weapon
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may exchange their Lasrifle (with Suspensor Web) for one of the following options:
-Could not find wargear in The Drop Auxilia Sergeant may exchange their Lasrifle (with Suspensor Web) for the following option:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6b81-66a5-4b67-b4e7" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="6c08-2f05-4ea6-9904" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may exchange their Lasrifle (with Suspensor Web) for one of the following options:
+Could not find wargear in The Drop Auxilia Sergeant may exchange their Lasrifle (with Suspensor Web) for the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -3026,20 +3104,20 @@ Lasrifle (with Suspensor Web) is in two option lists for Drop Auxilia Sergeant, 
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Missile Launcher (with Frag, Krak, and Flak missiles)
-	 Checked under Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f730-310e-4fec-a1ee"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Missile Launcher (with Frag, Krak, and Flak missiles)
+	 Checked under Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Auxilia Verticalis Drop Sentinel may select up to two of the following option:" id="26f8-7c1b-4466-968b">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear One Hunter-Killer Missile
-	 Checked under One Hunter-Killer Missile</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="1e15-8a6b-4f48-a83f"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear One Hunter-Killer Missile
+	 Checked under One Hunter-Killer Missile</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Auxilia Verticalis Drop Sentinel may select any of the following options:" id="135e-5725-4481-add4">
               <entryLinks>
@@ -3073,14 +3151,17 @@ Could not find wargear One Hunter-Killer Missile
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Auxilia Verticalis Drop Sentinel may replace its Multi-Laser with one of the following options:
-Could not find wargear in Any Auxilia Verticalis Drop Sentinel may select up to two of the following option:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="74b1-101d-4940-8a67" name="Infantry" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="8f0f-e110-46a2-9d3e" name="Skirmish" primary="false"/>
             <categoryLink targetId="ad48-f7f6-413d-afeb" id="b3a9-8dd3-4dea-8d38" name="Mechanised" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="85"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Auxilia Verticalis Drop Sentinel may replace its Multi-Laser with one of the following options:
+Could not find wargear in Any Auxilia Verticalis Drop Sentinel may select up to two of the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3244,12 +3325,12 @@ Could not find wargear in Any Auxilia Verticalis Drop Sentinel may select up to 
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (any type)
-	 Checked under Combi-Weapon (any type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6004-4c96-457a-811a"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (any type)
+	 Checked under Combi-Weapon (any type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Salamander Command Vehicle may select any of the following options:" id="ee8b-362b-47bd-8237">
               <entryLinks>
@@ -3294,13 +3375,16 @@ Could not find wargear Pintle Mounted Combi-Weapon (any type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in A Salamander Command Vehicle may select one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="0b77-4b92-4878-8a5d" name="Vehicle" primary="false"/>
             <categoryLink targetId="0ea2-efb5-b7af-226e" id="84ba-e732-43ca-b8ce" name="Fast" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="d760-ada5-4e2a-8432" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in A Salamander Command Vehicle may select one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3439,12 +3523,12 @@ Could not find wargear in A Salamander Command Vehicle may select one of the fol
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (any type)
-	 Checked under Combi-Weapon (any type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="11db-a335-431d-acc2"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (any type)
+	 Checked under Combi-Weapon (any type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Salamander Scout Vehicle may select any of the following options:" id="e5ea-2480-45c1-9878">
               <entryLinks>
@@ -3481,13 +3565,16 @@ Could not find wargear Pintle Mounted Combi-Weapon (any type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in A Salamander Scout Vehicle may select one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="265c-ed89-4960-9929" name="Vehicle" primary="false"/>
             <categoryLink targetId="0ea2-efb5-b7af-226e" id="8b2f-e17b-4e1f-b29f" name="Fast" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="c9ab-4218-4065-886c" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="65"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in A Salamander Scout Vehicle may select one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3523,9 +3610,6 @@ Could not find wargear in A Salamander Scout Vehicle may select one of the follo
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8962-07a6-4aec-b3c2"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="0236-1218-49df-af97"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle-Mounted Auto-Launcher
-	 Checked under Auto-Launcher</comment>
           <entryLinks>
             <entryLink name="Smoke Launchers" hidden="false" type="selectionEntry" targetId="0873-34dd-e52d-d33c" id="b32d-b4fc-4039-9fb7">
               <constraints>
@@ -3680,6 +3764,12 @@ Could not find wargear Pintle-Mounted Auto-Launcher
             <categoryLink targetId="0ea2-efb5-b7af-226e" id="cce3-40f4-4254-b3a0" name="Fast" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="6d09-b869-4e19-9b94" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle-Mounted Auto-Launcher
+	 Checked under Auto-Launcher</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3897,6 +3987,9 @@ Could not find wargear Pintle-Mounted Auto-Launcher
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="014d-c8e4-4017-8f48" name="Vehicle" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3935,15 +4028,6 @@ Could not find wargear Pintle-Mounted Auto-Launcher
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="958b-77c1-47c2-b229"/>
             <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="af6e-367d-49ae-b1bc"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Auxilia Tempestor Land Speeder
-	 Checked under Auxilia Tempestor Land Speeder
-Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
-Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
-Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
-Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
-Could not find wargear in Any Tempestor Land Speeder may select up to two of the following option:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <entryLinks>
             <entryLink name="Vox Interlock" hidden="false" type="selectionEntry" targetId="c04e-5624-3615-0660" id="665d-a2ab-465e-a46e">
               <constraints>
@@ -4007,6 +4091,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:" id="1f05-1343-4f20-8209">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2ac9-95e8-40b5-b912"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Twin-Linked Multi-Laser
 	 Checked under Twin-Linked Multi-Laser
@@ -4016,22 +4103,31 @@ Could not find wargear Twin-Linked Kheres Assault Cannon
 	 Checked under Twin-Linked Kheres Assault Cannon
 Could not find wargear Cyclone Missile Launcher (with Frag, Krak, and Flak missiles)
 	 Checked under Cyclone Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2ac9-95e8-40b5-b912"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Tempestor Land Speeder may select up to two of the following option:" id="b6b2-10c8-4e82-93c2">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear One Hunter-Killer Missile
-	 Checked under One Hunter-Killer Missile</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="9be5-a9f7-41ca-93d5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear One Hunter-Killer Missile
+	 Checked under One Hunter-Killer Missile</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="4303-1348-cce4-9501" id="294f-e5c2-468a-b90d" name="Antigrav" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="85"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Auxilia Tempestor Land Speeder
+	 Checked under Auxilia Tempestor Land Speeder
+Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
+Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
+Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
+Could not find wargear in Any Tempestor Land Speeder may replace their Auxilia Tempestor Land Speeder’s Havoc Launcher with one of the following options:
+Could not find wargear in Any Tempestor Land Speeder may select up to two of the following option:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4101,12 +4197,6 @@ Could not find wargear One Hunter-Killer Missile
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Vox-Interlock
-	 Checked under Vox-Interlock
-Could not find wargear in Any Aethon Heavy Sentinel may replace their Multi-Laser with one of the following options:
-Could not find wargear in Any Aethon Heavy Sentinel may replace their two Havoc Launchers with one of the following options:
-Could not find wargear in Any Aethon Heavy Sentinel may select up to two of the following option:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Aethon Heavy Sentinel may replace their Multi-Laser with one of the following options:" id="9cd7-a94d-4f59-acae">
               <entryLinks>
@@ -4153,12 +4243,12 @@ Could not find wargear in Any Aethon Heavy Sentinel may select up to two of the 
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Missile Launcher (with Frag, Krak, and Flak missiles)
-	 Checked under Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0630-c888-46cd-ac6e"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Missile Launcher (with Frag, Krak, and Flak missiles)
+	 Checked under Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Aethon Heavy Sentinel may replace their two Havoc Launchers with one of the following options:" id="35bc-e643-43bb-b929">
               <entryLinks>
@@ -4203,12 +4293,12 @@ Could not find wargear Missile Launcher (with Frag, Krak, and Flak missiles)
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Cyclone Missile Launcher (with Frag, Krak, and Flak missiles)
-	 Checked under Cyclone Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3c21-0e29-4a1d-ad9f"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Cyclone Missile Launcher (with Frag, Krak, and Flak missiles)
+	 Checked under Cyclone Missile Launcher (with Frag, Krak, and Flak missiles)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Aethon Heavy Sentinel may select any of the following options:" id="8fb7-c8b1-47e5-8540">
               <entryLinks>
@@ -4234,12 +4324,12 @@ Could not find wargear Cyclone Missile Launcher (with Frag, Krak, and Flak missi
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Aethon Heavy Sentinel may select up to two of the following option:" id="6e81-43f5-4338-9286">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear One Hunter-Killer Missile
-	 Checked under One Hunter-Killer Missile</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="b638-3163-4f15-8490"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear One Hunter-Killer Missile
+	 Checked under One Hunter-Killer Missile</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -4247,6 +4337,15 @@ Could not find wargear One Hunter-Killer Missile
             <categoryLink targetId="59a4-7b61-600a-c457" id="b75a-6071-4f0b-b871" name="Skirmish" primary="false"/>
             <categoryLink targetId="ad48-f7f6-413d-afeb" id="3963-e063-467e-a12c" name="Mechanised" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Vox-Interlock
+	 Checked under Vox-Interlock
+Could not find wargear in Any Aethon Heavy Sentinel may replace their Multi-Laser with one of the following options:
+Could not find wargear in Any Aethon Heavy Sentinel may replace their two Havoc Launchers with one of the following options:
+Could not find wargear in Any Aethon Heavy Sentinel may select up to two of the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4437,20 +4536,23 @@ Could not find wargear One Hunter-Killer Missile
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear One Hull (Front) Hunter-Killer Missile
-	 Checked under One Hull (Front) Hunter-Killer Missile</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4c72-e4f5-4a3a-b20c"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear One Hull (Front) Hunter-Killer Missile
+	 Checked under One Hull (Front) Hunter-Killer Missile</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Auxilia Hellhound may select any of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="249e-694f-4292-98be" name="Vehicle" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5e1f-636f-4e74-bc0f" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="65"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Auxilia Hellhound may select any of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4594,6 +4696,9 @@ Could not find wargear in Any Auxilia Hellhound may select any of the following 
             <categoryLink targetId="e2b6-b770-784c-9e95" id="7da3-c7e9-43a7-b260" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="1336-ee34-4c9c-8b77" name="Flyer" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4628,10 +4733,6 @@ Could not find wargear in Any Auxilia Hellhound may select any of the following 
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="c967-ca31-46a7-8e6c"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="2892-e11b-40fd-8837"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear in Any Auxilia Kelaino may exchange their Two Hull (Front) Mounted Hellstrike Missiles for the following option:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Auxilia Kelaino may exchange their Centreline Mounted Multi-Laser for the following option:" id="9c41-a48a-4735-aba4">
               <entryLinks>
@@ -4670,12 +4771,12 @@ Could not find wargear in Any Auxilia Kelaino may exchange their Two Hull (Front
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Centreline Mounted Multiple Rocket Pods
-	 Checked under Multiple Rocket Pod</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cbd3-3861-4751-91ec"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Centreline Mounted Multiple Rocket Pods
+	 Checked under Multiple Rocket Pod</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Auxilia Kelaino may select one of the following options:" id="1c0e-f5c5-4c4d-b77d">
               <entryLinks>
@@ -4714,6 +4815,13 @@ Could not find wargear Two Centreline Mounted Multiple Rocket Pods
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="d20e-8199-4d70-9ff0" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5a6c-2385-4892-a21b" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="100"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight
+Could not find wargear in Any Auxilia Kelaino may exchange their Two Hull (Front) Mounted Hellstrike Missiles for the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4750,11 +4858,6 @@ Could not find wargear Two Centreline Mounted Multiple Rocket Pods
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b2e3-72d2-40ff-8c4d"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="a658-11ea-4e4c-9d72"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Three Centreline Mounted Twin-Linked Lascannons
-	 Checked under Twin-Linked Lascannons
-Could not find wargear Searchlight
-	 Checked under Searchlight</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Auxilia Aello may exchange up to Two Centreline Mounted Twin-Linked Lascannons, each for the following option:" id="ff58-e1c6-4c12-8ec5">
               <entryLinks>
@@ -4779,6 +4882,14 @@ Could not find wargear Searchlight
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="82b5-9197-45fa-936a" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="d1d0-600f-4e3f-9e15" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="125"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Three Centreline Mounted Twin-Linked Lascannons
+	 Checked under Twin-Linked Lascannons
+Could not find wargear Searchlight
+	 Checked under Searchlight</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -4862,21 +4973,8 @@ Could not find wargear Searchlight
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear in Any Auxilia Ocypete may exchange their two Centreline Mounted Gravis Multi-Lasers for one of the following options:
-Could not find wargear in Any Auxilia Ocypete may exchange their two Centreline Mounted Gravis Multi-Lasers for one of the following options:
-Could not find wargear in Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles for one of the following options:
-Could not find wargear in Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles for one of the following options:
-Could not find wargear in Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles and Two Centreline Mounted Gravis Multi-Lasers the following option:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Auxilia Ocypete may exchange their two Centreline Mounted Gravis Multi-Lasers for one of the following options:" id="301a-61cf-4014-9ea5">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Centreline Mounted Missile Launchers (with Frag and Krak missiles)
-	 Checked under Missile Launchers (with Frag and Krak missiles)
-Could not find wargear Two Centreline Mounted Multiple Rocket Pods
-	 Checked under Multiple Rocket Pod</comment>
               <entryLinks>
                 <entryLink name="Autocannon" hidden="false" type="selectionEntry" targetId="56b3-de09-9fea-deb6" id="c4e6-28a0-4c86-95eb">
                   <costs>
@@ -4904,6 +5002,11 @@ Could not find wargear Two Centreline Mounted Multiple Rocket Pods
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3d43-8223-4ab8-959a"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Centreline Mounted Missile Launchers (with Frag and Krak missiles)
+	 Checked under Missile Launchers (with Frag and Krak missiles)
+Could not find wargear Two Centreline Mounted Multiple Rocket Pods
+	 Checked under Multiple Rocket Pod</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles for one of the following options:" id="03bf-3e42-40b9-848e">
               <entryLinks>
@@ -4924,14 +5027,14 @@ Could not find wargear Two Centreline Mounted Multiple Rocket Pods
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d05d-3b0c-4728-9e8a"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Centreline Mounted Multiple Rocket Pods
 	 Checked under Multiple Rocket Pod
 Could not find wargear Six Hull (Front) Mounted Hunter-Killer Missiles
 	 Checked under Hunter-Killer Missiles</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d05d-3b0c-4728-9e8a"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles and Two Centreline Mounted Gravis Multi-Lasers the following option:" id="9552-3040-4889-9876">
               <entryLinks>
@@ -4944,12 +5047,12 @@ Could not find wargear Six Hull (Front) Mounted Hunter-Killer Missiles
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Twin-Linked Punisher Rotary Cannon
-	 Checked under Twin-Linked Punisher Rotary Cannon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3b9b-7ca9-4ac1-bb57"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline Mounted Twin-Linked Punisher Rotary Cannon
+	 Checked under Twin-Linked Punisher Rotary Cannon</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -4959,6 +5062,17 @@ Could not find wargear Centreline Mounted Twin-Linked Punisher Rotary Cannon
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="da99-bc6e-431f-9904" name="Reinforced" primary="false"/>
             <categoryLink targetId="0ea2-efb5-b7af-226e" id="5a56-d069-46a6-8877" name="Fast" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="110"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight
+Could not find wargear in Any Auxilia Ocypete may exchange their two Centreline Mounted Gravis Multi-Lasers for one of the following options:
+Could not find wargear in Any Auxilia Ocypete may exchange their two Centreline Mounted Gravis Multi-Lasers for one of the following options:
+Could not find wargear in Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles for one of the following options:
+Could not find wargear in Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles for one of the following options:
+Could not find wargear in Any Auxilia Ocypete may exchange their Two Hull (Front) Mounted Hellstrike Missiles and Two Centreline Mounted Gravis Multi-Lasers the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5012,6 +5126,9 @@ Two Hull (Front) Mounted Hellstrike Missiles is in two option lists for Auxilia 
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="8237-2474-42f5-a461" name="Vehicle" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5203,6 +5320,9 @@ Two Hull (Front) Mounted Hellstrike Missiles is in two option lists for Auxilia 
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="59f4-304b-4cb2-ad76" name="Reinforced" primary="false"/>
             <categoryLink targetId="d5df-57ac-8f3c-097b" id="0de2-9a14-4280-af98" name="Bombard" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5286,12 +5406,12 @@ Two Hull (Front) Mounted Hellstrike Missiles is in two option lists for Auxilia 
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Turret Mounted Oppressor Cannon with Coaxial Autocannon
-	 Checked under Oppressor Cannon with Coaxial Autocannon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d04c-d249-4fce-a2f4"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Turret Mounted Oppressor Cannon with Coaxial Autocannon
+	 Checked under Oppressor Cannon with Coaxial Autocannon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Auxilia Praetorian Heavy Tank may exchange its Turret Mounted Praetorian Battle Cannon and Centreline Mounted Kheres Assault Cannon for one of the following option:" id="925a-ad01-4492-9d35">
               <entryLinks>
@@ -5445,12 +5565,15 @@ Could not find wargear Turret Mounted Oppressor Cannon with Coaxial Autocannon
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Auxilia Praetorian Heavy Tank may exchange its Turret Mounted Praetorian Battle Cannon for the following option:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="06e7-8d1a-4e13-9065" name="Vehicle" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="1389-79e2-4a6f-a331" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="250"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Auxilia Praetorian Heavy Tank may exchange its Turret Mounted Praetorian Battle Cannon for the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks/>
@@ -5579,6 +5702,9 @@ Centreline Mounted Kheres Assault Cannon is in two option lists for Auxilia Prae
             <categoryLink targetId="e2b6-b770-784c-9e95" id="83cd-600c-44e2-9cb4" name="Vehicle" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="26b2-57db-4e32-b7fc" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="85"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5638,9 +5764,6 @@ Centreline Mounted Kheres Assault Cannon is in two option lists for Auxilia Prae
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="An Auxilia Sabre Platform may exchange its Two Twin-Linked Heavy Stubbers for one of the following options:" id="ce58-6790-4811-ad2f">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Twin-Linked Heavy Stubbers
-	 Checked under Twin-Linked Heavy Stubber</comment>
               <entryLinks>
                 <entryLink name="Sabre Searchlight" hidden="false" type="selectionEntry" targetId="9782-3a8f-400e-9180" id="e1b7-af23-4c9a-9997">
                   <constraints>
@@ -5680,14 +5803,20 @@ Could not find wargear Two Twin-Linked Heavy Stubbers
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="56f1-3f3f-4e94-865d"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Twin-Linked Heavy Stubbers
+	 Checked under Twin-Linked Heavy Stubber</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in An Auxilia Sabre Platform may exchange its Two Twin-Linked Heavy Stubbers for one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="9f15-ad45-40e3-bf82" name="Infantry" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="ad92-73ab-4f41-b0e0" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in An Auxilia Sabre Platform may exchange its Two Twin-Linked Heavy Stubbers for one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5723,12 +5852,6 @@ Could not find wargear in An Auxilia Sabre Platform may exchange its Two Twin-Li
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b5f2-53bf-4c73-9577"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="6400-4f58-4a0c-936c"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Turret Mounted Manticore Missile Launcher (with 4 Manticore Missiles)
-	 Checked under Manticore Missile Launcher (with 4 Manticore Missiles)
-Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:
-Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:
-Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:</comment>
           <entryLinks>
             <entryLink name="Smoke Launchers" hidden="false" type="selectionEntry" targetId="0873-34dd-e52d-d33c" id="6981-9b54-45bb-aee0">
               <constraints>
@@ -5739,6 +5862,9 @@ Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any nu
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:" id="2173-a56d-4376-b911">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="82ec-6af2-4df0-89fb"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear One Storm Eagle Missile
 	 Checked under One Storm Eagle Missile
@@ -5746,9 +5872,6 @@ Could not find wargear One Phosphor Incendiary Missile
 	 Checked under One Phosphor Incendiary Missile
 Could not find wargear One Solutus Chem Missile
 	 Checked under One Solutus Chem Missile</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="82ec-6af2-4df0-89fb"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Auxilia Manticore Missile Tank may exchange its Hull (Front) Mounted Multi-Laser for one of the following options:" id="f594-08ad-402f-a88b">
               <entryLinks>
@@ -5835,6 +5958,15 @@ Could not find wargear One Solutus Chem Missile
             <categoryLink targetId="e2b6-b770-784c-9e95" id="876b-e69b-4711-81fe" name="Vehicle" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="4aa3-49b3-4ec3-baff" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="200"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Turret Mounted Manticore Missile Launcher (with 4 Manticore Missiles)
+	 Checked under Manticore Missile Launcher (with 4 Manticore Missiles)
+Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:
+Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:
+Could not find wargear in Any Auxilia Manticore Missile Tank may exchange any number of its Manticore Missiles for any of the following options, in any combination:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks/>
@@ -5869,13 +6001,6 @@ Could not find rule: None</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3474-03ba-466d-b0c1"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6536-a26c-4a2f-9530"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Deathstrike Missile
-	 Checked under Deathstrike Missile
-Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:
-Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:
-Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:
-Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:</comment>
           <entryLinks>
             <entryLink name="Multi-Laser" hidden="false" type="selectionEntry" targetId="003b-af4b-0094-f5c3" id="1435-178c-4569-b0b8">
               <modifiers>
@@ -5895,6 +6020,9 @@ Could not find wargear in A Deathstrike Missile Platform must select one of the 
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:" id="9247-fed8-41ca-ae6c">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b732-c85d-4ad8-a133"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Plasma Warhead
 	 Checked under Plasma Warhead
@@ -5904,9 +6032,6 @@ Could not find wargear Tactical Nuclear Warhead
 	 Checked under Tactical Nuclear Warhead
 Could not find wargear Vortex Warhead
 	 Checked under Vortex Warhead</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b732-c85d-4ad8-a133"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Deathstrike Missile Platform may select any of the following options:" id="b6dd-f211-40b8-92bf">
               <entryLinks>
@@ -5936,6 +6061,16 @@ Could not find wargear Vortex Warhead
             <categoryLink targetId="e2b6-b770-784c-9e95" id="2d0f-15b7-4ee0-8194" name="Vehicle" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="2e65-4989-4ceb-ba10" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline Mounted Deathstrike Missile
+	 Checked under Deathstrike Missile
+Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:
+Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:
+Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:
+Could not find wargear in A Deathstrike Missile Platform must select one of the following options to equip to its Deathstrike Missile:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5974,9 +6109,6 @@ Could not find rule: Countdown To Launch…</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3855-7b71-42dd-a677"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0082-18b1-4642-ac05"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline (Front) Mounted Twin-Linked Autocannon
-	 Checked under Twin-Linked Autocannon</comment>
           <entryLinks>
             <entryLink name="Twin-Linked Heavy Bolter" hidden="false" type="selectionEntry" targetId="d03c-9f7e-84fa-d6e8" id="a393-4f5d-4cbe-b1a8">
               <modifiers>
@@ -6019,6 +6151,12 @@ Could not find wargear Centreline (Front) Mounted Twin-Linked Autocannon
             <categoryLink targetId="4e84-2d57-4986-2b23" id="39f8-a3cf-47bd-83d5" name="Flyer" primary="false"/>
             <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="aca1-ae62-4138-b46d" name="Lumbering" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline (Front) Mounted Twin-Linked Autocannon
+	 Checked under Twin-Linked Autocannon</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6082,20 +6220,14 @@ Could not find wargear Centreline (Front) Mounted Twin-Linked Autocannon
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Eight Hull (Front) Mounted Hellstrike Missiles
-	 Checked under Hellstrike Missiles
-Could not find wargear Four Hull (Front) Mounted Fragmentation Bombs
-	 Checked under Fragmentation Bombs
-Could not find wargear in The Auxilia Marauder Destroyer may exchange its eight Front (Hull) Mounted Hellstrike Missiles for the following option:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Auxilia Marauder Destroyer may exchange its eight Front (Hull) Mounted Hellstrike Missiles for the following option:" id="bd19-ca0e-4613-9524">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Eight Hull (Front) Mounted Skystrike Missiles
-	 Checked under Skystrike Missiles</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4a3c-a753-4dd1-b8de"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Eight Hull (Front) Mounted Skystrike Missiles
+	 Checked under Skystrike Missiles</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Auxilia Marauder Destroyer may select the following option:" id="e9a9-c684-40a3-92de">
               <entryLinks>
@@ -6118,6 +6250,15 @@ Could not find wargear Eight Hull (Front) Mounted Skystrike Missiles
             <categoryLink targetId="4e84-2d57-4986-2b23" id="cade-8bd2-4088-9744" name="Flyer" primary="false"/>
             <categoryLink targetId="7f9b-c5ed-7edb-02dc" id="f33b-eed4-47bc-bdd0" name="Lumbering" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Eight Hull (Front) Mounted Hellstrike Missiles
+	 Checked under Hellstrike Missiles
+Could not find wargear Four Hull (Front) Mounted Fragmentation Bombs
+	 Checked under Fragmentation Bombs
+Could not find wargear in The Auxilia Marauder Destroyer may exchange its eight Front (Hull) Mounted Hellstrike Missiles for the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>

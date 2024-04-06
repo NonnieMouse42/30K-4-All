@@ -784,8 +784,6 @@ Could not find rule: Harrower</comment>
         </infoLink>
         <infoLink name="Haywire" hidden="false" type="rule" targetId="1dd4-7a75-5c59-8425" id="dc42-6e38-4a48-8758"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: †Graviton Collapse</comment>
       <profiles>
         <profile name="Grav-Flux Bombard" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="8234-21c3-4450-afbf" page="171" publicationId="9fab-fea7-a93c-2074">
           <characteristics>
@@ -796,6 +794,8 @@ Could not find rule: †Graviton Collapse</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: †Graviton Collapse</comment>
     </selectionEntry>
     <selectionEntry name="Vratine Grenade Launcher - Krak" type="upgrade" id="de07-e007-447a-9e3a">
       <profiles>
@@ -845,8 +845,6 @@ Could not find rule: †Graviton Collapse</comment>
       <infoLinks>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="379c-15e7-4657-bab5"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Apocalyptic Blast (10&quot;)</comment>
       <profiles>
         <profile name="Belicosa Volcano Cannon" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="20a5-5034-4a05-be89" page="172" publicationId="9fab-fea7-a93c-2074">
           <characteristics>
@@ -857,6 +855,8 @@ Could not find rule: Apocalyptic Blast (10&quot;)</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Apocalyptic Blast (10&quot;)</comment>
     </selectionEntry>
     <selectionEntry name="Gravis Heavy Lascannon" type="upgrade" id="13b6-d15b-4365-87c0">
       <infoLinks>
@@ -902,8 +902,6 @@ Could not find rule: Apocalyptic Blast (10&quot;)</comment>
       <infoLinks>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="b0ee-d04d-46bd-a68c"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Apocalyptic Blast (10&quot;)</comment>
       <profiles>
         <profile name="Nemesis Volcano Cannon 36&quot; -" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="0266-1ce7-4d3f-9ff2" page="172" publicationId="9fab-fea7-a93c-2074">
           <characteristics>
@@ -914,6 +912,8 @@ Could not find rule: Apocalyptic Blast (10&quot;)</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Apocalyptic Blast (10&quot;)</comment>
     </selectionEntry>
     <selectionEntry name="Proteus Laser Destroyer" type="upgrade" id="6766-3e58-4552-afc5">
       <infoLinks>
@@ -1873,8 +1873,6 @@ Could not find rule: Apocalyptic Blast (10&quot;)</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: The Venem</comment>
       <profiles>
         <profile name="Hookfang" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="12b1-fe8e-4f54-9fd0" page="175" publicationId="9fab-fea7-a93c-2074">
           <characteristics>
@@ -1885,6 +1883,8 @@ Could not find rule: The Venem</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: The Venem</comment>
     </selectionEntry>
     <selectionEntry name="Lascutter (Melee)" type="upgrade" id="45cf-2b58-4efe-8095">
       <infoLinks>
@@ -1916,9 +1916,6 @@ Could not find rule: The Venem</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Melta Lance" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="77d9-a631-4987-9432" page="175" publicationId="9fab-fea7-a93c-2074">
           <characteristics>
@@ -1929,6 +1926,9 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Use
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Ripper Gun" type="upgrade" id="11d3-a8aa-43f2-bc61">
       <infoLinks>
@@ -1996,10 +1996,8 @@ Whenever targeted by a Shooting Attack, the range between an attacking unit and 
     <selectionEntry name="D-Bombard" type="upgrade" id="ee45-3d59-4401-8341">
       <infoLinks>
         <infoLink name="Instant Death" hidden="false" type="rule" targetId="9e96-fff1-b916-d9a3" id="6c11-66cc-454a-a7ee"/>
+        <infoLink name="Distortion Impalement" hidden="false" type="rule" targetId="6145-7aa1-4176-854b" id="1ba7-dc02-485d-9772"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Apocalyptic Mega-Blast
-Could not find rule: Distortion Impalement</comment>
       <profiles>
         <profile name="D-Bombard" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="85f5-008b-44b8-ad48" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2010,6 +2008,8 @@ Could not find rule: Distortion Impalement</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1709
+Could not find rule: Apocalyptic Mega-Blast</comment>
     </selectionEntry>
     <selectionEntry name="D-Cannon" type="upgrade" id="97cf-1511-4f08-b1da">
       <infoLinks>
@@ -2044,9 +2044,8 @@ Could not find rule: Distortion Impalement</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Instant Death" hidden="false" type="rule" targetId="9e96-fff1-b916-d9a3" id="88cb-0e14-42a9-93a1"/>
+        <infoLink name="Distortion Impalement" hidden="false" type="rule" targetId="6145-7aa1-4176-854b" id="1767-946a-48d1-8d4e"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Distortion Impalement</comment>
       <profiles>
         <profile name="D-Impaler" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="3c51-fbe3-4ea5-8ead" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2139,9 +2138,8 @@ Could not find rule: Distortion Impalement</comment>
             <modifier type="set" field="name" value="Breaching (6+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Breath of Khaine" hidden="false" type="rule" targetId="1103-2471-4adb-ad25" id="1251-8596-4033-b293"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Breath of Khaine</comment>
       <profiles>
         <profile name="Khaine’s Fury" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="2e77-1a4c-4811-ba35" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2276,9 +2274,8 @@ Could not find rule: Breath of Khaine</comment>
     <selectionEntry name="Prism Blaster" type="upgrade" id="baae-b111-4d0b-9da3">
       <infoLinks>
         <infoLink name="Lance" hidden="false" type="rule" targetId="3d6b-9e0b-56f0-8a1e" id="81dd-4a02-4b32-b31b"/>
+        <infoLink name="Ghostlight" hidden="false" type="rule" targetId="4933-5f55-4691-af2a" id="2fbc-6746-408c-99f2"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Ghostlight</comment>
       <profiles>
         <profile name="Prism Blaster" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="53f0-327f-452a-91f3" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2331,9 +2328,8 @@ Could not find rule: Ghostlight</comment>
     <selectionEntry name="Prism Cannon - Lance" type="upgrade" id="7e62-a51d-4fc0-9ef9">
       <infoLinks>
         <infoLink name="Lance" hidden="false" type="rule" targetId="3d6b-9e0b-56f0-8a1e" id="7d54-95ca-46b3-bde3"/>
+        <infoLink name="Linked Fire" hidden="false" type="rule" targetId="edb0-152a-424e-b69b" id="1885-4116-4f84-9c40"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Linked Fire</comment>
       <profiles>
         <profile name="Prism Cannon - Lance" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="80bb-4b90-4f63-8ef7" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2352,9 +2348,8 @@ Could not find rule: Linked Fire</comment>
             <modifier type="set" field="name" value="Blast (3&quot;)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Ghostlight" hidden="false" type="rule" targetId="4933-5f55-4691-af2a" id="9faa-ec91-4fc8-bce5"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Ghostlight</comment>
       <profiles>
         <profile name="Prism Rifle - Dispersed" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="acba-0396-4917-bddc" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2369,9 +2364,8 @@ Could not find rule: Ghostlight</comment>
     <selectionEntry name="Prism Rifle - Focused" type="upgrade" id="95e3-59dd-4f8c-9d3c">
       <infoLinks>
         <infoLink name="Lance" hidden="false" type="rule" targetId="3d6b-9e0b-56f0-8a1e" id="c0f0-c0ee-4591-baf9"/>
+        <infoLink name="Ghostlight" hidden="false" type="rule" targetId="4933-5f55-4691-af2a" id="622e-cdf9-4b51-ac16"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Ghostlight</comment>
       <profiles>
         <profile name="Prism Rifle - Focused" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e277-61d5-4811-943d" page="152" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2932,9 +2926,8 @@ Could not find rule: Ghostlight</comment>
             <modifier type="set" field="name" value="Rending (5+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="45a9-531a-404d-8a8b"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Deathshroud Cannon - Dispersed" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="42d1-d99c-4dc7-9c35" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2954,9 +2947,8 @@ Could not find rule: Monofilament</comment>
             <modifier type="set" field="name" value="Rending (5+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="007f-0cf2-4ffa-8e50"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Deathshroud Cannon - Focused" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="d564-7793-4057-8df7" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -2975,9 +2967,8 @@ Could not find rule: Monofilament</comment>
             <modifier type="set" field="name" value="Rending (5+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="f31b-d914-4fbc-8148"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Deathspinner" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="75f7-7476-46be-85c7" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3003,9 +2994,8 @@ Could not find rule: Monofilament</comment>
             <modifier type="set" field="name" value="Rending (5+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="4aad-3359-485c-a86f"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Doomweaver - Dispersed" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="0985-ad02-46fb-bf68" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3030,9 +3020,8 @@ Could not find rule: Monofilament</comment>
             <modifier type="set" field="name" value="Torrent (12&quot;)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="715b-352c-4a92-89f4"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Doomweaver - Focused" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c754-5823-4848-9462" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3057,9 +3046,8 @@ Could not find rule: Monofilament</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Blind" hidden="false" type="rule" targetId="d836-747d-07d6-2b63" id="3863-f136-4b5e-a995"/>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="7dca-bed3-43a3-8fda"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Shadow Weaver" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="fd3a-9e23-45b5-8eed" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3072,8 +3060,6 @@ Could not find rule: Monofilament</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Spinneret Rifle" type="upgrade" id="db81-5700-42d7-8ec5">
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament</comment>
       <profiles>
         <profile name="Spinneret Rifle" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="a805-2930-4aa6-ab2d" page="153" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3084,6 +3070,9 @@ Could not find rule: Monofilament</comment>
           </characteristics>
         </profile>
       </profiles>
+      <infoLinks>
+        <infoLink name="Monofilament" hidden="false" type="rule" targetId="9b01-d26b-4e0d-b162" id="0025-fa60-458e-863d"/>
+      </infoLinks>
     </selectionEntry>
     <selectionEntry name="Starcannon" type="upgrade" id="56bf-1fff-4ca1-a4f5">
       <infoLinks>
@@ -3235,9 +3224,8 @@ Could not find rule: Monofilament</comment>
             <modifier type="set" field="name" value="Poisoned (2+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Bio-Explosive" hidden="false" type="rule" targetId="8cda-e1f1-4aec-b0a6" id="8f1c-37ed-460a-9b6f"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Bio-Explosive</comment>
       <profiles>
         <profile name="Shrieker Cannon - Shrieker Fusillade" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="abd3-ac48-4b74-b824" page="154" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3354,9 +3342,8 @@ Could not find rule: Bio-Explosive</comment>
             <modifier type="set" field="name" value="Murderous Strike (6+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Sonic Pulse" hidden="false" type="rule" targetId="9fdc-9f97-4d1e-85cc" id="94ce-3b1e-4555-aabd"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Sonic Pulse</comment>
       <profiles>
         <profile name="Sonic Lance" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="a310-6ad0-4284-84e7" page="154" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3423,8 +3410,6 @@ Could not find rule: Sonic Pulse</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Singing Spear (Ranged)" type="upgrade" id="8247-ab23-4115-bdee">
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Soul Tear</comment>
       <profiles>
         <profile name="Singing Spear (Ranged)" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="4297-5d2e-4495-b933" page="154" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3435,6 +3420,9 @@ Could not find rule: Soul Tear</comment>
           </characteristics>
         </profile>
       </profiles>
+      <infoLinks>
+        <infoLink name="Soul Tear" hidden="false" type="rule" targetId="01be-8056-4138-a11a" id="3fbe-e768-4e9b-b775"/>
+      </infoLinks>
     </selectionEntry>
     <selectionEntry name="Grenade Pack" type="upgrade" id="21e7-a898-44da-afa5">
       <infoLinks>
@@ -3445,9 +3433,8 @@ Could not find rule: Soul Tear</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="ce56-5de5-47d1-be1a"/>
+        <infoLink name="Precise Throw" hidden="false" type="rule" targetId="1b98-a06c-4e6e-87f3" id="9f0a-0f5c-40c1-a476"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Precise Throw</comment>
       <profiles>
         <profile name="Grenade Pack" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="62ea-9835-4b5a-bc3c" page="154" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3542,8 +3529,6 @@ Could not find rule: Precise Throw</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Shot</comment>
       <profiles>
         <profile name="Star Bolas" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="2a31-829c-4487-87e5" page="154" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -3554,6 +3539,8 @@ Could not find rule: One Shot</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Shot</comment>
     </selectionEntry>
     <selectionEntry name="Triskele (Ranged)" type="upgrade" id="01f2-b90d-42cc-bd4c">
       <profiles>
@@ -3583,10 +3570,6 @@ Could not find rule: One Shot</comment>
         <infoLink name="Vortex" hidden="false" type="rule" targetId="a0d8-9118-002e-613d" id="127d-fd4b-4159-873f"/>
         <infoLink name="Ponderous Aim" hidden="false" type="rule" targetId="8bc0-efe7-4762-8dc7" id="2693-bf14-4881-89c6"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use
-Could not find rule: Ponderous Aim
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Vortex Grenade" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="2f27-97cf-4c86-b420" page="300" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -3597,6 +3580,9 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1709
+Could not find rule: One Use
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Biting Blade" type="upgrade" id="6998-a1b0-4484-8272">
       <infoLinks>
@@ -4060,9 +4046,8 @@ Could not find rule: One Use</comment>
             <modifier type="set" field="name" value="Rending (6+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Soul Tear" hidden="false" type="rule" targetId="01be-8056-4138-a11a" id="2814-d7ec-40db-859e"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Soul Tear</comment>
       <profiles>
         <profile name="Witchblade" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="70a1-0e23-4e18-a440" page="156" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -4081,9 +4066,8 @@ Could not find rule: Soul Tear</comment>
             <modifier type="set" field="name" value="Reach (1)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Soul Tear" hidden="false" type="rule" targetId="01be-8056-4138-a11a" id="1dc9-e553-4665-b417"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Soul Tear</comment>
       <profiles>
         <profile name="Witchstaff" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e9e2-408f-4abf-a2af" page="156" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -4226,9 +4210,8 @@ Could not find rule: Soul Tear</comment>
             <modifier type="set" field="name" value="Breaching (5+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Blade Spirit" hidden="false" type="rule" targetId="755e-608c-430a-91cb" id="1f2d-466e-4649-b2ea"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Blade Spirit</comment>
       <profiles>
         <profile name="Ghostsword*" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="6b27-63ef-43d8-8206" page="156" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -4247,9 +4230,8 @@ Could not find rule: Blade Spirit</comment>
             <modifier type="set" field="name" value="Breaching (5+)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Soul Tear" hidden="false" type="rule" targetId="01be-8056-4138-a11a" id="9d83-5b81-44cf-9829"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Soul Tear</comment>
       <profiles>
         <profile name="Singing Spear (Melee)" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="4509-3b4c-4507-8367" page="156" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -4319,9 +4301,6 @@ Could not find rule: Soul Tear</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Monofilament
-Could not find rule: Embrace of Death (2)</comment>
       <profiles>
         <profile name="Harlequin’s Embrace" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="b979-8840-4768-b07a" page="303" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -4381,9 +4360,12 @@ Could not find rule: Embrace of Death (2)</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Specialist Weapon" hidden="false" type="rule" targetId="1a1f-3c9b-b097-5886" id="75e4-d03a-4131-ab2a"/>
+        <infoLink name="Scorpion’s Sting (X)" hidden="false" type="rule" targetId="6821-cb0c-4e9b-a0f7" id="a3dc-ecd3-400f-a33c">
+          <modifiers>
+            <modifier type="set" field="name" value="Scorpion’s Sting (1)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Scorpion’s Sting (1)</comment>
       <profiles>
         <profile name="Mandiblaster" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="bf82-e8fc-4790-a9ca" page="156" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
@@ -4768,18 +4750,18 @@ Any model equipped with a Vyper Jetbike must change its Unit Type to Cavalry (An
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Shield" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="9da0-659f-47a9-be80" page="161" publicationId="a368-64f0-10c7-c49d">
           <characteristics>
             <characteristic typeId="95ba-cda7-b831-6066" name="Range">Blast</characteristic>
             <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">12&quot;</characteristic>
             <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">6</characteristic>
-            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">-   Assault 8, Ignores Cover,     Concussive (2), One Use</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type"> -   Assault 8, Ignores Cover,     Concussive (2), One Use</characteristic>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="For the remainder of the" type="upgrade" id="9214-eba0-42a3-8411">
       <profiles>
@@ -5078,9 +5060,8 @@ Any model with a Warp Jump Generator also gains the Bulky (2) and Deep Strike sp
         <infoLink name="Skyfire" hidden="false" type="rule" targetId="f2bf-5daa-9f93-0b01" id="9f1d-d954-4f52-a199"/>
         <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="90b9-d83f-424f-ae07"/>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="6076-ccc9-4e0b-a92d"/>
+        <infoLink name="Airburst Munitions" hidden="false" type="rule" targetId="ecd5-9d65-4dd8-9096" id="6f85-5652-4656-88b7"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Airburst Munitions</comment>
       <profiles>
         <profile name="Earthshaker Cannon - Airburst Shells" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="1eb3-27c5-4ff7-9656" page="84" publicationId="9c07-3edc-5aa8-9304">
           <characteristics>
@@ -5283,9 +5264,6 @@ Could not find rule: Airburst Munitions</comment>
         </infoLink>
         <infoLink name="Haywire" hidden="false" type="rule" targetId="1dd4-7a75-5c59-8425" id="a92a-e15e-40d7-a56e"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Concussive
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="EM-Storm Charge" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="983a-8f8c-4d48-9c26" page="85" publicationId="9c07-3edc-5aa8-9304">
           <characteristics>
@@ -5296,6 +5274,9 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Concussive
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Mole Mortar" type="upgrade" id="aba7-7325-4aeb-8a78">
       <infoLinks>
@@ -5305,9 +5286,8 @@ Could not find rule: One Use</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="8ee0-a85f-403f-b310"/>
+        <infoLink name="Tremor" hidden="false" type="rule" targetId="0180-8483-4f9e-a22e" id="07da-6b8c-4a87-81b1"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Tremor</comment>
       <profiles>
         <profile name="Mole Mortar" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="1017-9492-4a39-8975" page="85" publicationId="9c07-3edc-5aa8-9304">
           <characteristics>
@@ -5341,8 +5321,6 @@ Could not find rule: Tremor</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Fallout Discharger" type="upgrade" id="f6d5-0088-4a7d-bb8c">
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Debilitating</comment>
       <profiles>
         <profile name="Fallout Discharger" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="8850-db85-47f0-a364" page="85" publicationId="9c07-3edc-5aa8-9304">
           <characteristics>
@@ -5353,6 +5331,9 @@ Could not find rule: Debilitating</comment>
           </characteristics>
         </profile>
       </profiles>
+      <infoLinks>
+        <infoLink name="Debilitating" hidden="false" type="rule" targetId="a7b7-93f9-4d4f-8945" id="7050-40d7-43d1-9a33"/>
+      </infoLinks>
     </selectionEntry>
     <selectionEntry name="Rad-Fragmentation Charge Launcher" type="upgrade" id="c5ac-bc89-4480-8430">
       <infoLinks>
@@ -5422,8 +5403,6 @@ Could not find rule: Debilitating</comment>
         <infoLink name="Crawling Fire" hidden="false" type="rule" targetId="8258-a7af-e4df-531d" id="5855-e5db-495c-8ce7"/>
         <infoLink name="Lingering Death" hidden="false" type="rule" targetId="be87-f0e5-7446-972b" id="c5f8-ca02-4605-894b"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Phosphex Cluster Bombs" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="1702-2c63-41d5-ad18" page="85" publicationId="9c07-3edc-5aa8-9304">
           <characteristics>
@@ -5434,6 +5413,8 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Charnabal Longsword" type="upgrade" id="a142-52fc-4170-93a5">
       <infoLinks>
@@ -6089,9 +6070,8 @@ When any enemy unit is deployed to the battlefield from Reserves, a unit that in
         </infoLink>
         <infoLink name="Barrage" hidden="false" type="rule" targetId="7255-b5ee-c3f4-3037" id="4d57-c3cc-4f91-bd71"/>
         <infoLink name="Shred" hidden="false" type="rule" targetId="5e7e-1628-8174-6f2c" id="7f17-0da1-4494-b45b"/>
+        <infoLink name="Restricted Trajectory" hidden="false" type="rule" targetId="d277-dd12-4c84-94b6" id="a853-86b8-402f-b61b"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Restricted Trajectory</comment>
       <profiles>
         <profile name="Thudd Launcher" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="6842-656c-4bd0-aef1" page="294" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -6175,9 +6155,8 @@ Could not find rule: Restricted Trajectory</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="6083-ccf0-4226-8d5f"/>
+        <infoLink name="Defender" hidden="false" type="rule" targetId="6086-d531-4829-b5f0" id="5ffc-e92b-4e0a-b2cb"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Defender</comment>
       <profiles>
         <profile name="Auto-Launcher - Defender-Frag Rounds" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="3dca-6ef0-4d9e-b44c" page="294" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -6197,9 +6176,8 @@ Could not find rule: Defender</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="276d-37f6-4aaf-a651"/>
+        <infoLink name="Agripinaan Guidance System" hidden="false" type="rule" targetId="120e-269b-46b9-87bb" id="7f84-c302-4b7d-bc8e"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Agripinaan Guidance System</comment>
       <profiles>
         <profile name="Eradicator Nova Cannon" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="ea98-550c-4aa6-9a4f" page="294" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -6707,9 +6685,12 @@ Could not find rule: Agripinaan Guidance System</comment>
             <modifier type="set" field="name" value="Concussive (2)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Gravitic Implosion" hidden="false" type="rule" targetId="4186-e36b-44b1-b253" id="b239-8aa0-4fa2-943e">
+          <modifiers>
+            <modifier type="set" field="name" value="Gravitic Implosion*"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Gravitic Implosion*</comment>
       <profiles>
         <profile name="Graviton Annihilator" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="9840-d403-43f7-96bc" page="295" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7101,8 +7082,6 @@ Could not find rule: Gravitic Implosion*</comment>
       </profiles>
     </selectionEntry>
     <selectionEntry name="Lasgun Arrays" type="upgrade" id="fa2d-f03c-4906-b40e">
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Array Fire (3)</comment>
       <profiles>
         <profile name="Lasgun Arrays" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="5b14-2ff8-4f3a-80bb" page="297" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7113,6 +7092,13 @@ Could not find rule: Array Fire (3)</comment>
           </characteristics>
         </profile>
       </profiles>
+      <infoLinks>
+        <infoLink name="Array Fire (X)" hidden="false" type="rule" targetId="1675-654c-4ce3-a6b1" id="9f58-ac4a-414f-a555">
+          <modifiers>
+            <modifier type="set" field="name" value="Array Fire (3)"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
     </selectionEntry>
     <selectionEntry name="Mining Laser" type="upgrade" id="806a-0f5c-435d-8ac5">
       <infoLinks>
@@ -7296,9 +7282,8 @@ Could not find rule: Array Fire (3)</comment>
         </infoLink>
         <infoLink name="Wrecker" hidden="false" type="rule" targetId="ba77-a802-55df-da67" id="ea28-963c-49fe-bb49"/>
         <infoLink name="Destructor" hidden="false" type="rule" targetId="1f93-c765-f7b2-a025" id="0c5a-f9b4-441a-bfbe"/>
+        <infoLink name="Shieldbreaker" hidden="false" type="rule" targetId="0262-3e27-47a9-8de0" id="6a41-f7b2-4c1e-b1a7"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Shieldbreaker</comment>
       <profiles>
         <profile name="Deathstrike Missile - Godspear Warhead" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="30a1-ccab-4bb0-8fd0" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7315,9 +7300,6 @@ Could not find rule: Shieldbreaker</comment>
         <infoLink name="Plasma Burn" hidden="false" type="rule" targetId="efaa-c932-9788-9ade" id="0620-0af5-40dd-b94d"/>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="2cb8-a195-4355-b8a9"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Apocalyptic Blast (10&quot;)
-Could not find rule:</comment>
       <profiles>
         <profile name="Deathstrike Missile - Plasma Warhead P" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="f40d-9cb5-4231-b3f8" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7328,13 +7310,11 @@ Could not find rule:</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Apocalyptic Blast (10&quot;)
+Could not find rule: </comment>
     </selectionEntry>
     <selectionEntry name="Deathstrike Missile - Tactical Nuclear Warhead S" type="upgrade" id="916a-b16e-45d2-9db5">
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Apocalyptic Mega-Blast
-Could not find rule: Eye of the Storm
-Could not find rule: Impact Flash
-Could not find rule:</comment>
       <profiles>
         <profile name="Deathstrike Missile - Tactical Nuclear Warhead S" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="528f-99bc-40a6-891b" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7345,6 +7325,13 @@ Could not find rule:</comment>
           </characteristics>
         </profile>
       </profiles>
+      <infoLinks>
+        <infoLink name="Eye of the Storm" hidden="false" type="rule" targetId="c8d1-3794-4ffc-8b3d" id="3d69-60d3-42f6-a415"/>
+        <infoLink name="Impact Flash" hidden="false" type="rule" targetId="aff3-a166-441a-88c2" id="11fe-459a-4e0f-8294"/>
+      </infoLinks>
+      <comment>!BSC Errors from 20240406-1709
+Could not find rule: Apocalyptic Mega-Blast
+Could not find rule: </comment>
     </selectionEntry>
     <selectionEntry name="Deathstrike Missile - Vortex Warhead I" type="upgrade" id="589e-91e3-4430-b879">
       <infoLinks>
@@ -7360,8 +7347,6 @@ Could not find rule:</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule:</comment>
       <profiles>
         <profile name="Deathstrike Missile - Vortex Warhead I" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c741-c089-417a-b9d3" page="298" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7372,6 +7357,8 @@ Could not find rule:</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: </comment>
     </selectionEntry>
     <selectionEntry name="Needle Cavalcade" type="upgrade" id="5d5b-111b-4a9f-b905">
       <infoLinks>
@@ -7408,8 +7395,6 @@ Could not find rule:</comment>
         <infoLink name="Crawling Fire" hidden="false" type="rule" targetId="8258-a7af-e4df-531d" id="45df-8bb4-407b-b5c0"/>
         <infoLink name="Lingering Death" hidden="false" type="rule" targetId="be87-f0e5-7446-972b" id="9b6f-5240-4ceb-8450"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Phosphex Bomb" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="9c39-e994-4879-98d1" page="299" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7420,6 +7405,8 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Phosphex Canister Shot (Rapier)" type="upgrade" id="6fff-9e0a-4068-a02f">
       <infoLinks>
@@ -7559,9 +7546,12 @@ Could not find rule: One Use</comment>
             <modifier type="set" field="name" value="Concussive (1)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Resonance (X)" hidden="false" type="rule" targetId="d52d-5492-4d62-90dc" id="93a8-c866-44b8-b02c">
+          <modifiers>
+            <modifier type="set" field="name" value="Resonance (5+)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Resonance (5+)</comment>
       <profiles>
         <profile name="Seismic Cannon - Short-Wave" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c9d6-2b15-4097-9ed1" page="299" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7580,9 +7570,12 @@ Could not find rule: Resonance (5+)</comment>
             <modifier type="set" field="name" value="Concussive (1)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Resonance (X)" hidden="false" type="rule" targetId="d52d-5492-4d62-90dc" id="366d-6a48-401f-aec2">
+          <modifiers>
+            <modifier type="set" field="name" value="Resonance (6+)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Resonance (6+)</comment>
       <profiles>
         <profile name="Seismic Cannon - Long-Wave" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e5ba-1e16-419f-9823" page="299" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7601,9 +7594,12 @@ Could not find rule: Resonance (6+)</comment>
             <modifier type="set" field="name" value="Concussive (2)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Resonance (X)" hidden="false" type="rule" targetId="d52d-5492-4d62-90dc" id="61d0-06e5-4d67-ba2a">
+          <modifiers>
+            <modifier type="set" field="name" value="Resonance (4+)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Resonance (4+)</comment>
       <profiles>
         <profile name="Heavy Seismic Cannon - Short-Wave" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="3056-7579-4ce3-96ca" page="299" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7622,9 +7618,12 @@ Could not find rule: Resonance (4+)</comment>
             <modifier type="set" field="name" value="Concussive (2)"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Resonance (X)" hidden="false" type="rule" targetId="d52d-5492-4d62-90dc" id="082c-727a-476f-b077">
+          <modifiers>
+            <modifier type="set" field="name" value="Resonance (5+)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Resonance (5+)</comment>
       <profiles>
         <profile name="Heavy Seismic Cannon - Long-Wave" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="997a-4286-48c7-87f1" page="299" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7761,8 +7760,6 @@ Could not find rule: Resonance (5+)</comment>
         <infoLink name="Instant Death" hidden="false" type="rule" targetId="9e96-fff1-b916-d9a3" id="37a5-f9d7-4cf4-92bb"/>
         <infoLink name="Gets Hot" hidden="false" type="rule" targetId="679f-9d97-5ace-a652" id="49c2-b997-47e8-b973"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Shot</comment>
       <profiles>
         <profile name="Adrastus Bolt Caliver - Disintegrator" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="351f-31a9-4756-b82f" page="300" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7773,6 +7770,8 @@ Could not find rule: One Shot</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Shot</comment>
     </selectionEntry>
     <selectionEntry name="Chem Cannon" type="upgrade" id="87c1-71cc-44b1-bd0a">
       <infoLinks>
@@ -7852,9 +7851,12 @@ Could not find rule: One Shot</comment>
             <modifier type="set" field="name" value="Twin-Linked"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Spotted!" hidden="false" type="rule" targetId="18ff-7f98-4516-aef9" id="fd0c-408d-4d08-89d7">
+          <modifiers>
+            <modifier type="set" field="name" value="Spotted!*"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Spotted!*</comment>
       <profiles>
         <profile name="Sabre Searchlight" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="32c8-7976-4911-a77b" page="300" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7877,9 +7879,8 @@ Could not find rule: Spotted!*</comment>
         <infoLink name="Vortex" hidden="false" type="rule" targetId="a0d8-9118-002e-613d" id="dfc8-dc9f-4569-870b"/>
         <infoLink name="Instant Death" hidden="false" type="rule" targetId="9e96-fff1-b916-d9a3" id="4d09-25d5-4a93-a055"/>
         <infoLink name="Ponderous Aim" hidden="false" type="rule" targetId="8bc0-efe7-4762-8dc7" id="b4a0-707a-49b1-bf1a"/>
+        <infoLink name="Psykana-Battery" hidden="false" type="rule" targetId="0b59-72df-42c0-83ac" id="863f-885f-41c7-a7e7"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Psykana-Battery</comment>
       <profiles>
         <profile name="Sinistrae Magnificat" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="13fb-49e4-4d0d-8bd9" page="300" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -7899,8 +7900,6 @@ Could not find rule: Psykana-Battery</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Overload (6+)</comment>
       <profiles>
         <profile name="Taser Goad" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="4110-20ff-4cd0-bca3" page="100" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -8147,8 +8146,6 @@ Could not find rule: Overload (6+)</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Paired Weapon</comment>
       <profiles>
         <profile name="Sentinel Powerlifter" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="81bf-bf4c-484c-b78a" page="301" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -8159,6 +8156,8 @@ Could not find rule: Paired Weapon</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Paired Weapon</comment>
     </selectionEntry>
     <selectionEntry name="Heavy Lascutter (Melee)" type="upgrade" id="98b8-afb2-42da-b75d">
       <infoLinks>
@@ -8339,9 +8338,8 @@ Could not find rule: Paired Weapon</comment>
             <modifier type="set" field="name" value="Two-Handed"/>
           </modifiers>
         </infoLink>
+        <infoLink name="Titanic Weight" hidden="false" type="rule" targetId="8d22-99a3-4285-aa1c" id="812e-1337-416c-ab0d"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Titanic Weight</comment>
       <profiles>
         <profile name="Heavy Power Weapon" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="cbe9-c579-4b81-9ad9" page="302" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -8628,9 +8626,12 @@ Could not find rule: Titanic Weight</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Ungainly" hidden="false" type="rule" targetId="1cb6-d7f2-0c79-d208" id="031b-1520-4da0-a161"/>
+        <infoLink name="Burst (X)" hidden="false" type="rule" targetId="10c5-fcbe-4d2b-ad45" id="9942-05ca-4b6d-855c">
+          <modifiers>
+            <modifier type="set" field="name" value="Burst (D3)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Burst (D3)</comment>
       <profiles>
         <profile name="Impetus Lance" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="9254-2fad-44fc-8f68" page="303" publicationId="f505-5fc8-ee53-1cec">
           <characteristics>
@@ -9214,8 +9215,6 @@ Vratine Voidplate confers a 2+ Armour Save. In addition, a unit that includes an
       </profiles>
     </selectionEntry>
     <selectionEntry name="Auto-Repeater Carbine" type="upgrade" id="1749-9225-4d8b-a32a">
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Auxiliary Gunners</comment>
       <profiles>
         <profile name="Auto-Repeater Carbine" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="5b6e-ac35-4439-b9a3" page="96" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -9226,6 +9225,9 @@ Could not find rule: Auxiliary Gunners</comment>
           </characteristics>
         </profile>
       </profiles>
+      <infoLinks>
+        <infoLink name="Auxiliary Gunners" hidden="false" type="rule" targetId="3474-4b42-4255-b3eb" id="6862-43c7-4254-ba28"/>
+      </infoLinks>
     </selectionEntry>
     <selectionEntry name="Ferrumite Cannon" type="upgrade" id="7c64-07b0-4bb5-8616">
       <infoLinks>
@@ -9735,8 +9737,6 @@ Could not find rule: Auxiliary Gunners</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Apocalyptic Blast (10&quot;)</comment>
       <profiles>
         <profile name="Graviton Ruinator" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="7c6d-f1f8-45a8-af69" page="98" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -9747,6 +9747,8 @@ Could not find rule: Apocalyptic Blast (10&quot;)</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Apocalyptic Blast (10&quot;)</comment>
     </selectionEntry>
     <selectionEntry name="Electrocoil Harpoon" type="upgrade" id="950f-2cbd-4ea2-b212">
       <infoLinks>
@@ -9756,9 +9758,12 @@ Could not find rule: Apocalyptic Blast (10&quot;)</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Sniper" hidden="false" type="rule" targetId="9cd8-e726-5dbe-b106" id="3f0a-e61c-4033-8e08"/>
+        <infoLink name="Prey-Snare (X)" hidden="false" type="rule" targetId="ae79-b826-4ce4-b298" id="b805-b996-4c8a-a73c">
+          <modifiers>
+            <modifier type="set" field="name" value="Prey-Snare (Minoris)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Prey-Snare (Minoris)</comment>
       <profiles>
         <profile name="Electrocoil Harpoon" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="4653-15a5-4735-8ea3" page="98" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -9778,9 +9783,12 @@ Could not find rule: Prey-Snare (Minoris)</comment>
           </modifiers>
         </infoLink>
         <infoLink name="Sniper" hidden="false" type="rule" targetId="9cd8-e726-5dbe-b106" id="c342-57c3-4ecd-a2eb"/>
+        <infoLink name="Prey-Snare (X)" hidden="false" type="rule" targetId="ae79-b826-4ce4-b298" id="dd43-bd3b-480f-b884">
+          <modifiers>
+            <modifier type="set" field="name" value="Prey-Snare (Majoris)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Prey-Snare (Majoris)</comment>
       <profiles>
         <profile name="Thundercoil Harpoon" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="8f30-1eec-4596-b180" page="98" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -9796,9 +9804,12 @@ Could not find rule: Prey-Snare (Majoris)</comment>
       <infoLinks>
         <infoLink name="Destructor" hidden="false" type="rule" targetId="1f93-c765-f7b2-a025" id="d0ec-86f6-4c3f-a8af"/>
         <infoLink name="Sniper" hidden="false" type="rule" targetId="9cd8-e726-5dbe-b106" id="d52d-9c42-4c5d-b7d6"/>
+        <infoLink name="Prey-Snare (X)" hidden="false" type="rule" targetId="ae79-b826-4ce4-b298" id="74dc-307b-47fd-9d53">
+          <modifiers>
+            <modifier type="set" field="name" value="Prey-Snare (Maxima)"/>
+          </modifiers>
+        </infoLink>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Prey-Snare (Maxima)</comment>
       <profiles>
         <profile name="Ursus Claw" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="42de-f703-4169-b496" page="98" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -10033,8 +10044,6 @@ Could not find rule: Prey-Snare (Maxima)</comment>
       <infoLinks>
         <infoLink name="Shieldbreaker" hidden="false" type="rule" targetId="0262-3e27-47a9-8de0" id="c9f2-c38c-4f8a-832f"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Shieldbreaker Missile" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="551c-bb72-4a95-a035" page="99" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -10045,6 +10054,8 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Tectomagnic Bomb Rack" type="upgrade" id="7ce9-35bd-489d-8147">
       <infoLinks>
@@ -10083,8 +10094,6 @@ Could not find rule: One Use</comment>
         </infoLink>
         <infoLink name="Vortex" hidden="false" type="rule" targetId="a0d8-9118-002e-613d" id="82d1-6a8f-4281-ba8f"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: One Use</comment>
       <profiles>
         <profile name="Vortex Missile" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="cbf1-bd18-49d2-9cdc" page="99" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -10095,6 +10104,8 @@ Could not find rule: One Use</comment>
           </characteristics>
         </profile>
       </profiles>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: One Use</comment>
     </selectionEntry>
     <selectionEntry name="Arkadia Plasma Array" type="upgrade" id="76e2-56bc-481a-b47f">
       <infoLinks>
@@ -10151,9 +10162,8 @@ Could not find rule: One Use</comment>
         <infoLink name="Ignores Cover" hidden="false" type="rule" targetId="fdb5-59e2-c446-1cbc" id="3adb-0f0f-4a2f-bdcf"/>
         <infoLink name="Reactor Overload" hidden="false" type="rule" targetId="a073-b86c-7bc1-d3f9" id="b5a6-c660-4aaf-be7f"/>
         <infoLink name="Gets Hot" hidden="false" type="rule" targetId="679f-9d97-5ace-a652" id="85d9-8604-4eb3-8b6c"/>
+        <infoLink name="Ejector Blowout" hidden="false" type="rule" targetId="eb61-84a5-4c64-b9f5" id="8245-03ea-4284-aa60"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Ejector Blowout</comment>
       <profiles>
         <profile name="Cynis Plasma Ejector" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="c866-036f-4b57-9527" page="99" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
@@ -11124,6 +11134,144 @@ In addition, all models with a Scapuli-Pattern Thruster Pack that have been acti
         <profile name="Sulphurite Reservoirs" typeName="Wargear Item" hidden="false" typeId="2a1f-7837-f0ef-be44" id="c560-d46b-4dae-a760" page="106" publicationId="89c5-118c-61fb-e6d8">
           <characteristics>
             <characteristic typeId="347e-ee4a-764f-6be3" name="Description">A model equipped with Sulphurite Reservoirs gains the Fleet (2) and Rad-Saturation Special Rules. The model is also equipped with a Sulphur Ejector.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Adrastus Bolt Caliver - Bolt Volley" type="upgrade" id="70d8-21bc-4c0e-8191">
+      <infoLinks>
+        <infoLink name="Shred" hidden="false" type="rule" targetId="5e7e-1628-8174-6f2c" id="f1bc-02d6-4469-a382"/>
+        <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="b0aa-bf5a-4164-aac1"/>
+      </infoLinks>
+      <profiles>
+        <profile name=" Adrastus Bolt Caliver - Bolt Volley" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="a88f-2999-4d3d-8a6b" page="171" publicationId="9fab-fea7-a93c-2074">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">36&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">5</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">4</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Assault 4, Shred, Pinning</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Balistus Grenade Launcher - Frag" type="upgrade" id="f678-69f5-408f-ba8f">
+      <infoLinks>
+        <infoLink name="Blast" hidden="false" type="rule" targetId="1d9a-73ef-5f4f-8bd8" id="02c2-3592-419a-82c2">
+          <modifiers>
+            <modifier type="set" field="name" value="Blast (3&quot;)"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="b4d4-bdee-4059-8f4d"/>
+        <infoLink name="Shell Shock (X)" hidden="false" type="rule" targetId="46b7-63a1-941c-96a5" id="599a-63d0-4308-9718">
+          <modifiers>
+            <modifier type="set" field="name" value="Shell Shock (1)"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+      <profiles>
+        <profile name=" Balistus Grenade Launcher - Frag" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="2e70-fca7-47a0-890b" page="296" publicationId="f505-5fc8-ee53-1cec">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">18&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">3</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">6</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Assault 1, Blast (3&quot;), Pinning, Shell Shock (1)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Balistus Grenade Launcher - Krak" type="upgrade" id="1447-89cd-4444-9690">
+      <infoLinks>
+        <infoLink name="Concussive (X)" hidden="false" type="rule" targetId="7ce5-1bfb-64e6-f826" id="790c-77ad-4e0c-a67c">
+          <modifiers>
+            <modifier type="set" field="name" value="Concussive (1)"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+      <profiles>
+        <profile name=" Balistus Grenade Launcher - Krak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="2d7c-7a52-4500-9288" page="296" publicationId="f505-5fc8-ee53-1cec">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">18&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">6</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">4</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Assault 2, Concussive (1)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Balistus Grenade Launcher - Tanglefoot" type="upgrade" id="13f8-0699-44dc-adb6">
+      <infoLinks>
+        <infoLink name="Entangle (X)" hidden="false" type="rule" targetId="4a92-bb9b-613a-accb" id="a9df-b2e3-4c76-970f">
+          <modifiers>
+            <modifier type="set" field="name" value="Entangle (1)"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+      <profiles>
+        <profile name=" Balistus Grenade Launcher - Tanglefoot" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="3d2a-2324-4a2e-bda1" page="296" publicationId="f505-5fc8-ee53-1cec">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">18&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">4</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">-</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Assault 2, Entangle (1)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Cyclone Missile Launcher - Frag" type="upgrade" id="cbc4-19a2-4742-84db">
+      <infoLinks>
+        <infoLink name="Blast" hidden="false" type="rule" targetId="1d9a-73ef-5f4f-8bd8" id="14c4-75bf-46e2-b353">
+          <modifiers>
+            <modifier type="set" field="name" value="Large Blast (5&quot;)"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Pinning" hidden="false" type="rule" targetId="1c96-205c-59a0-3cf2" id="64d5-1f4c-4b4f-a327"/>
+      </infoLinks>
+      <profiles>
+        <profile name=" Cyclone Missile Launcher - Frag" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="cb45-d978-44de-b856" page="298" publicationId="f505-5fc8-ee53-1cec">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">48&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">4</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">6</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Heavy 1, Large Blast (5&quot;), Pinning</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Cyclone Missile Launcher - Krak" type="upgrade" id="eed9-2d7c-4777-9ad7">
+      <infoLinks>
+        <infoLink name="Twin-linked" hidden="false" type="rule" targetId="8542-ee9d-e2fa-52fe" id="a6e6-ecb8-4a78-9473">
+          <modifiers>
+            <modifier type="set" field="name" value="Twin-Linked"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+      <profiles>
+        <profile name=" Cyclone Missile Launcher - Krak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="e5bd-7c69-4a99-a5f4" page="298" publicationId="f505-5fc8-ee53-1cec">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">48&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">8</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">3</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Heavy 2, Twin-Linked</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </selectionEntry>
+    <selectionEntry name=" Cyclone Missile Launcher - Flak" type="upgrade" id="cfa0-e56b-4c03-887e">
+      <infoLinks>
+        <infoLink name="Skyfire" hidden="false" type="rule" targetId="f2bf-5daa-9f93-0b01" id="2c06-f5b9-4af2-8ce0"/>
+        <infoLink name="Twin-linked" hidden="false" type="rule" targetId="8542-ee9d-e2fa-52fe" id="adbf-5498-48ef-9789">
+          <modifiers>
+            <modifier type="set" field="name" value="Twin-Linked"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+      <profiles>
+        <profile name=" Cyclone Missile Launcher - Flak" typeName="Weapon" hidden="false" typeId="1a1a-e592-2849-a5c0" id="a9ff-f2c7-41ae-854f" page="298" publicationId="f505-5fc8-ee53-1cec">
+          <characteristics>
+            <characteristic typeId="95ba-cda7-b831-6066" name="Range">48&quot;</characteristic>
+            <characteristic typeId="24d9-b8e1-a355-2458" name="Strength">7</characteristic>
+            <characteristic typeId="f7a6-e0d8-7973-cd8d" name="AP">3</characteristic>
+            <characteristic typeId="2f86-c8b4-b3b4-3ff9" name="Type">Heavy 2, Skyfire, Twin-Linked</characteristic>
           </characteristics>
         </profile>
       </profiles>

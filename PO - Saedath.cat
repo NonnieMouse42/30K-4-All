@@ -32,11 +32,6 @@
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5ca5-27d9-4912-b4e5"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c5e1-b9b5-475d-8716"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Mask of Many Faces
-	 Checked under Mask of Many Faces
-Could not find wargear in The Troupe Master may select any of the following:
-Could not find wargear in The Troupe Master may select any of the following:</comment>
           <entryLinks>
             <entryLink name="Holo-Suit" hidden="false" type="selectionEntry" targetId="a1af-18af-49d7-9abb" id="4f7c-81db-4ded-aed1">
               <constraints>
@@ -131,14 +126,14 @@ Could not find wargear in The Troupe Master may select any of the following:</co
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Troupe Master may select any of the following:" id="1fc1-59a0-49ba-8e4a">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c9b2-0885-4ae9-940b"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Haywire Grenades
 	 Checked under Haywire Grenades
 Could not find wargear One Vortex Grenade
 	 Checked under One Vortex Grenade</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c9b2-0885-4ae9-940b"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -147,6 +142,14 @@ Could not find wargear One Vortex Grenade
             <categoryLink targetId="59a4-7b61-600a-c457" id="7de6-f17a-46b4-97d6" name="Skirmish" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="fe26-3fd4-4943-acca" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Mask of Many Faces
+	 Checked under Mask of Many Faces
+Could not find wargear in The Troupe Master may select any of the following:
+Could not find wargear in The Troupe Master may select any of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -250,16 +253,14 @@ Could not find rule: Independent Character</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Shadowseer may take the following:" id="ef24-2bb1-48eb-9bc5">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Haywire Grenades
-	 Checked under Haywire Grenades</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cb47-2c6b-45d0-992b"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Haywire Grenades
+	 Checked under Haywire Grenades</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in A Shadowseer may take the following:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="a43a-ad9a-49ae-a7b0" name="Infantry" primary="false"/>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="4845-655e-47b0-bfaf" name="Rillietann" primary="false"/>
@@ -267,6 +268,11 @@ Could not find wargear in A Shadowseer may take the following:</comment>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="f699-78ab-4c0c-9ba7" name="Character" primary="false"/>
             <categoryLink targetId="6e0c-29ba-a445-8321" id="51db-9e8f-4164-a883" name="Psyker" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in A Shadowseer may take the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -333,17 +339,6 @@ Could not find rule: Independent Character</comment>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Death Jester exchange their Shrieker Cannon for one of the following:" id="fccb-3473-4c6c-a444">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Shrieker Cannon
-	 Checked under Shrieker Cannon
-Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and Starhawk Missiles)
-	 Checked under Aeldari Missile Launcher (with Sunburst, Starshot, and Starhawk Missiles)
-Could not find wargear Fire Pike
-	 Checked under Fire Pike
-Could not find wargear Prism Rifle
-	 Checked under Prism Rifle
-Could not find wargear Reaper Launcher (with Starswarm, Starshot, and Starhawk Missiles)
-	 Checked under Reaper Launcher (with Starswarm, Starshot, and Starhawk Missiles)</comment>
               <entryLinks>
                 <entryLink name="Bright Lance" hidden="false" type="selectionEntry" targetId="b339-f2cd-40fc-962f" id="6e10-c75b-44f8-8aa3">
                   <constraints>
@@ -379,16 +374,36 @@ Could not find wargear Reaper Launcher (with Starswarm, Starshot, and Starhawk M
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="eea4-c1a5-4029-ac03"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Shrieker Cannon
+	 Checked under Shrieker Cannon
+Could not find wargear Aeldari Missile Launcher (with Sunburst, Starshot, and Starhawk Missiles)
+	 Checked under Aeldari Missile Launcher (with Sunburst, Starshot, and Starhawk Missiles)
+Could not find wargear Fire Pike
+	 Checked under Fire Pike
+Could not find wargear Prism Rifle
+	 Checked under Prism Rifle
+Could not find wargear Reaper Launcher (with Starswarm, Starshot, and Starhawk Missiles)
+	 Checked under Reaper Launcher (with Starswarm, Starshot, and Starhawk Missiles)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Death Jester may take the following:" id="393c-b1e6-4be7-87c5">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Haywire Grenades
-	 Checked under Haywire Grenades</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9db5-c890-40b9-8ed1"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Haywire Grenades
+	 Checked under Haywire Grenades</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ad8b-92d5-4229-820b" name="Infantry" primary="false"/>
+            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0792-796c-4cf8-a291" name="Rillietann" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="4c65-75a5-4359-96af" name="Skirmish" primary="false"/>
+            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a56b-4d15-49f3-b2d6" name="Character" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Death Jester exchange their Shrieker Cannon for one of the following:
 Could not find wargear in A Death Jester exchange their Shrieker Cannon for one of the following:
@@ -396,12 +411,6 @@ Could not find wargear in A Death Jester exchange their Shrieker Cannon for one 
 Could not find wargear in A Death Jester exchange their Shrieker Cannon for one of the following:
 Could not find wargear in A Death Jester exchange their Shrieker Cannon for one of the following:
 Could not find wargear in A Death Jester may take the following:</comment>
-          <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ad8b-92d5-4229-820b" name="Infantry" primary="false"/>
-            <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0792-796c-4cf8-a291" name="Rillietann" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="4c65-75a5-4359-96af" name="Skirmish" primary="false"/>
-            <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a56b-4d15-49f3-b2d6" name="Character" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -497,15 +506,18 @@ Could not find rule: Independent Character</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Haywire Grenades
-	 Checked under Haywire Grenades</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="164e-014e-4489-89ff" name="Infantry" primary="false"/>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="638f-c2ab-4c43-819d" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="c890-3af0-4c49-860a" name="Skirmish" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5f64-e321-4f7f-867c" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Haywire Grenades
+	 Checked under Haywire Grenades</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -664,6 +676,9 @@ Could not find rule: Independent Character</comment>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="0574-9c04-434c-8feb" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="165e-5670-4643-9857" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="22"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Lead Player" id="ac68-2eaa-405c-8b52" page="124" publicationId="a368-64f0-10c7-c49d">
           <profiles>
@@ -788,22 +803,25 @@ Could not find rule: Independent Character</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Lead Player may select:" id="f503-f611-42e0-8eea">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Haywire Grenades
-	 Checked under Haywire Grenades</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fee3-55c6-4efb-9d83"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Haywire Grenades
+	 Checked under Haywire Grenades</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Lead Player may select:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="88d7-ab74-480e-8afe" name="Infantry" primary="false"/>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="724d-0ade-4d1c-939a" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="309d-0b7d-4d73-bfbc" name="Skirmish" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="ed2d-6c60-4334-87e1" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Lead Player may select:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -873,16 +891,19 @@ Power Sword is in two option lists for Lead Player, you will need to combine the
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Mirage Launchers
-	 Checked under Mirage Launchers
-Could not find type or subtype &apos;Cavalry&apos;
-Could not find type or subtype &apos;Transport*&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="4303-1348-cce4-9501" id="5f14-a31b-4efb-991e" name="Antigrav" primary="false"/>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="f77d-ed49-429a-b5db" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="06f4-1782-4cf9-bd5d" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Mirage Launchers
+	 Checked under Mirage Launchers
+Could not find type or subtype &apos;Cavalry&apos;
+Could not find type or subtype &apos;Transport*&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -985,10 +1006,6 @@ Could not find type or subtype &apos;Transport*&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Mirage Launchers
-	 Checked under Mirage Launchers
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may replace its Skyweaver Jetbike’s Shuriken Cannon with the following:" id="920c-ec3c-420c-991a">
               <entryLinks>
@@ -1026,6 +1043,13 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="625c-52e0-4833-8804" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="fd87-dd3c-4cd9-b7d8" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Mirage Launchers
+	 Checked under Mirage Launchers
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1129,19 +1153,14 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Mirage Launchers
-	 Checked under Mirage Launchers
-Could not find wargear in Any model in the unit may replace their Haywire Cannon with the following:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may replace their Haywire Cannon with the following:" id="88c6-e999-4a5d-9563">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Prismatic Cannon
-	 Checked under Prismatic Cannon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2fe9-72f3-42b5-a935"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Prismatic Cannon
+	 Checked under Prismatic Cannon</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -1149,6 +1168,14 @@ Could not find wargear Prismatic Cannon
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="dc8c-2bfe-4b54-9370" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="f0a5-6ec6-4d23-aca4" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="90"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Mirage Launchers
+	 Checked under Mirage Launchers
+Could not find wargear in Any model in the unit may replace their Haywire Cannon with the following:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>

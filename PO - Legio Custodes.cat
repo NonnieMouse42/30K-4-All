@@ -58,9 +58,6 @@
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Host-Master may select any of the following options:" id="1520-7a11-4b1b-894a">
               <entryLinks>
@@ -161,6 +158,12 @@ Could not find wargear Melta Bombs
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="ffa2-0201-4626-92b4" name="Character" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="b9ac-20f6-4d14-8048" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -224,14 +227,6 @@ Could not find rule: Master of the Shield Hosts</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Misericordia
-	 Checked under Misericordia
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear Custodes Gyrfalcon Jetbike
-	 Checked under Custodes Gyrfalcon Jetbike
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Agamatii Shield Captain may select the following option:" id="307d-d3de-48c2-8c0a">
               <entryLinks>
@@ -339,6 +334,17 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="4303-1348-cce4-9501" id="8990-8326-43a2-9cec" name="Antigrav" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="dd63-50e9-4221-8859" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Misericordia
+	 Checked under Misericordia
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear Custodes Gyrfalcon Jetbike
+	 Checked under Custodes Gyrfalcon Jetbike
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -414,13 +420,6 @@ Could not find rule: Independent Character</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Misericordia
-	 Checked under Misericordia
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear in The Vertoii Shield Captain may replace his Custodes Dawneagle Jetbike’s Two Lastrum Storm Bolters with one of the following options:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Vertoii Shield Captain may select the following option:" id="f04a-d5cc-41a1-a1f8">
               <entryLinks>
@@ -510,12 +509,12 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Salvo Launcher
-	 Checked under Salvo Launcher</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c68a-552b-4876-b9d6"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Salvo Launcher
+	 Checked under Salvo Launcher</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -523,6 +522,16 @@ Could not find wargear Salvo Launcher
             <categoryLink targetId="4303-1348-cce4-9501" id="3ddb-37ff-42dd-8665" name="Antigrav" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="1341-5b3f-4a2a-b543" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Misericordia
+	 Checked under Misericordia
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear in The Vertoii Shield Captain may replace his Custodes Dawneagle Jetbike’s Two Lastrum Storm Bolters with one of the following options:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -578,15 +587,6 @@ Could not find rule: Independent Character</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="0ff2-1ad9-40d0-8c2d"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e22b-db39-477b-aec7"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Balistus Grenade Launcher
-	 Checked under Balistus Grenade Launcher
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear Misericordia
-	 Checked under Misericordia
-Could not find wargear Allarus Terminator Armour
-	 Checked under Allarus Terminator Armour</comment>
           <entryLinks>
             <entryLink name="Guardian Spear" hidden="false" type="selectionEntry" targetId="9e55-ae31-3ba6-d720" id="e7af-388b-479e-b264">
               <constraints>
@@ -729,6 +729,18 @@ Could not find wargear Allarus Terminator Armour
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="486f-cd6f-4d21-a536" name="Character" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="5089-e48d-4533-af82" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Balistus Grenade Launcher
+	 Checked under Balistus Grenade Launcher
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear Misericordia
+	 Checked under Misericordia
+Could not find wargear Allarus Terminator Armour
+	 Checked under Allarus Terminator Armour</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -802,13 +814,6 @@ Could not find rule: Independent Character</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Aquilon Terminator Armour
-	 Checked under Aquilon Terminator Armour
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear Misericordia
-	 Checked under Misericordia</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Aquilus Shield Captain may replace his Solarite Power Gauntlet with one of the following options:" id="6d9b-ebf6-4be1-8933">
               <entryLinks>
@@ -910,6 +915,16 @@ Could not find wargear Misericordia
             <categoryLink targetId="59a4-7b61-600a-c457" id="02c2-d061-4e98-bb6a" name="Skirmish" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="3ba8-6eb3-4e82-8433" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Aquilon Terminator Armour
+	 Checked under Aquilon Terminator Armour
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear Misericordia
+	 Checked under Misericordia</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -957,15 +972,6 @@ Could not find rule: Independent Character</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2518-a2fd-4941-a8f4"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="95bb-84ad-481c-9775"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Kinetic Destroyer
-	 Checked under Kinetic Destroyer
-Could not find wargear Misericordia
-	 Checked under Misericordia
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear in The Venataris Shield Captain may select the following option, in addition to his normal wargear:
-Could not find wargear in The Venataris Shield Captain may replace his Tarsus Buckler and Kinetic Destroyer with one of the following options:</comment>
           <entryLinks>
             <entryLink name="Tarsus Buckler" hidden="false" type="selectionEntry" targetId="5c98-2aec-4cca-867f" id="7d3a-1117-490a-8979">
               <constraints>
@@ -994,12 +1000,12 @@ Could not find wargear in The Venataris Shield Captain may replace his Tarsus Bu
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Venataris Shield Captain may select the following option, in addition to his normal wargear:" id="fc0b-c5c3-45f0-909e">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Kinetic Destroyer
-	 Checked under Kinetic Destroyer</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c1c6-e57c-4f1f-b60d"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Kinetic Destroyer
+	 Checked under Kinetic Destroyer</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Venataris Shield Captain may replace his Tarsus Buckler with one of the following options:" id="d016-75fb-4631-bcf5">
               <entryLinks>
@@ -1064,9 +1070,6 @@ Could not find wargear Kinetic Destroyer
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Venataris Shield Captain may replace his Tarsus Buckler and Kinetic Destroyer with one of the following options:" id="c89c-0dcd-40c0-abef">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Venatarii Lance
-	 Checked under Venatarii Lance</comment>
               <entryLinks>
                 <entryLink name="Solarite Power Talon" hidden="false" type="selectionEntry" targetId="d9bd-74cb-097b-14de" id="9341-9efa-4cba-a99b">
                   <costs>
@@ -1091,6 +1094,9 @@ Could not find wargear Venatarii Lance
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8438-2385-45cf-8844"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Venatarii Lance
+	 Checked under Venatarii Lance</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -1098,6 +1104,18 @@ Could not find wargear Venatarii Lance
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="fb66-76f6-4376-85c8" name="Character" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="1917-2933-4a68-96cf" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Kinetic Destroyer
+	 Checked under Kinetic Destroyer
+Could not find wargear Misericordia
+	 Checked under Misericordia
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear in The Venataris Shield Captain may select the following option, in addition to his normal wargear:
+Could not find wargear in The Venataris Shield Captain may replace his Tarsus Buckler and Kinetic Destroyer with one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1151,15 +1169,6 @@ Could not find rule: Independent Character</comment>
             <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="f807-6c10-4a35-b3f1"/>
             <constraint type="max" value="10" field="selections" scope="parent" shared="true" id="9347-5dda-4fe2-bdb3"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear Misericordia
-	 Checked under Misericordia
-Could not find wargear Allarus Terminator Armour
-	 Checked under Allarus Terminator Armour
-Could not find wargear in Any model in the unit may exchange their Guardian Spear with one of the following options:
-Could not find wargear in Any model in the unit may exchange their Balistus Grenade Launcher for one of the following options:</comment>
           <entryLinks>
             <entryLink name="Frag Grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="1c64-0840-4738-a007">
               <constraints>
@@ -1190,17 +1199,14 @@ Could not find wargear in Any model in the unit may exchange their Balistus Gren
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pytherite Spear
-	 Checked under Pytherite Spear</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2270-c064-4b76-93af"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pytherite Spear
+	 Checked under Pytherite Spear</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may exchange their Balistus Grenade Launcher for one of the following options:" id="5392-094d-4faa-ad2d">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Balistus Grenade Launcher
-	 Checked under Balistus Grenade Launcher</comment>
               <entryLinks>
                 <entryLink name="Lastrum Storm Bolter" hidden="false" type="selectionEntry" targetId="9724-e7e9-59b0-8c35" id="8e13-7d8a-44b7-b0ef">
                   <constraints>
@@ -1219,6 +1225,9 @@ Could not find wargear Balistus Grenade Launcher
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7e9f-3635-4a8c-bf00"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Balistus Grenade Launcher
+	 Checked under Balistus Grenade Launcher</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may exchange their Guardian Spear and Balistus Grenade Launcher for the following option:" id="a69f-706c-4244-a651">
               <entryLinks>
@@ -1243,25 +1252,32 @@ Could not find wargear Balistus Grenade Launcher
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="cf27-822e-4281-a657" name="Infantry" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="e454-6f53-4ed9-8e28" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="80"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear Misericordia
+	 Checked under Misericordia
+Could not find wargear Allarus Terminator Armour
+	 Checked under Allarus Terminator Armour
+Could not find wargear in Any model in the unit may exchange their Guardian Spear with one of the following options:
+Could not find wargear in Any model in the unit may exchange their Balistus Grenade Launcher for one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="One model in the unit may exchange their Guardian Spear with one of the following options:" id="759f-9e39-444e-9c61">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="df9e-6ece-402a-9906"/>
+          </constraints>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Magisterium Vexilla &amp; Master-Crafted Power Weapon
 	 Checked under Magisterium Vexilla &amp; Master-Crafted Power Weapon
 Could not find wargear Magisterium Vexilla &amp; Paragon Blade
 	 Checked under Magisterium Vexilla &amp; Paragon Blade</comment>
-          <constraints>
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="df9e-6ece-402a-9906"/>
-          </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in One model in the unit may exchange their Guardian Spear with one of the following options:
-Could not find wargear in One model in the unit may exchange their Guardian Spear with one of the following options:
-Balistus Grenade Launcher is in two option lists for Allarus Terminator, you will need to combine them by hand.
-Guardian Spear is in two option lists for Allarus Terminator, you will need to combine them by hand.</comment>
       <infoLinks>
         <infoLink name="Legio Custodes" hidden="false" type="rule" targetId="6998-b328-c080-5341" id="7b7c-046f-4e54-967e"/>
         <infoLink name="Bulky (X)" hidden="false" type="rule" targetId="676c-7b75-4b6f-9405" id="e65f-f406-47f3-b88f">
@@ -1280,6 +1296,11 @@ Guardian Spear is in two option lists for Allarus Terminator, you will need to c
         <infoLink name="Stubborn" hidden="false" type="rule" targetId="7989-1f2c-a43d-82ae" id="3e60-aa81-4337-b0b8"/>
         <infoLink name="Loyalist" hidden="false" type="rule" targetId="d1de-a45d-2b9b-c878" id="0d3c-8bfe-4053-b5e9"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in One model in the unit may exchange their Guardian Spear with one of the following options:
+Could not find wargear in One model in the unit may exchange their Guardian Spear with one of the following options:
+Balistus Grenade Launcher is in two option lists for Allarus Terminator, you will need to combine them by hand.
+Guardian Spear is in two option lists for Allarus Terminator, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Contemptor-Moritiax Dreadnought Talon" type="unit" id="d60c-b9aa-42c7-8f23" page="69" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
@@ -1312,13 +1333,6 @@ Guardian Spear is in two option lists for Allarus Terminator, you will need to c
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fe6f-5a68-4bd5-bfdc"/>
             <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="d16a-4f7a-4481-9c4e"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Power Fist with in-built Lastrum Storm Bolter
-	 Checked under Gravis Power Fist with in-built Lastrum Storm Bolter
-Could not find wargear in Any Contemptor-Moritiax Dreadnought in the unit may replace its Gravis Melta Cannon and/or Gravis Power Fist with in-built Lastrum Storm Bolter with one of the following options:
-Could not find wargear in Any Contemptor-Moritiax Dreadnought in the unit may replace its Gravis Melta Cannon and/or Gravis Power Fist with in-built Lastrum Storm Bolter with one of the following options:
-Could not find wargear in Any Contemptor-Moritiax Dreadnought in the unit may replace a in-built Lastrum Storm Bolter on either a Gravis Power Fist or Gravis Chainfist with one of the following options:
-Could not find type or subtype &apos;Dreadnought&apos;</comment>
           <entryLinks>
             <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="35e2-2526-4086-982c">
               <constraints>
@@ -1382,14 +1396,14 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="0fb0-4efa-48af-b844"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Gravis Power Fist with in-built Lastrum Storm Bolter
 	 Checked under Gravis Power Fist with in-built Lastrum Storm Bolter
 Could not find wargear Gravis Chainfist with in-built Lastrum Storm Bolter
 	 Checked under Gravis Chainfist with in-built Lastrum Storm Bolter</comment>
-              <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="0fb0-4efa-48af-b844"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Contemptor-Moritiax Dreadnought in the unit may replace a in-built Lastrum Storm Bolter on either a Gravis Power Fist or Gravis Chainfist with one of the following options:" id="ce15-bdfc-4fde-b818">
               <entryLinks>
@@ -1410,12 +1424,12 @@ Could not find wargear Gravis Chainfist with in-built Lastrum Storm Bolter
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Proteus Plasma Projector
-	 Checked under Proteus Plasma Projector</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dd16-3608-4db7-84bc"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Proteus Plasma Projector
+	 Checked under Proteus Plasma Projector</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Contemptor-Moritiax Dreadnought in the unit may take one of the following options:" id="9f56-8cb2-4e39-a0f0">
               <entryLinks>
@@ -1442,6 +1456,16 @@ Could not find wargear Proteus Plasma Projector
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="235"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Power Fist with in-built Lastrum Storm Bolter
+	 Checked under Gravis Power Fist with in-built Lastrum Storm Bolter
+Could not find wargear in Any Contemptor-Moritiax Dreadnought in the unit may replace its Gravis Melta Cannon and/or Gravis Power Fist with in-built Lastrum Storm Bolter with one of the following options:
+Could not find wargear in Any Contemptor-Moritiax Dreadnought in the unit may replace its Gravis Melta Cannon and/or Gravis Power Fist with in-built Lastrum Storm Bolter with one of the following options:
+Could not find wargear in Any Contemptor-Moritiax Dreadnought in the unit may replace a in-built Lastrum Storm Bolter on either a Gravis Power Fist or Gravis Chainfist with one of the following options:
+Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1501,13 +1525,6 @@ Could not find wargear Proteus Plasma Projector
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Misericordia
-	 Checked under Misericordia
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear in Any model in the unit may replace its Custodes Dawneagle Jetbike’s Two Lastrum Storm Bolters for one of the following options:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may replace its Custodes Dawneagle Jetbike’s Two Lastrum Storm Bolters for one of the following options:" id="8e39-e564-450e-9281">
               <entryLinks>
@@ -1520,18 +1537,28 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Salvo Launcher
-	 Checked under Salvo Launcher</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5008-e646-41c0-a621"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Salvo Launcher
+	 Checked under Salvo Launcher</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="4303-1348-cce4-9501" id="2d62-a8cc-4c8d-9912" name="Antigrav" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="c851-15bf-4458-9981" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="90"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Misericordia
+	 Checked under Misericordia
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear in Any model in the unit may replace its Custodes Dawneagle Jetbike’s Two Lastrum Storm Bolters for one of the following options:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1606,14 +1633,17 @@ Could not find wargear Salvo Launcher
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
-	 Checked under Twin-Linked Lastrum Bolt Cannon</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="98ad-790b-4a7d-a878" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="9111-c4f7-4849-80f5" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="8353-66a3-4010-b45d" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
+	 Checked under Twin-Linked Lastrum Bolt Cannon</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1667,11 +1697,6 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Custodes Grav-Raider may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:" id="25d0-ca51-43ab-b027">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
-	 Checked under Twin-Linked Lastrum Bolt Cannon
-Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
-	 Checked under Twin-Linked Infernus Firepike</comment>
               <entryLinks>
                 <entryLink name="Twin-Linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="33d5-652e-49b7-b3b4">
                   <costs>
@@ -1699,6 +1724,11 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4e5c-51cc-4610-b022"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
+	 Checked under Twin-Linked Lastrum Bolt Cannon
+Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
+	 Checked under Twin-Linked Infernus Firepike</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Custodes Grav-Raider may exchange its Two Sponson Mounted Gravis Lascannons for one of the following options:" id="8a0c-49d9-4688-849e">
               <entryLinks>
@@ -1722,12 +1752,12 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Sponson Mounted Iliastus Accelerator Cannons
-	 Checked under Iliastus Accelerator Cannon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b7ad-42d6-4055-ac16"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Sponson Mounted Iliastus Accelerator Cannons
+	 Checked under Iliastus Accelerator Cannon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Custodes Grav-Raider may select one of the following options:" id="3a3c-a34b-43c2-8271">
               <entryLinks>
@@ -1807,16 +1837,19 @@ Could not find wargear Two Sponson Mounted Iliastus Accelerator Cannons
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Custodes Grav-Raider may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
-Could not find wargear in Any Custodes Grav-Raider may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
-Could not find wargear in Any Custodes Grav-Raider may exchange its Two Sponson Mounted Gravis Lascannons for one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="8d6a-c21a-43f6-ada8" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="9b54-eaa6-46dd-b21e" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="115e-d653-4d02-906e" name="Reinforced" primary="false"/>
             <categoryLink targetId="4303-1348-cce4-9501" id="0f27-20f3-4c82-a79b" name="Antigrav" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Custodes Grav-Raider may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
+Could not find wargear in Any Custodes Grav-Raider may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
+Could not find wargear in Any Custodes Grav-Raider may exchange its Two Sponson Mounted Gravis Lascannons for one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1878,14 +1911,17 @@ Could not find wargear in Any Custodes Grav-Raider may exchange its Two Sponson 
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
-	 Checked under Twin-Linked Lastrum Bolt Cannon</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="80c3-19bc-44c5-8f66" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="48de-d8ad-4d0a-9c91" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="eb61-8c96-4731-a6ed" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
+	 Checked under Twin-Linked Lastrum Bolt Cannon</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1948,11 +1984,6 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Custodes Grav-Spartan may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:" id="37cc-4535-4f70-bcfa">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
-	 Checked under Twin-Linked Lastrum Bolt Cannon
-Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
-	 Checked under Twin-Linked Infernus Firepike</comment>
               <entryLinks>
                 <entryLink name="Twin-Linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="743c-2992-4e77-934d">
                   <costs>
@@ -1980,16 +2011,21 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="bcaa-16b5-489d-9ba3"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon
+	 Checked under Twin-Linked Lastrum Bolt Cannon
+Could not find wargear Hull (Front) Mounted Twin-Linked Infernus Firepike
+	 Checked under Twin-Linked Infernus Firepike</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Custodes Grav-Spartan may exchange its Two Sponson Mounted Lascannon Arrays for one of the following options:" id="7c34-5359-4726-826c">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="efb0-f48e-4923-8d86"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Sponson Mounted Iliastus Accelerator Cannon Arrays
 	 Checked under Iliastus Accelerator Cannon Array
 Could not find wargear Two Sponson Mounted Enhanced Arachnus Blaze Cannons
 	 Checked under Enhanced Arachnus Blaze Cannon</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="efb0-f48e-4923-8d86"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Custodes Grav-Spartan may select one of the following options:" id="3eb0-f033-44a4-825e">
               <entryLinks>
@@ -2069,17 +2105,20 @@ Could not find wargear Two Sponson Mounted Enhanced Arachnus Blaze Cannons
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Custodes Grav-Spartan may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
-Could not find wargear in Any Custodes Grav-Spartan may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
-Could not find wargear in Any Custodes Grav-Spartan may exchange its Two Sponson Mounted Lascannon Arrays for one of the following options:
-Could not find wargear in Any Custodes Grav-Spartan may exchange its Two Sponson Mounted Lascannon Arrays for one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="145c-9587-431f-a453" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="d198-dba9-482b-8bbc" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="99f8-3ed7-423c-9846" name="Reinforced" primary="false"/>
             <categoryLink targetId="4303-1348-cce4-9501" id="02c9-cae5-41bb-981b" name="Antigrav" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Custodes Grav-Spartan may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
+Could not find wargear in Any Custodes Grav-Spartan may exchange its Hull (Front) Mounted Twin-Linked Lastrum Bolt Cannon for one of the following options:
+Could not find wargear in Any Custodes Grav-Spartan may exchange its Two Sponson Mounted Lascannon Arrays for one of the following options:
+Could not find wargear in Any Custodes Grav-Spartan may exchange its Two Sponson Mounted Lascannon Arrays for one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>

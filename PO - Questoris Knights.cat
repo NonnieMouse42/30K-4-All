@@ -90,6 +90,9 @@
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="225"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Armiger&apos;</comment>
         </selectionEntry>
@@ -264,6 +267,9 @@ Could not find rule: Moirax Talon</comment>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="c752-c710-4a8f-b673" name="Vehicle" primary="false"/>
             <categoryLink targetId="437f-7773-a0d0-6061" id="0186-122c-4f67-b267" name="Knight" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -305,9 +311,6 @@ Could not find rule: Moirax Talon</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="29f1-2447-43c8-a69c"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="58af-ff0d-4367-9738"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Three Carapace Mounted Siegebreaker Cannons
-	 Checked under Siegebreaker Cannons</comment>
           <entryLinks>
             <entryLink name="Twin-Linked Meltagun" hidden="false" type="selectionEntry" targetId="fb5a-c4c9-f96d-1400" id="794c-7ea8-442c-aab6">
               <modifiers>
@@ -452,6 +455,12 @@ Could not find wargear Three Carapace Mounted Siegebreaker Cannons
             <categoryLink targetId="e2b6-b770-784c-9e95" id="52cd-c7d8-4b91-a80f" name="Vehicle" primary="false"/>
             <categoryLink targetId="437f-7773-a0d0-6061" id="2866-feb3-4aa7-a49f" name="Knight" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Three Carapace Mounted Siegebreaker Cannons
+	 Checked under Siegebreaker Cannons</comment>
         </selectionEntry>
       </selectionEntries>
     </selectionEntry>

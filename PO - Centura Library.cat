@@ -32,11 +32,6 @@
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6fdb-7adf-4d74-9ea7"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f69b-e3cd-428e-889a"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Indomitus Terminator Armour
-	 Checked under Legion Indomitus Terminator Armour
-Could not find wargear in A Legion Indomitus Praetor may exchange their Combi-Bolter with one of the following:
-Could not find wargear in A Legion Indomitus Praetor may upgrade any one weapon to have:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Indomitus Praetor may exchange their Combi-Bolter with one of the following:" id="5321-1e00-4527-9fe5">
               <entryLinks>
@@ -69,10 +64,15 @@ Could not find wargear in A Legion Indomitus Praetor may upgrade any one weapon 
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3a62-c3fb-4b70-bca6"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Proteus Pattern Storm Shield" hidden="false" type="selectionEntry" targetId="e1c6-886d-4048-93ed" id="9482-84c1-4936-b441">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="257d-3087-4b6a-bd64"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Proteus Pattern Storm Shield
-	 Checked under Proteus Pattern Storm Shield</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="afdc-89b3-4361-b64d"/>
               </constraints>
@@ -121,6 +121,14 @@ Could not find wargear Proteus Pattern Storm Shield
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4720-e411-4e15-8be4"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="76b4-11bb-4c91-8a5f">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2baa-f0d5-4a7a-99fb"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2f45-9507-4735-b815"/>
@@ -145,12 +153,12 @@ Could not find wargear Proteus Pattern Storm Shield
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Indomitus Praetor may upgrade any one weapon to have:" id="1780-4ab6-4df9-947d">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear The Master-Crafted Special Rule
-	 Checked under The Master-Crafted Special Rule</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c8e0-8ade-48a1-9e5f"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear The Master-Crafted Special Rule
+	 Checked under The Master-Crafted Special Rule</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Indomitus Praetor may take a:" id="0d71-8201-419e-a101">
               <entryLinks>
@@ -173,6 +181,13 @@ Could not find wargear The Master-Crafted Special Rule
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="6467-e753-4190-810c" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="577a-2ded-4c5e-b2c9" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1709
+Could not find wargear Legion Indomitus Terminator Armour
+	 Checked under Legion Indomitus Terminator Armour
+Could not find wargear in A Legion Indomitus Praetor may upgrade any one weapon to have:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -222,10 +237,6 @@ Power Weapon is in two option lists for Legion Indomitus Praetor, you will need 
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="597d-eea3-437c-b93f"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e8e3-0fe4-4b2a-a284"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Indomitus Terminator Armour
-	 Checked under Legion Indomitus Terminator Armour
-Could not find wargear in A Legion Indomitus Centurion may exchange their Combi-Bolter with one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Indomitus Centurion may exchange their Combi-Bolter with one of the following:" id="91bc-f4f2-4658-be11">
               <entryLinks>
@@ -258,10 +269,15 @@ Could not find wargear in A Legion Indomitus Centurion may exchange their Combi-
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d3c2-0078-456b-a6e6"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Proteus Pattern Storm Shield" hidden="false" type="selectionEntry" targetId="e1c6-886d-4048-93ed" id="1afc-5642-465b-83b0">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1638-2836-466c-a2a8"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Proteus Pattern Storm Shield
-	 Checked under Proteus Pattern Storm Shield</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ecc2-732a-45f7-bb76"/>
               </constraints>
@@ -300,6 +316,14 @@ Could not find wargear Proteus Pattern Storm Shield
                   </costs>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a02c-14d7-4278-babf"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="badb-27ad-44cb-a070">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3dea-43b9-4169-b080"/>
                   </constraints>
                 </entryLink>
               </entryLinks>
@@ -346,6 +370,12 @@ Could not find wargear Proteus Pattern Storm Shield
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="f58b-ef8d-4b74-8337" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="f407-1a84-4aa3-9c45" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1709
+Could not find wargear Legion Indomitus Terminator Armour
+	 Checked under Legion Indomitus Terminator Armour</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -359,16 +389,16 @@ Could not find wargear Proteus Pattern Storm Shield
         </infoLink>
         <infoLink name="Legiones Consularis" hidden="false" type="rule" targetId="5a1d-d2f6-692b-d834" id="e02c-1c52-4b52-82f4"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Independent Character
-Combi-Bolter is in two option lists for Legion Indomitus Centurion, you will need to combine them by hand.
-Power Weapon is in two option lists for Legion Indomitus Centurion, you will need to combine them by hand.</comment>
       <rules>
         <rule name="Legiones Consularis" id="107d-3d51-4a1c-a553" page="7" publicationId="9c07-3edc-5aa8-9304">
           <description>Any Legion Indomitus Centurion may select a single Consul upgrade; no model may take more than one such upgrade. The various Consul types are listed here, but full rules for them can be found in the Liber Astartes rulebooks:
 ●    Legion Librarian.................................................... +45 points ●    Legion Esoterist .................................................... +35 points ●    Legion Champion ................................................. +35 points ●    Legion Forge Lord................................................. +40 points ●    Legion Primus Medicae ....................................... +45 points ●    Legion Siege Breaker ............................................ +45 points ●    Legion Chaplain .................................................... +35 points ●    Legion Delegatus .................................................. +25 points ●    Legion Herald........................................................ +20 points ●    Legion Mortificator .............................................. +25 points</description>
         </rule>
       </rules>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Independent Character
+Combi-Bolter is in two option lists for Legion Indomitus Centurion, you will need to combine them by hand.
+Power Weapon is in two option lists for Legion Indomitus Centurion, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Legion Saturnine Centurion" type="unit" id="3e29-1bf1-48c9-b302" page="8" publicationId="9c07-3edc-5aa8-9304">
       <categoryLinks>
@@ -401,9 +431,6 @@ Power Weapon is in two option lists for Legion Indomitus Centurion, you will nee
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="29d1-c75b-41f6-85ab"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2726-3e1c-4c1f-9763"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Saturnine Terminator Armour
-	 Checked under Legion Saturnine Terminator Armour</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Saturnine Centurion may exchange their Combi-Bolter with one of the following:" id="ab0e-67e0-4a75-bc55">
               <entryLinks>
@@ -468,6 +495,14 @@ Could not find wargear Legion Saturnine Terminator Armour
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ae02-67d7-42b2-8213"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="bdc7-3f9b-4c67-8641" id="b756-ee11-4787-a19c">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5e63-085c-405b-945d"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="22e3-7e6e-4f34-8222"/>
@@ -507,6 +542,14 @@ Could not find wargear Legion Saturnine Terminator Armour
                   </costs>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="684b-a2a6-40ff-a3e9"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="9e31-2da8-40f9-b967">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9cc2-d371-40b3-8c04"/>
                   </constraints>
                 </entryLink>
               </entryLinks>
@@ -600,6 +643,12 @@ Could not find wargear Legion Saturnine Terminator Armour
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5e8d-3aef-41ca-afcd" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="ac71-13c2-4c29-be5f" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Saturnine Terminator Armour
+	 Checked under Legion Saturnine Terminator Armour</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -618,17 +667,17 @@ Could not find wargear Legion Saturnine Terminator Armour
         </infoLink>
         <infoLink name="Legiones Consularis" hidden="false" type="rule" targetId="5a1d-d2f6-692b-d834" id="9b8e-1fa0-40e7-a032"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Battle Hardened (1)
-Could not find rule: Independent Character
-Combi-Bolter is in two option lists for Legion Saturnine Centurion, you will need to combine them by hand.
-Power Weapon is in two option lists for Legion Saturnine Centurion, you will need to combine them by hand.</comment>
       <rules>
         <rule name="Legiones Consularis" id="e22a-267b-48c2-8dd5" page="8" publicationId="9c07-3edc-5aa8-9304">
           <description>Any Legion Saturnine Centurion may select a single Consul upgrade; no model may take more than one such upgrade. The various Consul types are listed here, but full rules for them can be found in the Liber Astartes rulebooks:
 ● Legion Forge Lord................................................. +40 points ● Legion Siege Breaker ............................................ +45 points ● Legion Mortificator .............................................. +25 points</description>
         </rule>
       </rules>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Battle Hardened (1)
+Could not find rule: Independent Character
+Combi-Bolter is in two option lists for Legion Saturnine Centurion, you will need to combine them by hand.
+Power Weapon is in two option lists for Legion Saturnine Centurion, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Legion Indomitus Command Squad" type="unit" id="10a1-9ca0-40bd-81fd" page="9" publicationId="9c07-3edc-5aa8-9304">
       <categoryLinks>
@@ -661,10 +710,6 @@ Power Weapon is in two option lists for Legion Saturnine Centurion, you will nee
             <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="922b-be1b-4fd0-bde2"/>
             <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="387b-79cf-49e6-b1e7"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Indomitus Terminator Armour
-	 Checked under Legion Indomitus Terminator Armour
-Could not find wargear in Any model in the unit may exchange their Combi-Bolter with one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="For every two Legion Indomitus Chosen in the unit, one Legion Indomitus Chosen may take a:" id="04c1-6f49-474d-938c">
               <entryLinks>
@@ -712,10 +757,15 @@ Could not find wargear in Any model in the unit may exchange their Combi-Bolter 
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6f23-1b0e-4305-9dfd"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Proteus Pattern Storm Shield" hidden="false" type="selectionEntry" targetId="e1c6-886d-4048-93ed" id="7431-1e7a-4dad-9ab6">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8b02-c3bf-44ea-85f0"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Proteus Pattern Storm Shield
-	 Checked under Proteus Pattern Storm Shield</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ae07-56f9-43e3-afb2"/>
               </constraints>
@@ -759,6 +809,14 @@ Could not find wargear Proteus Pattern Storm Shield
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="385a-4b9a-4672-a8ed"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="8b49-8e6a-44bb-9327">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6545-ee4d-4217-bf82"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2b01-6930-4695-b472"/>
@@ -787,6 +845,12 @@ Could not find wargear Proteus Pattern Storm Shield
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b95e-ffe7-463e-84e6" name="Infantry" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="ab81-5768-4afa-8f0d" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1709
+Could not find wargear Legion Indomitus Terminator Armour
+	 Checked under Legion Indomitus Terminator Armour</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Indomitus Standard Bearer" id="c219-1777-48c8-bb0f" page="9" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -818,11 +882,6 @@ Could not find wargear Proteus Pattern Storm Shield
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Indomitus Terminator Armour
-	 Checked under Legion Indomitus Terminator Armour
-Could not find wargear in Any model in the unit may exchange their Combi-Bolter with one of the following:
-Could not find wargear in A Legion Indomitus Standard Bearer may exchange his Power Weapon for one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may exchange their Combi-Bolter with one of the following:" id="7c5e-e1c4-4afa-91a7">
               <entryLinks>
@@ -855,10 +914,15 @@ Could not find wargear in A Legion Indomitus Standard Bearer may exchange his Po
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fc81-47f6-435a-9831"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Proteus Pattern Storm Shield" hidden="false" type="selectionEntry" targetId="e1c6-886d-4048-93ed" id="a2ac-b773-4f5e-a9b1">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3ed6-49df-4db0-a840"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Proteus Pattern Storm Shield
-	 Checked under Proteus Pattern Storm Shield</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="eb71-668c-4dc4-8860"/>
               </constraints>
@@ -899,10 +963,15 @@ Could not find wargear Proteus Pattern Storm Shield
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cf88-fa3a-466f-962b"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Proteus Pattern Storm Shield" hidden="false" type="selectionEntry" targetId="e1c6-886d-4048-93ed" id="b996-87aa-4c08-bf3a">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dfcf-42ca-421d-8e35"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Proteus Pattern Storm Shield
-	 Checked under Proteus Pattern Storm Shield</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8ee9-1f6e-47c1-aa80"/>
               </constraints>
@@ -944,6 +1013,14 @@ Could not find wargear Proteus Pattern Storm Shield
                   </costs>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="92fc-7a4a-4718-9151"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="be9a-21d1-450a-a6d2">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="501e-2d5f-4d5b-bc64"/>
                   </constraints>
                 </entryLink>
               </entryLinks>
@@ -989,6 +1066,12 @@ Could not find wargear Proteus Pattern Storm Shield
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b25b-fde1-4bf6-bcce" name="Infantry" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="10c1-0bc3-4334-baaf" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1709
+Could not find wargear Legion Indomitus Terminator Armour
+	 Checked under Legion Indomitus Terminator Armour</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1054,24 +1137,15 @@ Power Weapon is in two option lists for Legion Indomitus Standard Bearer, you wi
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="063a-b5f8-44f7-b140"/>
               </constraints>
             </entryLink>
+            <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="964b-26cd-42da-a1fb" id="ce46-0932-4e0a-917a">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="93d8-fdc3-4673-8722"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3251-9d81-4ee0-9132"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Power Fist with in-built Combi-Bolter
-	 Checked under Gravis Power Fist with in-built Combi-Bolter
-Could not find wargear in The Legion Contemptor Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Contemptor Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find type or subtype &apos;Dreadnought&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Legion Contemptor Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:" id="6f0b-71b3-4662-a9e1">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Power Fist (with in-built Combi-Bolter)
-	 Checked under Gravis Power Fist (with in-built Combi-Bolter)
-Could not find wargear Gravis Chainfist (with in-built Combi-Bolter)
-	 Checked under Gravis Chainfist (with in-built Combi-Bolter)</comment>
               <entryLinks>
                 <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="3b5f-52ab-6534-94a3" id="883f-5b8c-4e1a-b919">
                   <constraints>
@@ -1134,12 +1208,49 @@ Could not find wargear Gravis Chainfist (with in-built Combi-Bolter)
                     <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="c15d-6eec-47c3-980b"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="964b-26cd-42da-a1fb" id="2e6e-cab2-44fc-b8fb">
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="66a4-991b-4288-bead"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="5ff1-5a39-4db3-8677">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="5"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="979c-0f17-4fe0-b14b"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Volkite Dual-Culverin" hidden="false" type="selectionEntry" targetId="015f-ee1b-46c1-8937" id="c776-bfd9-4e73-9086">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="d935-75d4-4058-9366"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Kheres Assault Cannon" hidden="false" type="selectionEntry" targetId="846f-31df-4b6b-814b" id="1a8d-6235-4816-b8a1">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="ca27-e9ef-41b7-9a85"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="fb2d-0453-4c28-b3ec"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Power Fist (with in-built Combi-Bolter)
+	 Checked under Gravis Power Fist (with in-built Combi-Bolter)
+Could not find wargear Gravis Chainfist (with in-built Combi-Bolter)
+	 Checked under Gravis Chainfist (with in-built Combi-Bolter)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:" id="fd35-cd3e-46d9-922c">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ba6e-12ca-4b0b-8001"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear In-built Heavy Flamer
 	 Checked under In-built Heavy Flamer
@@ -1149,9 +1260,6 @@ Could not find wargear In-built Graviton Gun
 	 Checked under In-built Graviton Gun
 Could not find wargear In-built Meltagun
 	 Checked under In-built Meltagun</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ba6e-12ca-4b0b-8001"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Contemptor Centurion may take any of the following:" id="32e2-4cdd-4145-8ee1">
               <entryLinks>
@@ -1180,6 +1288,19 @@ Could not find wargear In-built Meltagun
           <categoryLinks>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="746c-051b-4958-a974" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Power Fist with in-built Combi-Bolter
+	 Checked under Gravis Power Fist with in-built Combi-Bolter
+Could not find wargear in The Legion Contemptor Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Contemptor Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find wargear in The Legion Contemptor Centurion may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1231,32 +1352,15 @@ Could not find wargear In-built Meltagun
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3992-37ad-48e8-bcc4"/>
               </constraints>
             </entryLink>
+            <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="964b-26cd-42da-a1fb" id="3672-98f9-43bb-864c">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="592d-d649-4b04-91d8"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6884-d63e-4f87-96fb"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Power Fist with in-built Combi-Bolter
-	 Checked under Gravis Power Fist with in-built Combi-Bolter
-Could not find wargear Ferromantic Deflector
-	 Checked under Ferromantic Deflector
-Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
-Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
-Could not find type or subtype &apos;Dreadnought&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:" id="451d-2131-48b3-9320">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Power Fist (with in-built Combi-Bolter)
-	 Checked under Gravis Power Fist (with in-built Combi-Bolter)
-Could not find wargear Gravis Chainfist (with in-built Combi-Bolter)
-	 Checked under Gravis Chainfist (with in-built Combi-Bolter)
-Could not find wargear Gravis Siege Drill (with in-built Combi-Bolter)
-	 Checked under Gravis Siege Drill (with in-built Combi-Bolter)
-Could not find wargear Seismic Hammer (with in-built Combi-Bolter)
-	 Checked under Seismic Hammer (with in-built Combi-Bolter)</comment>
               <entryLinks>
                 <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="3b5f-52ab-6534-94a3" id="b074-b4b8-45dc-99d4">
                   <constraints>
@@ -1327,12 +1431,45 @@ Could not find wargear Seismic Hammer (with in-built Combi-Bolter)
                     <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="2285-4df0-45de-b160"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="964b-26cd-42da-a1fb" id="fd97-4b29-4adf-8521">
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="7247-3e62-44a8-a4a7"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Flamestorm Cannon" hidden="false" type="selectionEntry" targetId="4ea6-839a-467c-aee6" id="e639-8084-4c06-b658">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="e482-ae89-4f77-a6e9"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Kheres Assault Cannon" hidden="false" type="selectionEntry" targetId="846f-31df-4b6b-814b" id="2e37-9022-4ccf-82f1">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="e45c-0f70-4807-9f1c"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="4206-36be-40dd-bb83"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Power Fist (with in-built Combi-Bolter)
+	 Checked under Gravis Power Fist (with in-built Combi-Bolter)
+Could not find wargear Gravis Chainfist (with in-built Combi-Bolter)
+	 Checked under Gravis Chainfist (with in-built Combi-Bolter)
+Could not find wargear Gravis Siege Drill (with in-built Combi-Bolter)
+	 Checked under Gravis Siege Drill (with in-built Combi-Bolter)
+Could not find wargear Seismic Hammer (with in-built Combi-Bolter)
+	 Checked under Seismic Hammer (with in-built Combi-Bolter)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:" id="b7a8-9e11-4c99-9f97">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dae4-ac94-493d-a180"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear In-built Heavy Flamer
 	 Checked under In-built Heavy Flamer
@@ -1342,9 +1479,6 @@ Could not find wargear In-built Graviton Gun
 	 Checked under In-built Graviton Gun
 Could not find wargear In-built Meltagun
 	 Checked under In-built Meltagun</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dae4-ac94-493d-a180"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Castra Ferrum Centurion may take any of the following:" id="3563-2b48-443e-8c59">
               <entryLinks>
@@ -1390,6 +1524,23 @@ Could not find wargear In-built Meltagun
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="bebc-4b44-4e44-af5f" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="ed2e-7841-4a90-86f5" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Power Fist with in-built Combi-Bolter
+	 Checked under Gravis Power Fist with in-built Combi-Bolter
+Could not find wargear Ferromantic Deflector
+	 Checked under Ferromantic Deflector
+Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace a Gravis Bolt Cannon and/or Gravis Power Fist and in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
+Could not find wargear in The Legion Castra Ferrum Centurion may replace an in-built Combi-Bolter with one of the following:
+Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1450,17 +1601,15 @@ Could not find wargear In-built Meltagun
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fdcb-317a-4d25-990e"/>
               </constraints>
             </entryLink>
+            <entryLink name="Explorator Augury Web" hidden="false" type="selectionEntry" targetId="35b7-8e9d-41d2-803b" id="c824-576b-4e42-893c">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="08d1-87bf-4c21-960f"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c6c7-1730-4ea1-aaf0"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Aspectum-Pattern Occularis Array
-	 Checked under Aspectum-Pattern Occularis Array
-Could not find wargear in The Legion Land Raider Dionysus may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following:
-Could not find wargear in The Legion Land Raider Dionysus may take one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Legion Land Raider Dionysus may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following:" id="71c3-7a3f-4b49-82e2">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
-	 Checked under Gravis Heavy Bolter Batterie</comment>
               <entryLinks>
                 <entryLink name="Volkite Dual-Culverin" hidden="false" type="selectionEntry" targetId="fead-f3b9-f7c7-1081" id="8038-4c29-4c97-88c6">
                   <costs>
@@ -1495,10 +1644,35 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b623-f912-482a-bf1d"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Volkite Dual-Culverin" hidden="false" type="selectionEntry" targetId="015f-ee1b-46c1-8937" id="61ee-29c5-481d-b64d">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
+                  </costs>
+                  <modifiers>
+                    <modifier type="set" field="name" value="Two Sponson Mounted Volkite Dual-Culverins"/>
+                  </modifiers>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6ee1-a5ca-4c3c-9de6"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="76d8-0941-4fde-ab10">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <modifiers>
+                    <modifier type="set" field="name" value="Two Sponson Mounted Gravis Melta Cannons"/>
+                  </modifiers>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cca2-e0ea-467e-ac0c"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="12a6-9be4-4c43-a3b5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
+	 Checked under Gravis Heavy Bolter Batterie</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Land Raider Dionysus may take one of the following:" id="0929-dc90-4861-9f4c">
               <entryLinks>
@@ -1558,12 +1732,12 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5c36-fb60-40d6-864b"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Land Raider Dionysus may take any of the following:" id="90eb-b809-42a0-b50f">
               <entryLinks>
@@ -1606,6 +1780,14 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="a653-c454-48c6-8271" name="Reinforced" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="59e8-806f-427e-a53e" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Aspectum-Pattern Occularis Array
+	 Checked under Aspectum-Pattern Occularis Array
+Could not find wargear in The Legion Land Raider Dionysus may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following:
+Could not find wargear in The Legion Land Raider Dionysus may take one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1657,17 +1839,15 @@ Could not find rule: Master of the Legion^</comment>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ca0c-99dc-4265-ae2e"/>
               </constraints>
             </entryLink>
+            <entryLink name="Geo-Locator Beacon" hidden="false" type="selectionEntry" targetId="433c-6d30-42d9-b505" id="174c-b87e-450b-999c">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d072-3829-4b3e-b7a4"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="26d2-09f9-48dc-8b35"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Smoke Launchers *Upgrade Cost:
-	 Checked under Smoke Launchers *Upgrade Cost:
-Could not find wargear in The Legion Land Raider Tartaros may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following:
-Could not find wargear in The Legion Land Raider Tartaros may take one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Legion Land Raider Tartaros may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following:" id="c65c-5faa-4557-b61b">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
-	 Checked under Gravis Heavy Bolter Batterie</comment>
               <entryLinks>
                 <entryLink name="Volkite Dual-Culverin" hidden="false" type="selectionEntry" targetId="fead-f3b9-f7c7-1081" id="92b2-ed58-4d92-89e0">
                   <costs>
@@ -1702,10 +1882,35 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cfbf-3bbf-4d7b-ab73"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Volkite Dual-Culverin" hidden="false" type="selectionEntry" targetId="015f-ee1b-46c1-8937" id="ff62-0908-4c8c-b298">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
+                  </costs>
+                  <modifiers>
+                    <modifier type="set" field="name" value="Two Sponson Mounted Volkite Dual-Culverins"/>
+                  </modifiers>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="864c-c76d-41dd-bd10"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="42be-da52-41f1-9c78">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <modifiers>
+                    <modifier type="set" field="name" value="Two Sponson Mounted Gravis Melta Cannons"/>
+                  </modifiers>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d772-cf9c-4d28-a121"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="570d-e5ea-4ded-9ff4"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
+	 Checked under Gravis Heavy Bolter Batterie</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Land Raider Tartaros may take one of the following:" id="b8d9-4d4f-4b59-93bd">
               <entryLinks>
@@ -1765,12 +1970,12 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="54ce-768e-41d6-a3b5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Land Raider Tartaros may take any of the following:" id="af3e-1086-4222-a07f">
               <entryLinks>
@@ -1801,6 +2006,14 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ae28-d72f-4d1c-af6b"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Vox Disruptor Array" hidden="false" type="selectionEntry" targetId="1241-6589-4b5f-af41" id="abd9-d8cc-40e6-842f">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f143-a4d4-4953-8a8c"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1417-50e9-4587-aa9c"/>
@@ -1812,6 +2025,14 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="4efd-653c-4f39-bce7" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="e27e-e92b-4ffa-a654" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Smoke Launchers *Upgrade Cost:
+	 Checked under Smoke Launchers *Upgrade Cost:
+Could not find wargear in The Legion Land Raider Tartaros may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following:
+Could not find wargear in The Legion Land Raider Tartaros may take one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1854,9 +2075,6 @@ Could not find rule: Vox Override</comment>
             <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="788c-c4d4-4b94-86ed"/>
             <constraint type="max" value="8" field="selections" scope="parent" shared="true" id="16f6-9475-4d5b-933c"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Saturnine Terminator Armour
-	 Checked under Legion Saturnine Terminator Armour</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="For every three models in the unit, one Legion Saturnine may exchange their Combi-Bolter with one of the following:" id="6464-b3af-45d9-a740">
               <entryLinks>
@@ -1887,6 +2105,14 @@ Could not find wargear Legion Saturnine Terminator Armour
                   </costs>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e31d-e617-4c70-9788"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="bdc7-3f9b-4c67-8641" id="d710-8276-406d-9c14">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="576a-d91a-45b2-9693"/>
                   </constraints>
                 </entryLink>
               </entryLinks>
@@ -1977,6 +2203,14 @@ Could not find wargear Legion Saturnine Terminator Armour
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="51db-4b84-453c-8b7a"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="39b8-4d8a-48fd-a810">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4f1a-97b8-4a7c-ab7b"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="18d4-2097-4f64-8018"/>
@@ -2052,6 +2286,12 @@ Could not find wargear Legion Saturnine Terminator Armour
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="bd45-16bc-4aef-b426" name="Infantry" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="3d98-6fe2-4f24-9ee2" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Saturnine Terminator Armour
+	 Checked under Legion Saturnine Terminator Armour</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Saturnine Sergeant" id="7172-943e-45d4-895d" page="18" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -2075,9 +2315,6 @@ Could not find wargear Legion Saturnine Terminator Armour
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5c56-ffef-4b01-a69e"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4e50-b58b-4c14-82fd"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Saturnine Terminator Armour
-	 Checked under Legion Saturnine Terminator Armour</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may exchange their Combi-Bolter with one of the following:" id="78c4-1749-42d5-94ef">
               <entryLinks>
@@ -2162,6 +2399,14 @@ Could not find wargear Legion Saturnine Terminator Armour
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3e3a-93f9-4b76-9a10"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Chainfist" hidden="false" type="selectionEntry" targetId="9c9c-346a-4c47-8715" id="929a-255e-44ec-bcd6">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5562-05cd-44fb-950d"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b04f-e562-4727-8691"/>
@@ -2238,6 +2483,12 @@ Could not find wargear Legion Saturnine Terminator Armour
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="0b4b-3526-492e-b884" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="f7ab-8100-4c5f-8adb" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Saturnine Terminator Armour
+	 Checked under Legion Saturnine Terminator Armour</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -2330,10 +2581,6 @@ Power Weapon is in two option lists for Legion Saturnine Sergeant, you will need
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="6b99-32b2-415c-a526"/>
             <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="5062-8085-4cdc-b2e9"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Warhawk Jump Pack
-	 Checked under Legion Warhawk Jump Pack
-Could not find wargear in The Legion Assault Veteran Sergeant may take:</comment>
           <entryLinks>
             <entryLink name="Frag Grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="0465-602d-4899-968b">
               <constraints>
@@ -2521,18 +2768,26 @@ Could not find wargear in The Legion Assault Veteran Sergeant may take:</comment
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="42b1-8b38-4a4c-b669"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Graviton Gun" hidden="false" type="selectionEntry" targetId="ea9f-c901-465b-aaaf" id="3b93-6b38-4fd3-86ff">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1962-9251-4f32-b4d2"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ea49-fc6f-4251-8a3c"/>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Assault Veteran Sergeant may take:" id="bd82-3630-4b1a-ac5b">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fd4a-1f31-47f9-be25"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Assault Veteran Sergeant may exchange his Power Armour for:" id="f6e8-439a-4d6f-bd83">
               <entryLinks>
@@ -2549,6 +2804,11 @@ Could not find wargear Melta Bombs
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8a6d-582f-486c-8503"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="d8a4-e243-4909-8376">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8ea5-1466-447a-bdbd"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="72f6-2365-4ecd-850c"/>
@@ -2558,6 +2818,13 @@ Could not find wargear Melta Bombs
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0b08-1343-4ec3-a5b6" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="22"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Warhawk Jump Pack
+	 Checked under Legion Warhawk Jump Pack
+Could not find wargear in The Legion Assault Veteran Sergeant may take:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Assault Veteran Sergeant" id="3fa2-d2be-4e74-a633" page="19" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -2581,10 +2848,6 @@ Could not find wargear Melta Bombs
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1c1a-2ff6-42f7-af25"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2caa-179e-46e6-b90b"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Warhawk Jump Pack
-	 Checked under Legion Warhawk Jump Pack
-Could not find wargear in The Legion Assault Veteran Sergeant may take:</comment>
           <entryLinks>
             <entryLink name="Frag Grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="25fc-40ac-4398-af3e">
               <constraints>
@@ -2723,12 +2986,12 @@ Could not find wargear in The Legion Assault Veteran Sergeant may take:</comment
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Assault Veteran Sergeant may take:" id="4b00-718b-4929-9fb8">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="71c6-7923-4c35-ad02"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Assault Veteran Sergeant may exchange his Power Armour for:" id="499a-fd88-444c-a914">
               <entryLinks>
@@ -2745,6 +3008,11 @@ Could not find wargear Melta Bombs
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2d09-64e4-4c8b-9601"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="e637-d40a-472f-84cd">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7b79-a867-4e19-8d6c"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b905-f48f-4919-9f8f"/>
@@ -2755,31 +3023,44 @@ Could not find wargear Melta Bombs
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8265-4ada-4a61-958a" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cd32-048b-4b75-8a62" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Warhawk Jump Pack
+	 Checked under Legion Warhawk Jump Pack
+Could not find wargear in The Legion Assault Veteran Sergeant may take:</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="The entire unit may take:" id="f6f3-8500-4c47-be18">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Combat Shields
-	 Checked under Combat Shields</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1463-d68c-4fbf-ac6f"/>
           </constraints>
+          <entryLinks>
+            <entryLink name="Combat Shields" hidden="false" type="selectionEntry" targetId="a338-91e6-4aea-9f79" id="3aa2-6eee-43ec-a701">
+              <costs>
+                <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="2"/>
+              </costs>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="85fc-3dcd-44b9-9c3c"/>
+              </constraints>
+            </entryLink>
+          </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The entire unit may take:
+      <infoLinks>
+        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="01ee-dfed-4c90-aa92"/>
+        <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="7c4d-6be2-46cb-b151"/>
+        <infoLink name="Chosen Warriors" hidden="false" type="rule" targetId="13d1-9270-6539-08ed" id="dd3b-f74a-46cf-9d68"/>
+      </infoLinks>
+      <comment>!BSC Errors from 20240406-1709
 Bolt Pistol is in two option lists for Legion Assault Veteran, you will need to combine them by hand.
 Chainsword is in two option lists for Legion Assault Veteran, you will need to combine them by hand.
 Bolt Pistol is in two option lists for Legion Assault Veteran Sergeant, you will need to combine them by hand.
 Chainsword is in two option lists for Legion Assault Veteran Sergeant, you will need to combine them by hand.
 Bolt Pistol is in two option lists for Legion Assault Veteran, you will need to combine them by hand.
 Chainsword is in two option lists for Legion Assault Veteran, you will need to combine them by hand.</comment>
-      <infoLinks>
-        <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="01ee-dfed-4c90-aa92"/>
-        <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="7c4d-6be2-46cb-b151"/>
-        <infoLink name="Chosen Warriors" hidden="false" type="rule" targetId="13d1-9270-6539-08ed" id="dd3b-f74a-46cf-9d68"/>
-      </infoLinks>
     </selectionEntry>
     <selectionEntry name="Legion Contemptor-Cortus Dreadnought Talon" type="unit" id="970a-bd04-4d61-ae08" page="20" publicationId="9c07-3edc-5aa8-9304">
       <categoryLinks>
@@ -2812,15 +3093,6 @@ Chainsword is in two option lists for Legion Assault Veteran, you will need to c
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f449-e48d-41ec-aa40"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="8cae-1b35-46ea-93bf"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Gravis Power Fists with in-built Combi-Bolters
-	 Checked under Gravis Power Fists with in-built Combi-Bolter
-Could not find wargear in Any model in the unit may replace a Gravis Power Fist with in-built Combi-Bolter with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
-Could not find type or subtype &apos;Dreadnought&apos;</comment>
           <entryLinks>
             <entryLink name="Atomantic Repulsor" hidden="false" type="selectionEntry" targetId="9a54-1c1e-4a63-9dba" id="9e4d-5ee7-4ef6-9d06">
               <constraints>
@@ -2831,9 +3103,6 @@ Could not find type or subtype &apos;Dreadnought&apos;</comment>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may replace a Gravis Power Fist with in-built Combi-Bolter with one of the following:" id="662d-dd76-4fe7-80c8">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Gravis Chainfist with in-built Combi-Bolter
-	 Checked under Gravis Chainfist with in-built Combi-Bolter</comment>
               <entryLinks>
                 <entryLink name="Toxiferno Cannon" hidden="false" type="selectionEntry" targetId="63c4-61d0-4e69-8912" id="d69b-0d34-4b3a-a3c1">
                   <costs>
@@ -2855,8 +3124,14 @@ Could not find wargear Gravis Chainfist with in-built Combi-Bolter
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c24d-a5ce-4f62-83e6"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Gravis Chainfist with in-built Combi-Bolter
+	 Checked under Gravis Chainfist with in-built Combi-Bolter</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:" id="c971-5018-4e8c-8079">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9e4d-3890-45d3-b500"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear In-built Heavy Flamer
 	 Checked under In-built Heavy Flamer
@@ -2866,12 +3141,21 @@ Could not find wargear In-built Graviton Gun
 	 Checked under In-built Graviton Gun
 Could not find wargear In-built Meltagun
 	 Checked under In-built Meltagun</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9e4d-3890-45d3-b500"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="150"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Gravis Power Fists with in-built Combi-Bolters
+	 Checked under Gravis Power Fists with in-built Combi-Bolter
+Could not find wargear in Any model in the unit may replace a Gravis Power Fist with in-built Combi-Bolter with one of the following:
+Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find wargear in Any model in the unit may replace the in-built Combi-Bolter on a Gravis Power Fist or Gravis Chainfist with one of the following:
+Could not find type or subtype &apos;Dreadnought&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2919,9 +3203,6 @@ Could not find rule: Unstable Internment</comment>
             <constraint type="min" value="5" field="selections" scope="parent" shared="true" id="f71c-8468-4306-8a23"/>
             <constraint type="max" value="20" field="selections" scope="parent" shared="true" id="f327-e44e-4f01-9f23"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Twisted Talons
-	 Checked under Twisted Talon</comment>
           <entryLinks>
             <entryLink name="Frag grenades" hidden="false" type="selectionEntry" targetId="4fd8-9e1f-ae28-3004" id="a4fc-f90f-4c73-8fe0">
               <constraints>
@@ -2939,6 +3220,12 @@ Could not find wargear Two Twisted Talons
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="918a-d96a-49c5-b140"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5b0d-ce54-4266-9014"/>
+              </constraints>
+            </entryLink>
+            <entryLink name="Power armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="59a8-f59d-4655-b881">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1b65-8eb6-4ec2-b2c8"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="18b9-b3f1-4f1d-9e8b"/>
               </constraints>
             </entryLink>
           </entryLinks>
@@ -3014,7 +3301,14 @@ Could not find wargear Two Twisted Talons
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4705-82ea-49a3-805f" name="Infantry" primary="false"/>
             <categoryLink targetId="9055-7410-8ffd-b8e7" id="4c7c-4cb3-4132-b5d8" name="Corrupted" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="11c2-1112-4035-9415" name="Corrupted" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Twisted Talons
+	 Checked under Twisted Talon</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3077,6 +3371,12 @@ Could not find wargear Two Twisted Talons
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="09d0-8a44-44c7-98c3"/>
               </constraints>
             </entryLink>
+            <entryLink name="Servo-Arm" hidden="false" type="selectionEntry" targetId="fbef-812d-4d20-9285" id="6eb5-9c76-435b-9ac3">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6b33-d327-4fa0-99a9"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7d8e-6bad-4c8a-899f"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Legion Servo-Automata may replace their Servo-Arm with one of the following:" id="cb40-80a1-442b-b007">
@@ -3123,21 +3423,33 @@ Could not find wargear Two Twisted Talons
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5217-4a62-4196-869f"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="bdc7-3f9b-4c67-8641" id="bde3-c762-487e-a393">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3dfa-1c3d-4ef9-8c54"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Missile Launcher (with Frag, Krak, and Flakk Missiles)
-	 Checked under Missile Launcher (with Frag, Krak, and Flakk Missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ebad-9926-4765-9081"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Missile Launcher (with Frag, Krak, and Flakk Missiles)
+	 Checked under Missile Launcher (with Frag, Krak, and Flakk Missiles)</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="8745-b21e-8576-7c30" id="6e5d-cdbe-46b2-bf8a" name="Guardian" primary="false"/>
+            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="7fc7-1157-45df-800f" name="Guardian" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any Legion Servo-Automata may replace their Servo-Arm with one of the following:
 Could not find type or subtype &apos;Automata&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="8745-b21e-8576-7c30" id="6e5d-cdbe-46b2-bf8a" name="Guardian" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3177,9 +3489,6 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="7807-65c2-4f7f-bbe2"/>
             <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="c634-a713-4401-9b76"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Spatha Combat Bike
-	 Checked under Legion Spatha Combat Bike</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="For every five models in the unit, one Legion Hussar may exchange his Chainsword for one of the following:" id="12a3-18a6-4873-8afd">
               <entryLinks>
@@ -3340,6 +3649,11 @@ Could not find wargear Legion Spatha Combat Bike
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="49a2-2be2-4cce-881c"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="da15-9099-48da-b711">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="08aa-0755-4a85-99a0"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5ccd-a266-461a-87d2"/>
@@ -3347,6 +3661,12 @@ Could not find wargear Legion Spatha Combat Bike
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="22"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Spatha Combat Bike
+	 Checked under Legion Spatha Combat Bike</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Hussar Sergeant" id="d253-c1c8-44ed-acc8" page="26" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -3370,10 +3690,6 @@ Could not find wargear Legion Spatha Combat Bike
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b7bc-4393-48d7-bb3c"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1d4-530b-4c85-a80e"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Spatha Combat Bike
-	 Checked under Legion Spatha Combat Bike
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Legion Hussar Sergeant may exchange his Chainsword for one of the following:" id="a5c5-9ea1-441a-86c2">
               <entryLinks>
@@ -3470,6 +3786,11 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="82a2-fa8f-4016-90b6"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="8e4d-29db-4668-823b">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="96ce-1718-4b36-b326"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="63e2-54df-4215-aa72"/>
@@ -3480,6 +3801,13 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="59a4-7b61-600a-c457" id="485a-2a4d-4873-bf7a" name="Skirmish" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="2fee-4f20-486e-8637" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Spatha Combat Bike
+	 Checked under Legion Spatha Combat Bike
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -3510,18 +3838,14 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
           </constraints>
         </selectionEntryGroup>
         <selectionEntryGroup name="The entire unit may replace its Legion Spatha combat bikes’ Twin-Linked Bolters with:" id="297d-03c9-4d7b-b547">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Twin-Linked Rotor Cannons
-	 Checked under Twin-Linked Rotor Cannons</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="481b-7b8e-49c2-8f80"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Twin-Linked Rotor Cannons
+	 Checked under Twin-Linked Rotor Cannons</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The entire unit may replace its Legion Spatha combat bikes’ Twin-Linked Bolters with:
-Chainsword is in two option lists for Legion Hussar, you will need to combine them by hand.
-Bolt Pistol is in two option lists for Legion Hussar, you will need to combine them by hand.</comment>
       <infoLinks>
         <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="d49d-da37-44b3-9c9c"/>
         <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="3b2d-74dc-4051-a93a"/>
@@ -3538,6 +3862,10 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
         <infoLink name="Hit &amp; Run" hidden="false" type="rule" targetId="5986-e960-d432-affd" id="ba47-8773-4602-804c"/>
         <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="4349-043a-4fe3-91c0"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The entire unit may replace its Legion Spatha combat bikes’ Twin-Linked Bolters with:
+Chainsword is in two option lists for Legion Hussar, you will need to combine them by hand.
+Bolt Pistol is in two option lists for Legion Hussar, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Legion Sky-Seeker Squadron" type="unit" id="c0a1-df5f-4e38-89e8" page="27" publicationId="9c07-3edc-5aa8-9304">
       <categoryLinks>
@@ -3738,6 +4066,11 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="33ef-ee1f-42d8-9c2e"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="46fb-0d87-42e6-a25f">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9455-f8c1-4c65-8dd8"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d018-a795-4dfd-bfa1"/>
@@ -3745,6 +4078,9 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Sky-Seeker Sergeant" id="c079-21c4-488f-bd3e" page="27" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -3872,6 +4208,11 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a796-bf18-4e19-ad20"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="866d-1cef-4adb-9d8a">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2a5d-112f-4b8b-86cb"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2f1b-b1d5-447d-8800"/>
@@ -3882,6 +4223,9 @@ Bolt Pistol is in two option lists for Legion Hussar, you will need to combine t
             <categoryLink targetId="4303-1348-cce4-9501" id="1ebc-3b64-4f61-95d3" name="Antigrav" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cefc-99bb-447b-bc49" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
@@ -3914,21 +4258,16 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
           </constraints>
         </selectionEntryGroup>
         <selectionEntryGroup name="The entire unit may replace its Legion Estoc Jetbikes’ Twin-Linked Bolters with:" id="5fa0-c50e-41d3-9209">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2edf-9a68-4a46-99ba"/>
+          </constraints>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Twin-Linked Rotor Cannon
 	 Checked under Twin-Linked Rotor Cannon
 Could not find wargear Grenade Launcher (with Frag and Krak Charges)
 	 Checked under Grenade Launcher (with Frag and Krak Charges)</comment>
-          <constraints>
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2edf-9a68-4a46-99ba"/>
-          </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The entire unit may replace its Legion Estoc Jetbikes’ Twin-Linked Bolters with:
-Could not find wargear in The entire unit may replace its Legion Estoc Jetbikes’ Twin-Linked Bolters with:
-Chainsword is in two option lists for Legion Sky-Seeker, you will need to combine them by hand.
-Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combine them by hand.</comment>
       <infoLinks>
         <infoLink name="Legiones Astartes (X)" hidden="false" type="rule" targetId="ffcb-13b4-9b4c-84da" id="dc5c-845f-4ae5-bc4a"/>
         <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="2a7b-e153-4f98-9667"/>
@@ -3946,6 +4285,11 @@ Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combi
         <infoLink name="Deep Strike" hidden="false" type="rule" targetId="f1e1-986f-c783-ca9e" id="7a3c-4f08-482d-9a9b"/>
         <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="32cc-f51a-4970-843e"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The entire unit may replace its Legion Estoc Jetbikes’ Twin-Linked Bolters with:
+Could not find wargear in The entire unit may replace its Legion Estoc Jetbikes’ Twin-Linked Bolters with:
+Chainsword is in two option lists for Legion Sky-Seeker, you will need to combine them by hand.
+Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Legion Assault Support Squad" type="unit" id="c91c-8095-41e1-a730" page="28" publicationId="9c07-3edc-5aa8-9304">
       <categoryLinks>
@@ -3976,6 +4320,9 @@ Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combi
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Assault Sergeant" id="31aa-43dd-47d1-b537" page="28" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -3997,6 +4344,9 @@ Bolt Pistol is in two option lists for Legion Sky-Seeker, you will need to combi
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <comment>!BSC Errors from 20240406-1603
@@ -4047,15 +4397,21 @@ Could not find profile for Legionaries in [&apos;Legionary&apos;, &apos;Legion A
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b2bb-b4a8-49d9-9978"/>
               </constraints>
             </entryLink>
+            <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="292e-c006-440f-86ad">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="581b-9d8e-420c-9bf8"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2a38-3837-4a0a-ac68"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="For every ten models in the unit beyond its original starting size, one Legion Novitiate may be upgraded to a:" id="1235-bfb5-4fe0-80d7">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Veteran Sergeant
-	 Checked under Legion Veteran Sergeant</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="24a3-2a98-4915-a3e0"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Veteran Sergeant
+	 Checked under Legion Veteran Sergeant</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model with a Bolter may take a:" id="b337-496e-43f5-9218">
               <entryLinks>
@@ -4093,11 +4449,14 @@ Could not find wargear Legion Veteran Sergeant
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in For every ten models in the unit beyond its original starting size, one Legion Novitiate may be upgraded to a:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f0cb-be54-42ba-80a8" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="6"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in For every ten models in the unit beyond its original starting size, one Legion Novitiate may be upgraded to a:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Veteran Sergeant" id="1147-860f-4f82-a366" page="29" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -4285,6 +4644,11 @@ Could not find wargear in For every ten models in the unit beyond its original s
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ecf7-ca77-4085-99c3"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="d2a3-1536-45fd-8f8e">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5c17-b331-4dd2-8b66"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d65d-f2e2-4e5d-8653"/>
@@ -4295,6 +4659,9 @@ Could not find wargear in For every ten models in the unit beyond its original s
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6df4-7ac2-4b66-b8d2" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="cc95-50f8-43c8-a15d" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -4422,12 +4789,12 @@ Could not find wargear in For every ten models in the unit beyond its original s
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="41a9-54cd-45f2-8414"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Rhino Advancer may take any of the following:" id="0528-4521-4029-b3e0">
               <entryLinks>
@@ -4464,12 +4831,15 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Legion Rhino Advancer may take one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="a433-c47a-4168-bda8" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="7273-c39e-43ca-8480" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Legion Rhino Advancer may take one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4521,12 +4891,6 @@ Could not find wargear in The Legion Rhino Advancer may take one of the followin
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear in A Legion Whispercutter may take up to two:
-Could not find type or subtype &apos;Cavalry&apos;
-Could not find type or subtype &apos;Transport*&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Whispercutter may replace its Heavy Bolter with a:" id="74dc-ef9a-4b44-8549">
               <entryLinks>
@@ -4575,24 +4939,49 @@ Could not find type or subtype &apos;Transport*&apos;</comment>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e6b0-18f7-4e69-8a96"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Plasma Cannon" hidden="false" type="selectionEntry" targetId="bdc7-3f9b-4c67-8641" id="6129-3384-4341-bf19">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6afd-6a5e-4801-84b3"/>
+                  </constraints>
+                </entryLink>
+                <entryLink name="Graviton Gun" hidden="false" type="selectionEntry" targetId="ea9f-c901-465b-aaaf" id="5d4f-a226-4846-97ca">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="919a-54f9-4d05-8309"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dff6-5754-43f3-a7b1"/>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Whispercutter may take up to two:" id="6d50-1f24-434e-b958">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hunter Killer Missiles
-	 Checked under Hunter Killer Missiles</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="c356-81ae-4fbd-a85c"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hunter Killer Missiles
+	 Checked under Hunter Killer Missiles</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="4303-1348-cce4-9501" id="996c-d157-446e-8029" name="Antigrav" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="8934-f1bc-417d-9658" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight
+Could not find wargear in A Legion Whispercutter may take up to two:
+Could not find type or subtype &apos;Cavalry&apos;
+Could not find type or subtype &apos;Transport*&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4646,13 +5035,17 @@ The option &apos;Hunter Killer Missiles&apos; may need a &apos;multiply by numbe
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d2c6-0d29-47eb-9413"/>
             <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="4422-e9bb-4624-9510"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Mutated Appendages
-	 Checked under Mutated Appendage</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4a8b-2425-4ec8-9e8e" name="Infantry" primary="false"/>
             <categoryLink targetId="9055-7410-8ffd-b8e7" id="5b3a-6081-40b3-aa0b" name="Corrupted" primary="false"/>
+            <categoryLink targetId="e69c-24ba-4ef9-8679" id="8127-8ccf-4f5b-9400" name="Corrupted" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Mutated Appendages
+	 Checked under Mutated Appendage</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4714,11 +5107,6 @@ Could not find wargear Two Mutated Appendages
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="0439-f9bc-4981-96c9"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1a9d-ae50-4f76-aa37"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Hull (Front) Mounted Tempest Rockets
-	 Checked under Tempest Rockets
-Could not find wargear in A Legion Storm Eagle Transporter may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following:
-Could not find wargear in A Legion Storm Eagle Transporter may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Storm Eagle Transporter may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following:" id="2ac1-4cab-4444-b705">
               <entryLinks>
@@ -4741,18 +5129,26 @@ Could not find wargear in A Legion Storm Eagle Transporter may exchange all of i
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3c99-aae0-4212-8d98"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="ffd0-9752-472e-ab20">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+                  </costs>
+                  <modifiers>
+                    <modifier type="set" field="name" value="Hull (Front) Mounted Gravis Melta Cannon"/>
+                  </modifiers>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a43b-5369-479b-8567"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Missile Launcher (with Frag and Krak Missiles)
-	 Checked under Missile Launcher (with Frag and Krak Missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="838a-0abd-40c2-80e3"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Missile Launcher (with Frag and Krak Missiles)
+	 Checked under Missile Launcher (with Frag and Krak Missiles)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Storm Eagle Transporter may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:" id="93af-84ae-4b29-9a63">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
-	 Checked under Hunter-Killer Missiles</comment>
               <entryLinks>
                 <entryLink name="Twin-Linked Lascannon" hidden="false" type="selectionEntry" targetId="3adf-7150-9ee6-b2de" id="8b24-05ff-4928-83ed">
                   <costs>
@@ -4769,6 +5165,9 @@ Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="56a7-2f76-47e6-82b3"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
+	 Checked under Hunter-Killer Missiles</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -4777,6 +5176,14 @@ Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
             <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="89dc-55e5-4250-a2b5" name="Hover" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="c2f2-ef14-4559-a613" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Four Hull (Front) Mounted Tempest Rockets
+	 Checked under Tempest Rockets
+Could not find wargear in A Legion Storm Eagle Transporter may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following:
+Could not find wargear in A Legion Storm Eagle Transporter may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4818,10 +5225,6 @@ Could not find wargear Four Hull (Front) Mounted Hunter-Killer Missiles
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="dc78-8405-4cd6-8305"/>
             <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="5e8e-2b22-499f-906e"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Turret Mounted Volkite Columbiad
-	 Checked under Volkite Columbiad
-Could not find wargear in Any Legion Sicaran Incinerator may take one of the following:</comment>
           <entryLinks>
             <entryLink name="Heavy Bolter" hidden="false" type="selectionEntry" targetId="6024-6953-b8f4-ce63" id="ef95-0b91-49a0-9d6e">
               <modifiers>
@@ -4935,12 +5338,12 @@ Could not find wargear in Any Legion Sicaran Incinerator may take one of the fol
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5fde-84e0-4106-9fce"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Sicaran Incinerator may take any of the following:" id="cec4-f7ad-4cf9-90d2">
               <entryLinks>
@@ -4972,6 +5375,13 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="7f3f-1bcd-4f03-bf2d" name="Vehicle" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="185"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Turret Mounted Volkite Columbiad
+	 Checked under Volkite Columbiad
+Could not find wargear in Any Legion Sicaran Incinerator may take one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5031,15 +5441,24 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="079f-71bc-48b1-b102"/>
               </constraints>
             </entryLink>
+            <entryLink name="Avenger Bolt Cannon" hidden="false" type="selectionEntry" targetId="5cf5-0fba-4b68-ab9b" id="96c4-4460-433f-bd4b">
+              <modifiers>
+                <modifier type="set" field="name" value="Centreline Mounted Avenger Bolt Cannon"/>
+              </modifiers>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1247-8ca8-4bc9-8a6b"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="aeaa-aefc-48eb-ad8b"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Legion Vindicator Thunderer may exchange its Avenger Bolt Cannon for:" id="5edf-550d-4b31-b250">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Quad Launcher with Frag Shells
-	 Checked under Quad Launcher with Frag Shells</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0956-132a-4828-9b6a"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline Mounted Quad Launcher with Frag Shells
+	 Checked under Quad Launcher with Frag Shells</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Vindicator Thunderer may take one of the following:" id="e92a-e6eb-41d8-8314">
               <entryLinks>
@@ -5099,12 +5518,12 @@ Could not find wargear Centreline Mounted Quad Launcher with Frag Shells
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e4fa-4e99-407b-96b7"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Vindicator Thunderer may take any of the following:" id="7baa-2716-4528-a693">
               <entryLinks>
@@ -5141,13 +5560,16 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Legion Vindicator Thunderer may exchange its Avenger Bolt Cannon for:
-Could not find wargear in Any Legion Vindicator Thunderer may take one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="fe52-68ac-41d3-973d" name="Vehicle" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ba7a-f17c-4e17-85c9" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="105"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Legion Vindicator Thunderer may exchange its Avenger Bolt Cannon for:
+Could not find wargear in Any Legion Vindicator Thunderer may take one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5201,11 +5623,16 @@ Could not find wargear in Any Legion Vindicator Thunderer may take one of the fo
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="bf9e-4c39-42e3-bb16"/>
               </constraints>
             </entryLink>
+            <entryLink name="Gravis Melta Cannon" hidden="false" type="selectionEntry" targetId="65cc-0f51-4f63-b463" id="195c-f6c6-4dd5-956e">
+              <modifiers>
+                <modifier type="set" field="name" value="Two Sponson Mounted Gravis Melta Cannons"/>
+              </modifiers>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9e9c-04e6-4d67-aa3c"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1ce0-43be-4808-9f9b"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Hull (Front) Mounted Tempest Rockets
-	 Checked under Tempest Rockets
-Could not find wargear in A Legion Fire Raptor Destroyer may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Legion Fire Raptor Destroyer may exchange both its Sponson Mounted Gravis Melta Cannons for:" id="1b61-ea45-46d1-a3e4">
               <entryLinks>
@@ -5220,18 +5647,29 @@ Could not find wargear in A Legion Fire Raptor Destroyer may exchange all of its
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="023c-7bf4-4ef6-bdcd"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Lascannon Array" hidden="false" type="selectionEntry" targetId="bb72-5b7e-4cd9-ad77" id="6e9e-9b1e-4087-9605">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="10"/>
+                  </costs>
+                  <modifiers>
+                    <modifier type="set" field="name" value="Two Sponson Mounted Lascannon Arrays"/>
+                  </modifiers>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f5d4-fe3c-42c0-b97a"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="015f-5724-4490-b7d1"/>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Fire Raptor Destroyer may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:" id="21d4-5c5b-41e3-ab28">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
-	 Checked under Hellstrike Missiles</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="873c-a894-473c-b66f"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
+	 Checked under Hellstrike Missiles</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -5239,6 +5677,13 @@ Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
             <categoryLink targetId="4e84-2d57-4986-2b23" id="5aad-438f-49cc-b889" name="Flyer" primary="false"/>
             <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="9724-fb4c-4c1e-9d1c" name="Hover" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Four Hull (Front) Mounted Tempest Rockets
+	 Checked under Tempest Rockets
+Could not find wargear in A Legion Fire Raptor Destroyer may exchange all of its Hull (Front) Mounted Tempest Rockets for one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5311,6 +5756,12 @@ Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0e64-d950-422d-80e3"/>
               </constraints>
             </entryLink>
+            <entryLink name="Power Armour" hidden="false" type="selectionEntry" targetId="b82e-3b68-4d1f-a0cc" id="6db6-215c-4d78-b505">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="071c-b3e8-4e7f-98e5"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3c92-bfab-47e7-829c"/>
+              </constraints>
+            </entryLink>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Legionary Weapons Team may exchange their Gravis Bolt Cannon for one of the following:" id="03eb-f973-4ca9-a71d">
@@ -5352,6 +5803,11 @@ Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="80ad-0d24-4da7-b2fe"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Gravis Bolt Cannon" hidden="false" type="selectionEntry" targetId="964b-26cd-42da-a1fb" id="d917-ea6a-4e14-a5b7">
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2fd7-ced2-45fa-8d59"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2bce-6c81-4b2b-8446"/>
@@ -5362,6 +5818,9 @@ Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="36e5-a0cd-44a3-b048" name="Infantry" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="1a30-04e1-48f2-86b7" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Havoc Master" id="0f93-9601-48fc-99be" page="45" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -5411,12 +5870,6 @@ Could not find wargear Four Hull (Front) Mounted Hellstrike Missiles
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Servo Arm
-	 Checked under Servo Arm
-Could not find wargear in Any Havoc Master may exchange their Bolt Pistol for one of the following:
-Could not find wargear in Any Havoc Master may take any of the following:
-Could not find wargear in Any Havoc Master may take any of the following:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Havoc Master may exchange their Bolt Pistol for one of the following:" id="e28f-9d2a-45be-868b">
               <entryLinks>
@@ -5489,13 +5942,21 @@ Could not find wargear in Any Havoc Master may take any of the following:</comme
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="67e9-8041-435c-94ba"/>
                   </constraints>
                 </entryLink>
+                <entryLink name="Graviton Gun" hidden="false" type="selectionEntry" targetId="ea9f-c901-465b-aaaf" id="59e4-b121-42f9-9d98">
+                  <costs>
+                    <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="20"/>
+                  </costs>
+                  <constraints>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="640a-9e38-4e63-9305"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Master-Crafted Bolter
-	 Checked under Master-Crafted Bolter</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e866-9943-4c78-9323"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Master-Crafted Bolter
+	 Checked under Master-Crafted Bolter</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Havoc Master may take any of the following:" id="473f-ee2e-4b5d-80e2">
               <entryLinks>
@@ -5527,14 +5988,14 @@ Could not find wargear Master-Crafted Bolter
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fc83-1484-4c0d-aab7"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Melta Bombs
 	 Checked under Melta Bombs
 Could not find wargear Cyber Familiar
 	 Checked under Cyber Familiar</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fc83-1484-4c0d-aab7"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -5542,6 +6003,15 @@ Could not find wargear Cyber Familiar
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="1af0-b5bf-46f9-b08a" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="a13d-e726-4717-afd0" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Servo Arm
+	 Checked under Servo Arm
+Could not find wargear in Any Havoc Master may exchange their Bolt Pistol for one of the following:
+Could not find wargear in Any Havoc Master may take any of the following:
+Could not find wargear in Any Havoc Master may take any of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5611,10 +6081,13 @@ Could not find rule: Volatile Ordnance (Legionary Weapons Team only)</comment>
               </constraints>
             </entryLink>
           </entryLinks>
+          <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Legion Tartaros Terminator Armour
 	 Checked under Legion Tartaros Terminator Armour</comment>
-          <categoryLinks/>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Tartaros Ruin Master" id="331b-e1dc-4cee-8ca7" page="46" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -5652,13 +6125,16 @@ Could not find wargear Legion Tartaros Terminator Armour
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Legion Tartaros Terminator Armour
-	 Checked under Legion Tartaros Terminator Armour</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="ceba-43ac-43a6-bc97" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="0497-caf7-4f29-afb1" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Legion Tartaros Terminator Armour
+	 Checked under Legion Tartaros Terminator Armour</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5716,6 +6192,9 @@ Could not find wargear Legion Tartaros Terminator Armour
             <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="d40e-8d33-47d6-82a3"/>
           </constraints>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Legion Cataphractiii Ruin Master" id="8b2a-bfdf-43f6-8c65" page="48" publicationId="9c07-3edc-5aa8-9304">
           <profiles>
@@ -5737,6 +6216,9 @@ Could not find wargear Legion Tartaros Terminator Armour
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <comment>!BSC Errors from 20240406-1603
@@ -5814,14 +6296,14 @@ Could not find profile for Legion Cataphractii Ruin Master in [&apos;Legion Cata
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Banesword may take up to two pairs of side sponsons, with each sponson armed with:" id="768e-20cb-40b1-b840">
+              <constraints>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="1416-95a3-46b5-9568"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Flamer
 	 Checked under One Lascannon &amp; one Twin-Linked Heavy Flamer
 Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Bolter
 	 Checked under One Lascannon &amp; one Twin-Linked Heavy Bolter</comment>
-              <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="1416-95a3-46b5-9568"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Banesword may take up to two of the following:" id="1c6e-15a6-4a0e-8678">
               <entryLinks>
@@ -5881,12 +6363,12 @@ Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Bolter
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="43e6-a1eb-4167-8ca0"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Banesword may take any of the following:" id="0dd6-2848-4b14-b841">
               <entryLinks>
@@ -5915,14 +6397,17 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="3181-58a4-45b3-b27e" name="Vehicle" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Legion Banesword may take up to two pairs of side sponsons, with each sponson armed with:
 Could not find wargear in A Legion Banesword may take up to two pairs of side sponsons, with each sponson armed with:
 Could not find wargear in The Legion Banesword may take up to two of the following:
 Could not find type or subtype &apos;Super-Heavy&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="3181-58a4-45b3-b27e" name="Vehicle" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6000,14 +6485,14 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Legion Doomhammer may take up to two pairs of side sponsons, with each sponson armed with:" id="6a61-8dc7-4c7f-b4d5">
+              <constraints>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="3ed9-0e1e-4684-87b8"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Flamer
 	 Checked under One Lascannon &amp; one Twin-Linked Heavy Flamer
 Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Bolter
 	 Checked under One Lascannon &amp; one Twin-Linked Heavy Bolter</comment>
-              <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="3ed9-0e1e-4684-87b8"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Doomhammer may take up to two of the following:" id="55de-773a-45d4-99fb">
               <entryLinks>
@@ -6067,12 +6552,12 @@ Could not find wargear One Lascannon &amp; one Twin-Linked Heavy Bolter
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="4dda-9ffa-40b6-af80"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Legion Doomhammer may take any of the following:" id="0aad-9515-4e2e-ad91">
               <entryLinks>
@@ -6101,15 +6586,18 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="226b-0932-4b6b-ae51" name="Vehicle" primary="false"/>
+            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0f7-aad9-4d11-9550" name="Transport" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in A Legion Doomhammer may take up to two pairs of side sponsons, with each sponson armed with:
 Could not find wargear in A Legion Doomhammer may take up to two pairs of side sponsons, with each sponson armed with:
 Could not find wargear in The Legion Doomhammer may take up to two of the following:
 Could not find type or subtype &apos;Super-Heavy&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="226b-0932-4b6b-ae51" name="Vehicle" primary="false"/>
-            <categoryLink targetId="7b0a-a743-a8da-3a39" id="a0f7-aad9-4d11-9550" name="Transport" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6273,12 +6761,12 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
-	 Checked under Combi-Weapon (Any Type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9034-4bac-4361-91f5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
+	 Checked under Combi-Weapon (Any Type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Legion Orthrus Destroyer may take any of the following:" id="256a-3c59-408f-9d40">
               <entryLinks>
@@ -6307,13 +6795,16 @@ Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Legion Orthrus Destroyer may take one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="9f2e-3675-45e1-b39a" name="Vehicle" primary="false"/>
             <categoryLink targetId="d5df-57ac-8f3c-097b" id="5dba-18eb-42b7-9903" name="Bombard" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="ebac-23ec-46a3-a313" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="410"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Legion Orthrus Destroyer may take one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6349,12 +6840,6 @@ Could not find wargear in Any Legion Orthrus Destroyer may take one of the follo
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="054f-128d-49af-826a"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="d33c-a9e3-4eb3-bc94"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Emplacement-Mounted Earthshaker Cannon (with Earthshaker and Airburst Shells)
-	 Checked under Earthshaker Cannon (with Earthshaker and Airburst Shells)
-Could not find wargear Fire Point (One Per Hull Arc, 4)
-	 Checked under Fire Point (One Per Hull Arc, 4)
-Could not find type or subtype &apos;Battlements&apos;</comment>
           <entryLinks>
             <entryLink name="Skytracker Augury" hidden="false" type="selectionEntry" targetId="65c6-d09f-4846-a9df" id="0061-2c75-4be6-a4a7">
               <constraints>
@@ -6366,6 +6851,15 @@ Could not find type or subtype &apos;Battlements&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="a24f-12d8-36c1-f477" id="8e6f-794e-40c6-9164" name="Fortification" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="125"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Emplacement-Mounted Earthshaker Cannon (with Earthshaker and Airburst Shells)
+	 Checked under Earthshaker Cannon (with Earthshaker and Airburst Shells)
+Could not find wargear Fire Point (One Per Hull Arc, 4)
+	 Checked under Fire Point (One Per Hull Arc, 4)
+Could not find type or subtype &apos;Battlements&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>

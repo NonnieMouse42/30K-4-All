@@ -76,12 +76,12 @@
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="17ba-9594-4cec-a395"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Prime may exchange either their Laspistol and/or Power Weapon each for one of the following options:" id="4642-ae13-47b0-a03e">
               <entryLinks>
@@ -173,9 +173,6 @@ Could not find wargear Melta Bombs
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Prime may take one of the following:" id="3776-1068-42f1-a2d1">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Servo Arm
-	 Checked under Servo Arm</comment>
               <entryLinks>
                 <entryLink name="Incunabulan Jet Pack" hidden="false" type="selectionEntry" targetId="9faf-7242-dc40-c3e5" id="8864-6a0d-4820-91bb">
                   <costs>
@@ -213,24 +210,30 @@ Could not find wargear Servo Arm
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b407-a820-4fc0-b600"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Servo Arm
+	 Checked under Servo Arm</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Prime may upgrade a single weapon to have the following Special Rule:" id="6539-3df9-4cce-9654">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Master-Crafted
-	 Checked under Master-Crafted</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7748-8918-4d10-a941"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Master-Crafted
+	 Checked under Master-Crafted</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Magos Prime may take any of the following options:
-Could not find wargear in The Magos Prime may take one of the following:
-Could not find wargear in The Magos Prime may upgrade a single weapon to have the following Special Rule:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3f41-70d2-4ba3-acfd" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a391-6f18-426b-9fdc" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Magos Prime may take any of the following options:
+Could not find wargear in The Magos Prime may take one of the following:
+Could not find wargear in The Magos Prime may upgrade a single weapon to have the following Special Rule:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -420,9 +423,6 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Prime on Abeyant may take one of the following:" id="0390-b70a-49fb-b6d0">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Servo Arm
-	 Checked under Servo Arm</comment>
               <entryLinks>
                 <entryLink name="Mechadendrite Hive" hidden="false" type="selectionEntry" targetId="9c99-9e6e-4e40-8654" id="06b1-88f7-4921-bfb2">
                   <costs>
@@ -460,25 +460,31 @@ Could not find wargear Servo Arm
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="67dd-27e0-419a-9962"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Servo Arm
+	 Checked under Servo Arm</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Prime on Abeyant may upgrade a single weapon to have the following Special Rule:" id="19f9-4718-458e-abab">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Master-Crafted
-	 Checked under Master-Crafted</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1708-0e2a-4160-94c3"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Master-Crafted
+	 Checked under Master-Crafted</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Magos Prime on Abeyant may take one of the following:
-Could not find wargear in The Magos Prime on Abeyant may upgrade a single weapon to have the following Special Rule:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="d9cc-077e-4392-b34f" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="9892-5655-40bd-972e" name="Character" primary="false"/>
             <categoryLink targetId="7d95-f9d1-440a-67bd" id="390a-bebf-41fd-90bf" name="Monstrous" primary="false"/>
             <categoryLink targetId="4303-1348-cce4-9501" id="fca0-ecd2-4061-8eec" name="Antigrav" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Magos Prime on Abeyant may take one of the following:
+Could not find wargear in The Magos Prime on Abeyant may upgrade a single weapon to have the following Special Rule:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -754,6 +760,9 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="a31c-b850-44fc-ae20" name="Character" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="331d-e34c-4cce-bbe1" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -771,10 +780,12 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
         <infoLink name="Command Node" hidden="false" type="rule" targetId="177f-965b-4b5d-bcd1" id="a68c-6a4f-4bbd-b85e"/>
       </infoLinks>
       <comment>
-</comment>
+!BSC Errors from 20240406-1709
+Could not find rule: Independent Character
+Could not find rule: Command Protocols (Skitarius)</comment>
       <rules>
         <rule name="Command Protocols (Skitarius)" hidden="false" id="975a-f8cd-9f13-b4ae" publicationId="89c5-118c-61fb-e6d8" page="90">
-          <description>Once per game, at the start of the Controlling Player’s Shooting phase, you may nominate one unit with the Skitarii Sub-type unit within 12” of this model. This unit can re-roll failed to Hit rolls of 1 during that Shooting Phase.</description>
+          <description>Once per game, at the start of the Controlling Player’s Shooting phase, you may nominate one unit with the Skitarii Sub-type unit within 12” of this model. This unit can re-roll failed to Hit rolls of 1 during that Shooting Phase.</description>
         </rule>
       </rules>
     </selectionEntry>
@@ -819,14 +830,14 @@ Could not find rule: The Orders of Lesser Techno-Arcana</comment>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Sicarian Clademaster must select one of the following:" id="bf7b-1863-4da6-8ff2">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a392-6b7b-4b1c-a79d"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Stealth Suite Module
 	 Checked under Stealth Suite Module
 Could not find wargear Aggression Stim-Injectors
 	 Checked under Aggression Stim-Injectors</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a392-6b7b-4b1c-a79d"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Sicarian Clademaster may exchange their Taser Goad for one of the following:" id="5224-055a-481d-bd86">
               <entryLinks>
@@ -1032,14 +1043,17 @@ Could not find wargear Aggression Stim-Injectors
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Sicarian Clademaster must select one of the following:
-Could not find wargear in The Sicarian Clademaster must select one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f68d-35db-437f-9223" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="c5cb-8894-42da-940e" name="Character" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="cda8-2563-4025-b908" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Sicarian Clademaster must select one of the following:
+Could not find wargear in The Sicarian Clademaster must select one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1107,9 +1121,6 @@ Stubcarbine is in two option lists for Sicarian Clademaster, you will need to co
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Arcana Potentis
-	 Checked under Arcana Potentis</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Praetorian Servitor may exchange their Power Fist for one of the following:" id="6eef-7a9e-4520-b89a">
               <entryLinks>
@@ -1145,6 +1156,12 @@ Could not find wargear Arcana Potentis
             <categoryLink targetId="ecbd-02c1-4396-8660" id="0e14-7769-4d2a-b4e5" name="Servitor" primary="false"/>
             <categoryLink targetId="28f2-0db9-4fdb-bde6" id="de0b-a356-4508-801b" name="Guardian" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="40"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Arcana Potentis
+	 Checked under Arcana Potentis</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1219,11 +1236,6 @@ Could not find wargear Arcana Potentis
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Solius Excinda
-	 Checked under Solius Excinda
-Could not find wargear Sapien
-	 Checked under Sapien</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4f70-45b6-4a29-a1e2" name="Infantry" primary="false"/>
             <categoryLink targetId="57a1-ae47-ff1b-36e4" id="ac90-c823-4518-8db0" name="Cybertheurgist" primary="false"/>
@@ -1231,6 +1243,14 @@ Could not find wargear Sapien
             <categoryLink targetId="6399-5c65-7833-1025" id="3e68-743c-4645-a5f3" name="Line" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b07d-5f47-473d-8bf2" name="Unique" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Solius Excinda
+	 Checked under Solius Excinda
+Could not find wargear Sapien
+	 Checked under Sapien</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1292,13 +1312,6 @@ Could not find rule: Master Cybertheurgist:</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Prenzlaur Null-Pistols
-	 Checked under Prenzlaur Null-Pistol
-Could not find wargear Mechadendrite Hive with in-built Prehensile Data-spike
-	 Checked under Mechadendrite Hive with in-built Prehensile Data-spike
-Could not find wargear Magno-Gravitic Thrusters
-	 Checked under Magno-Gravitic Thrusters</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Remiare may be equipped with:" id="8ce0-33dc-4085-94e8">
               <entryLinks>
@@ -1322,6 +1335,16 @@ Could not find wargear Magno-Gravitic Thrusters
             <categoryLink targetId="59a4-7b61-600a-c457" id="937f-8761-4beb-be48" name="Skirmish" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="9463-b7d8-4782-8144" name="Unique" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Prenzlaur Null-Pistols
+	 Checked under Prenzlaur Null-Pistol
+Could not find wargear Mechadendrite Hive with in-built Prehensile Data-spike
+	 Checked under Mechadendrite Hive with in-built Prehensile Data-spike
+Could not find wargear Magno-Gravitic Thrusters
+	 Checked under Magno-Gravitic Thrusters</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1384,13 +1407,6 @@ Could not find rule: Warlord: The Science of Slaughter*</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3d8f-f090-4453-9dcc"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2aee-8a54-445a-be6c"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Excoriator
-	 Checked under Excoriator
-Could not find wargear Electrocoil Whip
-	 Checked under Electrocoil Whip
-Could not find wargear Personal Void
-	 Checked under Personal Void</comment>
           <entryLinks>
             <entryLink name="Archaeotech Pistol" hidden="false" type="selectionEntry" targetId="c22a-ed4d-af68-bf00" id="a6b9-16e7-46f8-837b">
               <constraints>
@@ -1417,6 +1433,16 @@ Could not find wargear Personal Void
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="043a-7fd1-41ab-b067" name="Character" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="f535-17b6-48b4-af40" name="Unique" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Excoriator
+	 Checked under Excoriator
+Could not find wargear Electrocoil Whip
+	 Checked under Electrocoil Whip
+Could not find wargear Personal Void
+	 Checked under Personal Void</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1471,11 +1497,6 @@ Could not find rule: Warlord: The Logic of Victory*</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="de61-fc8b-44b0-b877"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="96e1-7f46-4058-86f5"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Ruptor Heraldis
-	 Checked under Ruptor Heraldis
-Could not find wargear Disintegration Beamer
-	 Checked under Disintegration Beamer</comment>
           <entryLinks>
             <entryLink name="Machinator Array" hidden="false" type="selectionEntry" targetId="16dc-7363-417f-85bd" id="9d5a-bb5c-4858-a990">
               <constraints>
@@ -1510,6 +1531,14 @@ Could not find wargear Disintegration Beamer
             <categoryLink targetId="57a1-ae47-ff1b-36e4" id="2f70-c900-4853-890f" name="Cybertheurgist" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="8fcc-248e-4c07-8785" name="Unique" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Ruptor Heraldis
+	 Checked under Ruptor Heraldis
+Could not find wargear Disintegration Beamer
+	 Checked under Disintegration Beamer</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1523,14 +1552,14 @@ Could not find wargear Disintegration Beamer
         <infoLink name="Pride of Place" hidden="false" type="rule" targetId="f83c-9442-8102-5da4" id="9cad-d59f-44d4-8c2c"/>
         <infoLink name="Traitor" hidden="false" type="rule" targetId="eff2-8b0e-21da-2f0d" id="09e1-28cf-4ded-a83a"/>
       </infoLinks>
-      <comment>!BSC Errors from 20240406-1603
-Could not find rule: Fabricatus-Primus</comment>
       <rules>
         <rule name="Fabricatus-Primus" id="c146-066e-46a5-ad10" page="16" publicationId="89c5-118c-61fb-e6d8">
           <description>Kelbor-Hal has the Artificia Machina, Artificia Cybernetica, and Ephemera Incursus Cybertheurgic Arcana, and has all Rites and weapons that are part of those Arcana. Kelbor-Hal also possesses a unique Cybertheurgic Weapon - Exiguo Maelifica.
 In addition, Kelbor-Hal has the Bonds of Vassalage and Master Technomancer Special Rules (see page 98, Liber Mechanicum).</description>
         </rule>
       </rules>
+      <comment>!BSC Errors from 20240406-1603
+Could not find rule: Fabricatus-Primus</comment>
     </selectionEntry>
     <selectionEntry name="Sarumiat Battle-Automata Maniple" type="unit" id="98ec-1704-49af-a944" page="20" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -1607,6 +1636,9 @@ In addition, Kelbor-Hal has the Bonds of Vassalage and Master Technomancer Speci
             <categoryLink targetId="2440-b64e-cb24-87f0" id="e535-cd33-4285-a724" name="Cybernetica" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="089c-fa6a-4c06-9cae" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="165"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
@@ -1740,6 +1772,9 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             <categoryLink targetId="2107-c372-43e8-90bc" id="ab6b-e775-4568-8011" name="Skitarii" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="b727-24aa-4a9a-9141" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
@@ -1863,6 +1898,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="846a-4ff6-484f-a0af" name="Infantry" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="f19f-7784-487b-9902" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Liquidator Alpha" id="b9a3-c438-44bd-8697" page="22" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -1941,6 +1979,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="2107-c372-43e8-90bc" id="9731-c877-4473-b563" name="Skitarii" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="890c-0477-4df6-8af5" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -1982,9 +2023,6 @@ Could not find wargear Enhanced Data Tether
 	 Checked under Enhanced Data Tether</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in One Vectorii Team may take a:
-Could not find rule: Marksman Teams (Vectorii Team only)</comment>
       <infoLinks>
         <infoLink name="Firing Protocols (X)" hidden="false" type="rule" targetId="32a3-f599-5c92-2945" id="8e76-5aca-4aed-a971">
           <modifiers>
@@ -1997,6 +2035,9 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in One Vectorii Team may take a:
+Could not find rule: Marksman Teams (Vectorii Team only)</comment>
     </selectionEntry>
     <selectionEntry name="Sicarian Kill-Clade" type="unit" id="018f-666c-4720-a52c" page="23" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -2128,6 +2169,9 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1ab6-c5be-401d-badc" name="Infantry" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="b696-1e71-498c-9c5b" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Sicarian Alpha" id="bafd-bef3-4e8a-8b6a" page="23" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -2294,6 +2338,9 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
             <categoryLink targetId="2107-c372-43e8-90bc" id="d94a-0f83-4be4-ae96" name="Skitarii" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="59ba-790f-4c21-aa75" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -2325,7 +2372,7 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
               <profiles>
                 <profile name="Aggression Stim-Injectors" hidden="false" id="64ad-3dcc-f461-faa9" typeId="2a1f-7837-f0ef-be44" typeName="Wargear Item">
                   <characteristics>
-                    <characteristic name="Description" typeId="347e-ee4a-764f-6be3">A model equipped with Aggression Stim-Injectors gains the Furious Charge (1), and Rage (2) Special Rules.</characteristic>
+                    <characteristic name="Description" typeId="347e-ee4a-764f-6be3">A model equipped with Aggression Stim-Injectors gains the Furious Charge (1), and Rage (2) Special Rules.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -2343,6 +2390,11 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
               </infoLinks>
             </selectionEntry>
           </selectionEntries>
+          <comment>!BSC Errors from 20240406-1709
+Could not find wargear Stealth Suite Modules
+	 Checked under Stealth Suite Modules
+Could not find wargear Aggression Stim-Injectors
+	 Checked under Aggression Stim-Injectors</comment>
         </selectionEntryGroup>
         <selectionEntryGroup name="One Sicarian Stalker may take a:" id="fdb7-75ad-4b71-bef0">
           <entryLinks>
@@ -2371,12 +2423,6 @@ Could not find rule: Marksman Teams (Vectorii Team only)</comment>
           </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Taser Goad is in two option lists for Sicarian Stalker, you will need to combine them by hand.
-Stubcarbine is in two option lists for Sicarian Stalker, you will need to combine them by hand.
-Taser Goad is in two option lists for Sicarian Alpha, you will need to combine them by hand.
-Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine them by hand.
-Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine them by hand.</comment>
       <infoLinks>
         <infoLink name="Bulky (X)" hidden="false" type="rule" targetId="676c-7b75-4b6f-9405" id="67ef-bc11-4aad-958f">
           <modifiers>
@@ -2390,6 +2436,14 @@ Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine 
         </infoLink>
         <infoLink name="Neurostatic Aura" hidden="false" type="rule" targetId="67a0-7332-44d0-82d5" id="9378-97bb-4c18-9f2e"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1709
+Could not find wargear in The Kill-Clade must select one of the following upgrades:
+Could not find wargear in The Kill-Clade must select one of the following upgrades:
+Taser Goad is in two option lists for Sicarian Stalker, you will need to combine them by hand.
+Stubcarbine is in two option lists for Sicarian Stalker, you will need to combine them by hand.
+Taser Goad is in two option lists for Sicarian Alpha, you will need to combine them by hand.
+Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine them by hand.
+Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Kataphron Breacher Servitor Maniple" type="unit" id="63c2-289d-4951-bbab" page="24" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -2439,12 +2493,12 @@ Stubcarbine is in two option lists for Sicarian Alpha, you will need to combine 
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hydraulic Claw
-	 Checked under Hydraulic Claw</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9aa1-ad5c-47b9-81ed"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hydraulic Claw
+	 Checked under Hydraulic Claw</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Kataphron Breacher may exchange their Graviton Imploder for one of the following:" id="d6ef-d22c-4117-916f">
               <entryLinks>
@@ -2475,13 +2529,16 @@ Could not find wargear Hydraulic Claw
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Kataphron Breacher may exchange their Arc Claw for one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="c283-ea57-4b9e-8ddf" name="Infantry" primary="false"/>
             <categoryLink targetId="ecbd-02c1-4396-8660" id="6502-05c4-4bff-ab80" name="Servitor" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="d4f3-ca33-4f71-9928" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="45"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Kataphron Breacher may exchange their Arc Claw for one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2589,20 +2646,23 @@ Could not find wargear in Any Kataphron Breacher may exchange their Arc Claw for
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Eradication Beamer
-	 Checked under Eradication Beamer</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5aa0-5318-4c41-bd5c"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Eradication Beamer
+	 Checked under Eradication Beamer</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Kataphron Destructor may exchange their Graviton Imploder for one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8dbd-df79-4241-9a63" name="Infantry" primary="false"/>
             <categoryLink targetId="ecbd-02c1-4396-8660" id="dc03-3456-4ad3-b35b" name="Servitor" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Kataphron Destructor may exchange their Graviton Imploder for one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2649,9 +2709,6 @@ Could not find wargear in Any Kataphron Destructor may exchange their Graviton I
             <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="b092-a253-462b-9d52"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="ee3a-91cf-4dfc-9032"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Machinator Array with in-built Prehensile Data-spike
-	 Checked under Machinator Array with in-built Prehensile Data-spike</comment>
           <entryLinks>
             <entryLink name="Refractor Field" hidden="false" type="selectionEntry" targetId="a06a-55a5-070b-1d0e" id="5e1a-d190-4dc8-ad66">
               <constraints>
@@ -2746,20 +2803,24 @@ Could not find wargear Machinator Array with in-built Prehensile Data-spike
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="7284-df49-47db-8b1a" name="Infantry" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="7ab5-bbb8-4a61-aebb" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Machinator Array with in-built Prehensile Data-spike
+	 Checked under Machinator Array with in-built Prehensile Data-spike</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="The unit may purchase:" id="6882-76d3-4319-89fc">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Incunabulan Jet Packs
-	 Checked under Incunabulan Jet Packs</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="374f-0b66-48b1-8bd1"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Incunabulan Jet Packs
+	 Checked under Incunabulan Jet Packs</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The unit may purchase:</comment>
       <infoLinks>
         <infoLink name="Bulky (X)" hidden="false" type="rule" targetId="676c-7b75-4b6f-9405" id="1f4c-b8d6-4920-9eb1">
           <modifiers>
@@ -2785,6 +2846,8 @@ Could not find wargear in The unit may purchase:</comment>
           </modifiers>
         </infoLink>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The unit may purchase:</comment>
     </selectionEntry>
     <selectionEntry name="Triaros Guardian" type="unit" id="5c45-e837-4481-a21f" page="27" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -2854,19 +2917,22 @@ Could not find wargear in The unit may purchase:</comment>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Triaros Guardian may select:" id="d46e-5543-4ffa-8e79">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Up to four additional Void Shields
-	 Checked under Up to four additional Void Shields</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="71fb-fbda-499f-b830"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Up to four additional Void Shields
+	 Checked under Up to four additional Void Shields</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Triaros Guardian may select:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="74be-bd63-4c67-a5b8" name="Vehicle" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Triaros Guardian may select:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2941,6 +3007,9 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             <categoryLink targetId="2107-c372-43e8-90bc" id="d5ca-bd9b-4d03-b800" name="Skitarii" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="670b-b851-4ca3-a365" name="Line" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="8"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Vanguard Alpha" id="caa4-1bf5-4f4c-877f" page="32" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -3066,6 +3135,9 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="011a-cf68-475b-bc9f" name="Character" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="7bb9-7756-40c6-affa" name="Line" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -3175,6 +3247,9 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             <categoryLink targetId="2107-c372-43e8-90bc" id="f1ad-de7a-45b9-a658" name="Skitarii" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="8207-84f9-422e-b4a6" name="Line" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="7"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Ranger Alpha" id="73fa-6fac-469d-af8c" page="33" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -3300,6 +3375,9 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="5a42-b99c-40c2-8ab3" name="Character" primary="false"/>
             <categoryLink targetId="6399-5c65-7833-1025" id="09c6-95f0-47bb-9dff" name="Line" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -3382,6 +3460,10 @@ The option &apos;Up to four additional Void Shields&apos; may need a &apos;multi
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="89ac-61fc-4102-ad38"/>
             <constraint type="max" value="19" field="selections" scope="parent" shared="true" id="89d4-f46c-49b7-8d24"/>
           </constraints>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="13"/>
+          </costs>
+          <categoryLinks/>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Frag Grenades&apos;</comment>
         </selectionEntry>
@@ -3456,6 +3538,10 @@ Could not find type or subtype &apos;Frag Grenades&apos;</comment>
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <categoryLinks/>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Frag Grenades&apos;</comment>
         </selectionEntry>
@@ -3530,12 +3616,12 @@ Could not find type or subtype &apos;Frag Grenades&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Arcana Potentis
-	 Checked under Arcana Potentis</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e950-726e-46a8-b768"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Arcana Potentis
+	 Checked under Arcana Potentis</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
       <comment>!BSC Errors from 20240406-1603
@@ -3545,6 +3631,7 @@ The option &apos;Irad-Cleanser&apos; may need a &apos;multiply by number of mode
 The option &apos;Plasma Caliver&apos; may need a &apos;multiply by number of models&apos; modifier
 The option &apos;Arc Rifle&apos; may need a &apos;multiply by number of models&apos; modifier
 The option &apos;Arcana Potentis&apos; may need a &apos;multiply by number of models&apos; modifier</comment>
+      <infoLinks/>
     </selectionEntry>
     <selectionEntry name="Electro-Priest Conclave" type="unit" id="2048-5044-4f8a-92aa" page="35" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -3594,23 +3681,23 @@ The option &apos;Arcana Potentis&apos; may need a &apos;multiply by number of mo
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0fbe-ab04-483d-8094" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="14"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="The entire squad must select one of the following options (all models in the unit must take the same option):" id="8230-315a-40b0-8452">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fb46-4c6d-4c0a-b4d2"/>
+          </constraints>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Electrostatic Gauntlets &amp; Corpuscarii Electoo
 	 Checked under Electrostatic Gauntlets &amp; Corpuscarii Electoo
 Could not find wargear Electroleech Stave &amp; Fulgurite Electoo
 	 Checked under Electroleech Stave &amp; Fulgurite Electoo</comment>
-          <constraints>
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fb46-4c6d-4c0a-b4d2"/>
-          </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The entire squad must select one of the following options (all models in the unit must take the same option):
-Could not find wargear in The entire squad must select one of the following options (all models in the unit must take the same option):</comment>
       <infoLinks>
         <infoLink name="Hatred (X)" hidden="false" type="rule" targetId="dc0b-fe69-6b71-e0a4" id="8382-f526-4450-b2e9">
           <modifiers>
@@ -3624,6 +3711,9 @@ Could not find wargear in The entire squad must select one of the following opti
         </infoLink>
         <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="e834-052d-43f2-a864"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The entire squad must select one of the following options (all models in the unit must take the same option):
+Could not find wargear in The entire squad must select one of the following options (all models in the unit must take the same option):</comment>
     </selectionEntry>
     <selectionEntry name="Kastelan Battle-Automata Maniple" type="unit" id="5e9e-ee9e-4109-b184" page="36" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -3736,6 +3826,9 @@ Could not find wargear in The entire squad must select one of the following opti
           <categoryLinks>
             <categoryLink targetId="2440-b64e-cb24-87f0" id="5d17-1672-4048-86c1" name="Cybernetica" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="95"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
@@ -3794,9 +3887,6 @@ Could not find type or subtype &apos;Automata&apos;</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="bc33-3a73-40ac-9ece"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a53a-70b4-4f12-85ed"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight</comment>
           <entryLinks>
             <entryLink name="Auto-Repeater Battery" hidden="false" type="selectionEntry" targetId="aaac-c423-4e8a-b211" id="cc56-49b0-4c47-9afe">
               <modifiers>
@@ -3839,6 +3929,12 @@ Could not find wargear Searchlight
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="e5cf-09db-4419-9bc1" name="Transport" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="7a68-aa8f-4a1b-8ea8" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -3874,10 +3970,6 @@ Could not find wargear Searchlight
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="89aa-498f-4b7c-afc2"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b5ec-cb10-4e34-97e2"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear in The Porphetian Armoured Carrier may exchange its Turret Mounted Mauler Bolt Cannon Array for:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Porphetian Armoured Carrier may exchange its Turret Mounted Mauler Bolt Cannon Array for:" id="e3cc-f9e8-45da-94d8">
               <entryLinks>
@@ -3923,12 +4015,12 @@ Could not find wargear in The Porphetian Armoured Carrier may exchange its Turre
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Turret Mounted Eradication Beam Cannon
-	 Checked under Eradication Beam Cannon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="be68-182f-4d26-818b"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Turret Mounted Eradication Beam Cannon
+	 Checked under Eradication Beam Cannon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Porphetian Armoured Carrier may select a:" id="5b61-35fa-4e98-8689">
               <entryLinks>
@@ -3950,6 +4042,13 @@ Could not find wargear Turret Mounted Eradication Beam Cannon
             <categoryLink targetId="e2b6-b770-784c-9e95" id="2868-b364-4afd-bf9b" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="aabc-3e9c-4007-98cb" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight
+Could not find wargear in The Porphetian Armoured Carrier may exchange its Turret Mounted Mauler Bolt Cannon Array for:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4006,6 +4105,9 @@ Could not find wargear Turret Mounted Eradication Beam Cannon
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="716c-51d2-47c5-bb2f" name="Infantry" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="c259-aaed-49c8-8f86" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="12"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4101,6 +4203,9 @@ Could not find wargear Turret Mounted Eradication Beam Cannon
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="eba7-e2f7-4c3d-b7d6"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Taser Goad and Flechette Blaster
 	 Checked under Taser Goad and Flechette Blaster
@@ -4108,19 +4213,19 @@ Could not find wargear Power Sword and Flechette Blaster
 	 Checked under Power Sword and Flechette Blaster
 Could not find wargear Transonic Blade and Flechette Blaster
 	 Checked under Transonic Blade and Flechette Blaster</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="eba7-e2f7-4c3d-b7d6"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
-Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
-Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4139-b726-4db8-ade3" name="Infantry" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="b455-5aa8-431b-b07c" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="25"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
+Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
+Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Pteraxii Alpha" id="e9ad-b8d6-4e67-b2e1" page="43" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -4192,6 +4297,9 @@ Could not find wargear in Any model in the unit may exchange their Flechette Car
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8b3d-a198-49b5-9d38"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Taser Goad and Flechette Blaster
 	 Checked under Taser Goad and Flechette Blaster
@@ -4199,9 +4307,6 @@ Could not find wargear Power Sword and Flechette Blaster
 	 Checked under Power Sword and Flechette Blaster
 Could not find wargear Transonic Blade and Flechette Blaster
 	 Checked under Transonic Blade and Flechette Blaster</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8b3d-a198-49b5-9d38"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Pteraxii Alpha may take one of the following:" id="4f9a-8ea3-4efc-b628">
               <entryLinks>
@@ -4243,15 +4348,18 @@ Could not find wargear Transonic Blade and Flechette Blaster
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
-Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
-Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1952-a319-482d-8e7b" name="Infantry" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="08c6-e3b2-4947-9126" name="Skitarii" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="2592-7bc0-4162-8433" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
+Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:
+Could not find wargear in Any model in the unit may exchange their Flechette Carbine for one of the following:</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -4391,16 +4499,20 @@ Could not find wargear in Any model in the unit may exchange their Flechette Car
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Power Sword and Phosphor Serpenta
-	 Checked under Power Sword and Phosphor Serpenta</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9a42-7702-4e3e-b366"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Power Sword and Phosphor Serpenta
+	 Checked under Power Sword and Phosphor Serpenta</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="35"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any model in the unit may exchange their Two Phosphor Serpentas for one of the following:</comment>
+          <categoryLinks/>
         </selectionEntry>
         <selectionEntry type="model" name="Tormentor Alpha" id="f7f7-4fc8-4f70-9734" page="44" publicationId="89c5-118c-61fb-e6d8">
           <profiles>
@@ -4475,12 +4587,12 @@ Could not find wargear in Any model in the unit may exchange their Two Phosphor 
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Power Sword and Phosphor Serpenta
-	 Checked under Power Sword and Phosphor Serpenta</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="026a-70e7-4cec-8f58"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Power Sword and Phosphor Serpenta
+	 Checked under Power Sword and Phosphor Serpenta</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Tormentor Alpha may take one of the following:" id="144f-d841-4e88-b6ac">
               <entryLinks>
@@ -4530,13 +4642,16 @@ Could not find wargear Power Sword and Phosphor Serpenta
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may exchange their Two Phosphor Serpentas for one of the following:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="2107-c372-43e8-90bc" id="2e74-3910-4d13-959a" name="Skitarii" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="4f22-1d1c-4958-b8d7" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may exchange their Two Phosphor Serpentas for one of the following:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -4548,12 +4663,12 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Preysight Cogitators
-	 Checked under Preysight Cogitators</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3cfd-671f-41a2-8e76"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Preysight Cogitators
+	 Checked under Preysight Cogitators</comment>
         </selectionEntryGroup>
         <selectionEntryGroup name="One Serberys Tormentor may take a:" id="020a-b782-49fb-84a2">
           <entryLinks>
@@ -4598,8 +4713,6 @@ Could not find wargear Preysight Cogitators
           </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Conclave must select one of the following upgrades:</comment>
       <infoLinks>
         <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="22ec-676c-4ba4-b4b3"/>
         <infoLink name="Hit &amp; Run" hidden="false" type="rule" targetId="5986-e960-d432-affd" id="d853-b35d-47a3-a858"/>
@@ -4619,6 +4732,8 @@ Could not find wargear in The Conclave must select one of the following upgrades
           </modifiers>
         </infoLink>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Conclave must select one of the following upgrades:</comment>
     </selectionEntry>
     <selectionEntry name="Herax Battle-Automata Maniple" type="unit" id="20c7-aa8c-4353-9c50" page="45" publicationId="89c5-118c-61fb-e6d8">
       <categoryLinks>
@@ -4690,12 +4805,12 @@ Could not find wargear in The Conclave must select one of the following upgrades
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Eradication Beamer
-	 Checked under Eradication Beamer</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9781-fb1a-4468-a320"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Eradication Beamer
+	 Checked under Eradication Beamer</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may exchange their Havoc Launcher for:" id="6fcc-b2ea-4b34-9f60">
               <entryLinks>
@@ -4705,21 +4820,24 @@ Could not find wargear Eradication Beamer
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Missile Launcher (with Frag, Krak, and Ignis Missiles)
-	 Checked under Missile Launcher (with Frag, Krak, and Ignis Missiles)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f98c-ff5c-4f07-8173"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Missile Launcher (with Frag, Krak, and Ignis Missiles)
+	 Checked under Missile Launcher (with Frag, Krak, and Ignis Missiles)</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="a83c-8f21-4f6d-bcf5" name="Cybernetica" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any model in the unit may exchange their Mauler Bolt Cannon for:
 Could not find wargear in Any model in the unit may exchange their Havoc Launcher for:
 Could not find type or subtype &apos;Automata&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="a83c-8f21-4f6d-bcf5" name="Cybernetica" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -4839,14 +4957,14 @@ Could not find rule: Surveillance Protocols</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4505-e90a-43c6-be54"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Two Hull (Front) Mounted Sunfury Missiles
 	 Checked under Sunfury Missile
 Could not find wargear Two Hull (Front) Mounted Kraken Penetrator Missiles
 	 Checked under Kraken Penetrator Missile</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4505-e90a-43c6-be54"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Mechanicum Lightning Strike Fighter may select one of the following:" id="7bff-fed2-43a8-bd54">
               <entryLinks>
@@ -4901,13 +5019,16 @@ Could not find wargear Two Hull (Front) Mounted Kraken Penetrator Missiles
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to three of the following options:
-Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to three of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="12d8-40f3-4125-affc" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="456c-c656-47b8-bcec" name="Flyer" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to three of the following options:
+Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to three of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5008,12 +5129,12 @@ Could not find wargear in A Mechanicum Lightning Strike Fighter may select up to
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Twin-Linked Multi-Lasers
-	 Checked under Twin-Linked Multi-Lasers</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="9dc4-af46-49ee-b0db"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Twin-Linked Multi-Lasers
+	 Checked under Twin-Linked Multi-Lasers</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="A Mechanicum Avenger Strike Fighter may select any of the following:" id="424c-b3bb-469d-8b5b">
               <entryLinks>
@@ -5039,12 +5160,15 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Multi-Lasers
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in A Mechanicum Avenger Strike Fighter may select up to two of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="4f31-5342-4dc5-9dff" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="848b-7c74-4efd-ad40" name="Flyer" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in A Mechanicum Avenger Strike Fighter may select up to two of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5079,9 +5203,6 @@ Could not find wargear in A Mechanicum Avenger Strike Fighter may select up to t
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d88d-8d01-479a-b662"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="e58b-254f-4be2-8dce"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight</comment>
           <entryLinks>
             <entryLink name="Auto-Repeater Battery" hidden="false" type="selectionEntry" targetId="aaac-c423-4e8a-b211" id="7479-a197-4e69-9a97">
               <modifiers>
@@ -5126,6 +5247,12 @@ Could not find wargear Searchlight
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="c6f9-926a-4cd4-a19f" name="Transport" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="ba21-6121-4e89-a332" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="115"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5163,10 +5290,6 @@ Could not find wargear Searchlight
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d9ea-165b-492a-bc95"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="045d-6c35-4d74-b0c9"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear in Any Archaeopter Imperator may exchange their Hull (Front) Mounted Auto-Repeater Battery for:</comment>
           <entryLinks>
             <entryLink name="Broad-Spectrum Data-Tether" hidden="false" type="selectionEntry" targetId="941b-302f-480c-8e63" id="af37-d0c4-4634-a9a1">
               <constraints>
@@ -5187,12 +5310,12 @@ Could not find wargear in Any Archaeopter Imperator may exchange their Hull (Fro
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Twin-Linked Phosphor Cannon
-	 Checked under Twin-Linked Phosphor Cannon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a656-45ad-460b-b665"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Twin-Linked Phosphor Cannon
+	 Checked under Twin-Linked Phosphor Cannon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Archaeopter Imperator may take one of the following:" id="61e0-d929-4ca2-b194">
               <entryLinks>
@@ -5252,6 +5375,13 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Phosphor Cannon
             <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="193d-86f6-4d76-9a9d" name="Hover" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="80dd-c22c-4055-987a" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="120"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight
+Could not find wargear in Any Archaeopter Imperator may exchange their Hull (Front) Mounted Auto-Repeater Battery for:</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -5363,12 +5493,12 @@ Could not find wargear Hull (Front) Mounted Twin-Linked Phosphor Cannon
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Arvus Lighter which selects a Hull (Front) Mounted weapon may purchase the following Special Rule for it:" id="e524-b895-41d2-ad96">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Twin-Linked
-	 Checked under Twin-Linked</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="eb45-5aff-4097-87c4"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Twin-Linked
+	 Checked under Twin-Linked</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Arvus Lighter may take any of the following options:" id="8f3f-af42-4c0d-abea">
               <entryLinks>
@@ -5401,14 +5531,17 @@ Could not find wargear Twin-Linked
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted weapon may purchase the following Special Rule for it:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="7512-0a47-4574-a6f4" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="2c07-8a7d-454e-9a30" name="Flyer" primary="false"/>
             <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="d8da-a19b-4b4e-9109" name="Hover" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="6406-0bbe-4424-9072" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted weapon may purchase the following Special Rule for it:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -5497,6 +5630,9 @@ Could not find wargear in An Arvus Lighter which selects a Hull (Front) Mounted 
             <categoryLink targetId="2440-b64e-cb24-87f0" id="0872-bc8f-4752-a7a8" name="Cybernetica" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="f2a7-164e-46a8-a621" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="235"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
@@ -5582,12 +5718,6 @@ Could not find rule: Thanatar Maniple</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Hydraulic Claws
-	 Checked under Hydraulic Claw
-Could not find wargear in Any Kharax may exchange either or both of its Mauler Bolt Cannon Arrays for:
-Could not find wargear in Any Kharax may exchange both of its Mauler Bolt Cannon Arrays for:
-Could not find type or subtype &apos;Automata&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Kharax may exchange either or both of its Hydraulic Claws for:" id="00e9-5add-4d48-89fb">
               <entryLinks>
@@ -5605,17 +5735,14 @@ Could not find type or subtype &apos;Automata&apos;</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Kharax may exchange either or both of its Mauler Bolt Cannon Arrays for:" id="cc3c-ebb4-45bb-bc78">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear -Twin-Linked Plasma Culverin
-	 Checked under -Twin-Linked Plasma Culverin</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2b7a-2a6a-452d-9211"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear -Twin-Linked Plasma Culverin
+	 Checked under -Twin-Linked Plasma Culverin</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Kharax may exchange both of its Mauler Bolt Cannon Arrays for:" id="2f2c-8c76-40be-b8f8">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Eradication Beam Cannon
-	 Checked under Eradication Beam Cannon</comment>
               <entryLinks>
                 <entryLink name="Darkfire Annihilator" hidden="false" type="selectionEntry" targetId="75d0-f69e-4a07-b7e6" id="fee0-eaf6-48ff-ab8f">
                   <costs>
@@ -5629,6 +5756,9 @@ Could not find wargear Eradication Beam Cannon
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5d26-52e2-42c6-8e80"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Eradication Beam Cannon
+	 Checked under Eradication Beam Cannon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may purchase:" id="0091-45d6-4fd8-8054">
               <entryLinks>
@@ -5650,6 +5780,15 @@ Could not find wargear Eradication Beam Cannon
             <categoryLink targetId="2440-b64e-cb24-87f0" id="828d-ce96-4667-8e6e" name="Cybernetica" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="8332-8fc6-4833-873f" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Hydraulic Claws
+	 Checked under Hydraulic Claw
+Could not find wargear in Any Kharax may exchange either or both of its Mauler Bolt Cannon Arrays for:
+Could not find wargear in Any Kharax may exchange both of its Mauler Bolt Cannon Arrays for:
+Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -5751,24 +5890,27 @@ Could not find wargear Eradication Beam Cannon
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f5fa-32d6-444c-86d1"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Eradication Beam Cannon
 	 Checked under Eradication Beam Cannon
 Could not find wargear Siege Wrecker (with in-built Heavy Flamer)
 	 Checked under Siege Wrecker (with in-built Heavy Flamer)</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f5fa-32d6-444c-86d1"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any Sepketar may exchange either or both of their Fragstorm Petards for:
-Could not find wargear in Any Sepketar may exchange either or both of their Fragstorm Petards for:
-Could not find type or subtype &apos;Automata&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="2440-b64e-cb24-87f0" id="4e51-2849-4f1a-82c5" name="Cybernetica" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="fdf7-dc4c-476f-8700" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="215"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any Sepketar may exchange either or both of their Fragstorm Petards for:
+Could not find wargear in Any Sepketar may exchange either or both of their Fragstorm Petards for:
+Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -5856,10 +5998,6 @@ Could not find type or subtype &apos;Automata&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Twin-Linked Autocannon
-	 Checked under Twin-Linked Autocannon
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may take a:" id="0220-7945-4b50-8632">
               <entryLinks>
@@ -5907,6 +6045,10 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
           <costs>
             <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="60"/>
           </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Twin-Linked Autocannon
+	 Checked under Twin-Linked Autocannon
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -5993,12 +6135,6 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="4362-e6c1-4887-85ab"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="d13e-7d6f-4d16-87b7"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Broad Spectrum Data-Tether
-	 Checked under Broad Spectrum Data-Tether
-Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:
-Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:
-Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:</comment>
           <entryLinks>
             <entryLink name="Searchlights" hidden="false" type="selectionEntry" targetId="a280-c496-4014-aca3" id="4d6e-823b-4a3b-b586">
               <constraints>
@@ -6024,6 +6160,9 @@ Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front)
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:" id="71a8-b62b-4350-a7a0">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="87ec-7abb-420e-823c"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Hull (Front) Mounted Eradication Beam Cannon
 	 Checked under Eradication Beam Cannon
@@ -6031,9 +6170,6 @@ Could not find wargear Hull (Front) Mounted Icarus Array
 	 Checked under Icarus Array
 Could not find wargear Hull (Front) Mounted Neutron Spear (with co-axial Heavy Stubber)
 	 Checked under Neutron Spear (with co-axial Heavy Stubber)</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="87ec-7abb-420e-823c"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may purchase:" id="e667-d4b6-4518-b0af">
               <entryLinks>
@@ -6068,6 +6204,15 @@ Could not find wargear Hull (Front) Mounted Neutron Spear (with co-axial Heavy S
             <categoryLink targetId="2a40-d605-4dab-b830" id="f6f4-7a4e-4f48-9328" name="Crawler" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="3521-66af-4020-854c" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="160"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Broad Spectrum Data-Tether
+	 Checked under Broad Spectrum Data-Tether
+Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:
+Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:
+Could not find wargear in Any Onager Dunecrawler may exchange their Hull (Front) Mounted Twin-Linked Phosphor Cannon for:</comment>
         </selectionEntry>
       </selectionEntries>
     </selectionEntry>
@@ -6099,13 +6244,6 @@ Could not find wargear Hull (Front) Mounted Neutron Spear (with co-axial Heavy S
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="0861-bcdc-4787-ac46"/>
             <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="5689-a965-4338-bbfa"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Searchlight
-	 Checked under Searchlight
-Could not find wargear Turret Mounted Belleros Energy Cannon with co-axial Heavy Stubber
-	 Checked under Belleros Energy Cannon with co-axial Heavy Stubber
-Could not find wargear in Any Skorpius Disintegrator may exchange their Turret Mounted Belleros Energy Cannon for:
-Could not find wargear in Any Skorpius Disintegrator may exchange their Turret Mounted Belleros Energy Cannon for:</comment>
           <entryLinks>
             <entryLink name="Disruptor Missile Launcher" hidden="false" type="selectionEntry" targetId="2cbb-0284-45a4-86c4" id="5b98-e13e-4e33-996c">
               <modifiers>
@@ -6125,14 +6263,14 @@ Could not find wargear in Any Skorpius Disintegrator may exchange their Turret M
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Skorpius Disintegrator may exchange their Turret Mounted Belleros Energy Cannon for:" id="b364-c0f4-4384-93ce">
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="882f-6444-43fd-aac8"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Turret Mounted Ferrumite Cannon (with co-axial Heavy Stubber)
 	 Checked under Ferrumite Cannon (with co-axial Heavy Stubber)
 Could not find wargear Turret Mounted Darkfire Annihilator (with co-axial Heavy Stubber)
 	 Checked under Darkfire Annihilator (with co-axial Heavy Stubber)</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="882f-6444-43fd-aac8"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may purchase:" id="42df-95e2-4e83-8eda">
               <entryLinks>
@@ -6158,6 +6296,16 @@ Could not find wargear Turret Mounted Darkfire Annihilator (with co-axial Heavy 
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="5450-c0bc-4cfa-85c9" name="Reinforced" primary="false"/>
             <categoryLink targetId="2107-c372-43e8-90bc" id="7c20-8d6f-4dc8-be58" name="Skitarii" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="180"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Searchlight
+	 Checked under Searchlight
+Could not find wargear Turret Mounted Belleros Energy Cannon with co-axial Heavy Stubber
+	 Checked under Belleros Energy Cannon with co-axial Heavy Stubber
+Could not find wargear in Any Skorpius Disintegrator may exchange their Turret Mounted Belleros Energy Cannon for:
+Could not find wargear in Any Skorpius Disintegrator may exchange their Turret Mounted Belleros Energy Cannon for:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6200,11 +6348,6 @@ Could not find wargear Turret Mounted Darkfire Annihilator (with co-axial Heavy 
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Four Module Slots
-	 Checked under Four Module Slots
-Could not find wargear in The Ordinatus-Exemplar may select any of the following Auxiliary Systems:
-Could not find wargear in The Ordinatus-Exemplar may select any of the following Auxiliary Systems:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Ordinatus-Exemplar must select one of the following Motive Systems:" id="6189-3eae-44c8-9762">
               <entryLinks>
@@ -6330,14 +6473,14 @@ Could not find wargear in The Ordinatus-Exemplar may select any of the following
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e23f-62fa-491c-9b5e"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Supercharged Reactor
 	 Checked under Supercharged Reactor
 Could not find wargear Reinforced Superstructure
 	 Checked under Reinforced Superstructure</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e23f-62fa-491c-9b5e"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -6345,6 +6488,14 @@ Could not find wargear Reinforced Superstructure
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="d152-6ba9-4eb2-bc37" name="Reinforced" primary="false"/>
             <categoryLink targetId="d5df-57ac-8f3c-097b" id="6f7e-dbf0-4d08-b9ff" name="Bombard" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Four Module Slots
+	 Checked under Four Module Slots
+Could not find wargear in The Ordinatus-Exemplar may select any of the following Auxiliary Systems:
+Could not find wargear in The Ordinatus-Exemplar may select any of the following Auxiliary Systems:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6412,6 +6563,14 @@ Could not find wargear Reinforced Superstructure
               </constraints>
             </entryLink>
           </entryLinks>
+          <categoryLinks>
+            <categoryLink targetId="2440-b64e-cb24-87f0" id="309e-f441-48d3-ac63" name="Cybernetica" primary="false"/>
+            <categoryLink targetId="7d95-f9d1-440a-67bd" id="c651-eb87-4c85-86f3" name="Monstrous" primary="false"/>
+            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b30c-e799-4c41-b996" name="Unique" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear Twin-Linked Accelerator Autocannon
 	 Checked under Twin-Linked Accelerator Autocannon
@@ -6419,11 +6578,6 @@ Could not find wargear Thermal Lance
 	 Checked under Thermal Lance
 Could not find type or subtype &apos;Automata&apos;
 Could not find type or subtype &apos;Paragon&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="2440-b64e-cb24-87f0" id="309e-f441-48d3-ac63" name="Cybernetica" primary="false"/>
-            <categoryLink targetId="7d95-f9d1-440a-67bd" id="c651-eb87-4c85-86f3" name="Monstrous" primary="false"/>
-            <categoryLink targetId="aa94-5c65-d1f1-46a4" id="b30c-e799-4c41-b996" name="Unique" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6501,14 +6655,17 @@ Could not find rule: Void Shields (2)</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Reaper Chainswords (with in-built Flamestorm Cannons)
-	 Checked under Reaper Chainswords (with in-built Flamestorm Cannons)
-Could not find type or subtype &apos;Automata&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="2440-b64e-cb24-87f0" id="8a53-1f5a-4460-87bc" name="Cybernetica" primary="false"/>
             <categoryLink targetId="f479-3c81-1e42-1b3a" id="3e6a-fce6-4d87-b298" name="Gargantuan" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Reaper Chainswords (with in-built Flamestorm Cannons)
+	 Checked under Reaper Chainswords (with in-built Flamestorm Cannons)
+Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6700,13 +6857,6 @@ Name ends in a star, check the rules for special handling</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Oppressor Siege Tank may select up to two of the following options (if two choices are selected, these must be the same):" id="ac2e-ae90-4858-af6a">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Sponson Mounted Twin-Linked Heavy Bolters and Two Sponson Mounted Lascannons
-	 Checked under Twin-Linked Heavy Bolters and
-Could not find wargear Two Sponson Mounted Twin-Linked Heavy Flamers and Two Sponson Mounted Lascannons
-	 Checked under Twin-Linked Heavy Flamers and
-Could not find wargear Two Sponson Mounted Mauler Bolt Cannon Arrays and Two Sponson Mounted Lascannons
-	 Checked under Mauler Bolt Cannon Arrays and</comment>
               <entryLinks>
                 <entryLink name="Laser Destroyer" hidden="false" type="selectionEntry" targetId="5534-6388-c8bb-945f" id="1e87-bafd-449d-9995">
                   <costs>
@@ -6723,6 +6873,13 @@ Could not find wargear Two Sponson Mounted Mauler Bolt Cannon Arrays and Two Spo
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="ceaf-0173-4a69-afe2"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Sponson Mounted Twin-Linked Heavy Bolters and Two Sponson Mounted Lascannons
+	 Checked under Twin-Linked Heavy Bolters and
+Could not find wargear Two Sponson Mounted Twin-Linked Heavy Flamers and Two Sponson Mounted Lascannons
+	 Checked under Twin-Linked Heavy Flamers and
+Could not find wargear Two Sponson Mounted Mauler Bolt Cannon Arrays and Two Sponson Mounted Lascannons
+	 Checked under Mauler Bolt Cannon Arrays and</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Oppressor Siege Tank may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following options:" id="de24-9ec9-4a10-a6ff">
               <entryLinks>
@@ -6735,14 +6892,14 @@ Could not find wargear Two Sponson Mounted Mauler Bolt Cannon Arrays and Two Spo
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="adff-4a43-4dd4-a2d8"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Hull (Front) Twin-Linked Heavy Flamer
 	 Checked under Hull (Front) Twin-Linked Heavy Flamer
 Could not find wargear Hull (Front) Twin-Linked Mauler Bolt Cannon
 	 Checked under Hull (Front) Twin-Linked Mauler Bolt Cannon</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="adff-4a43-4dd4-a2d8"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Oppressor Siege Tank may take up to two of the following:" id="e196-677d-468e-b36f">
               <entryLinks>
@@ -6802,14 +6959,14 @@ Could not find wargear Hull (Front) Twin-Linked Mauler Bolt Cannon
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="579b-ad80-4169-ac81"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Pintle Mounted Combi-Weapon (Any Type)
 	 Checked under Combi-Weapon (Any Type)
 Could not find wargear Void Shield (1)
 	 Checked under Void Shield (1)</comment>
-              <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="579b-ad80-4169-ac81"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Oppressor Siege Tank may take any of the following:" id="13fe-eda8-434a-ae54">
               <entryLinks>
@@ -6846,6 +7003,12 @@ Could not find wargear Void Shield (1)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="e2b6-b770-784c-9e95" id="7f0b-f310-49c0-a52b" name="Vehicle" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in An Oppressor Siege Tank may select up to two of the following options (if two choices are selected, these must be the same):
 Could not find wargear in An Oppressor Siege Tank may select up to two of the following options (if two choices are selected, these must be the same):
@@ -6855,9 +7018,6 @@ Could not find wargear in An Oppressor Siege Tank may exchange its Hull (Front) 
 Could not find wargear in An Oppressor Siege Tank may take up to two of the following:
 Could not find wargear in An Oppressor Siege Tank may take up to two of the following:
 Could not find type or subtype &apos;Super-Heavy&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="e2b6-b770-784c-9e95" id="7f0b-f310-49c0-a52b" name="Vehicle" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -6907,11 +7067,6 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Ordinatus Dispersion Shield
-	 Checked under Ordinatus Dispersion Shield
-Could not find wargear in An Ordinatus-Minoris must select one of the following options:
-Could not find type or subtype &apos;Super-Heavy&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="An Ordinatus-Minoris must select one of the following options:" id="0edf-6cd4-4ad0-a6c8">
               <entryLinks>
@@ -6948,17 +7103,25 @@ Could not find type or subtype &apos;Super-Heavy&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Hull (Front) Mounted Macro Gatling Blaster
-	 Checked under Macro Gatling Blaster</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c94c-2d67-416f-b801"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Hull (Front) Mounted Macro Gatling Blaster
+	 Checked under Macro Gatling Blaster</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="0512-96ea-41db-8fa3" name="Vehicle" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Ordinatus Dispersion Shield
+	 Checked under Ordinatus Dispersion Shield
+Could not find wargear in An Ordinatus-Minoris must select one of the following options:
+Could not find type or subtype &apos;Super-Heavy&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>

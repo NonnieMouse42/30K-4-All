@@ -74,6 +74,9 @@
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3f2a-c473-4712-8d2c" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="7beb-b9b3-44be-8848" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -159,12 +162,15 @@ Could not find rule: Warrants of Trade</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="82ee-8f48-4f37-ba44" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Trader-Militant Standard Bearer" id="a51e-055d-415d-a6de" page="16" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -232,12 +238,15 @@ Could not find wargear Melta Bombs
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8681-8776-487f-b9d9" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -456,6 +465,9 @@ Could not find wargear Melta Bombs
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f83b-14e9-4baf-9452" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -523,6 +535,9 @@ Could not find wargear Melta Bombs
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="1ade-2322-4898-931d" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -707,6 +722,9 @@ Could not find rule: Weaponsmith’s Ingenuity</comment>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="691d-882b-44ba-8352" name="Infantry" primary="false"/>
             <categoryLink targetId="6e0c-29ba-a445-8321" id="ce8a-18c1-41bc-a90f" name="Psyker" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -913,6 +931,9 @@ Could not find rule: Adamantium Will (4+)</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="b2fe-ff73-488e-86c8" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1103,6 +1124,9 @@ Could not find rule: Chosen Warrior</comment>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="f3a8-24e8-452a-9ef7" name="Infantry" primary="false"/>
             <categoryLink targetId="6e0c-29ba-a445-8321" id="add4-d69d-4c36-92fc" name="Psyker" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1283,6 +1307,9 @@ Could not find rule: Adamantium Will (4+)</comment>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="91bd-f914-45b6-8e03" name="Infantry" primary="false"/>
             <categoryLink targetId="6e0c-29ba-a445-8321" id="a5c8-a51e-4cc5-9394" name="Psyker" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1405,23 +1432,26 @@ Could not find rule: Adamantium Will (4+)</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e607-1d48-43e2-9894"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Servo Arm
 	 Checked under Servo Arm
 Could not find wargear Missile Launcher (with Frag, Krak, and Flak Missiles)
 	 Checked under Missile Launcher (with Frag, Krak, and Flak Missiles)</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e607-1d48-43e2-9894"/>
-              </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="98ef-5b5e-42f0-8c91" name="Guardian" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any Defensor-Automata may replace their Close Combat Weapon with one of the following options:
 Could not find wargear in Any Defensor-Automata may replace their Close Combat Weapon with one of the following options:
 Could not find type or subtype &apos;Automata&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="28f2-0db9-4fdb-bde6" id="98ef-5b5e-42f0-8c91" name="Guardian" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1674,19 +1704,22 @@ Name ends in a star, check the rules for special handling</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="11f7-8527-40ad-ab46"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Legion Presage may select any of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="6ec4-1708-4975-b920" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Legion Presage may select any of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1774,12 +1807,12 @@ Could not find wargear in The Legion Presage may select any of the following opt
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2aec-f813-4ef3-a63f"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Attendis may exchange either their Laspistol and/or Power Weapon each for one of the following options:" id="1689-ee5c-4da5-9ecc">
               <entryLinks>
@@ -1871,9 +1904,6 @@ Could not find wargear Melta Bombs
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Attendis may take one of the following options:" id="7989-81aa-4ac5-a12f">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Servo Arm
-	 Checked under Servo Arm</comment>
               <entryLinks>
                 <entryLink name="Conversion Beamer" hidden="false" type="selectionEntry" targetId="2397-a3fd-81e6-4ced" id="9273-0f2b-48fb-b3b3">
                   <costs>
@@ -1903,23 +1933,29 @@ Could not find wargear Servo Arm
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cfcf-3f76-4bd3-8031"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Servo Arm
+	 Checked under Servo Arm</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Magos Attendis may upgrade a single weapon they are equipped with to have the following Special Rule:" id="99a1-46a1-4fc3-af6e">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Master-Crafted
-	 Checked under Master-Crafted</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3796-b631-4350-9b8d"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Master-Crafted
+	 Checked under Master-Crafted</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3231-cbfd-4409-b297" name="Infantry" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in The Magos Attendis may select any of the following options:
 Could not find wargear in The Magos Attendis may take one of the following options:
 Could not find wargear in The Magos Attendis may upgrade a single weapon they are equipped with to have the following Special Rule:</comment>
-          <categoryLinks>
-            <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="3231-cbfd-4409-b297" name="Infantry" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2009,10 +2045,6 @@ Could not find wargear in The Magos Attendis may upgrade a single weapon they ar
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear in The Militaris Adjutant may replace their Lasrifle with one of the following options:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Militaris Adjutant may replace their Lasrifle with one of the following options:" id="2ec1-88cc-449d-a000">
               <entryLinks>
@@ -2102,12 +2134,12 @@ Could not find wargear in The Militaris Adjutant may replace their Lasrifle with
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
-	 Checked under Grenade Launcher (with Frag and Krak Rounds)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="923d-aa3b-4a7c-90b5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
+	 Checked under Grenade Launcher (with Frag and Krak Rounds)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Militaris Adjutant may replace their Close Combat Weapon with one of the following options:" id="a334-7658-46e3-9dd8">
               <entryLinks>
@@ -2229,6 +2261,13 @@ Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="4d56-8ced-4a54-bbe6" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear in The Militaris Adjutant may replace their Lasrifle with one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2296,10 +2335,6 @@ Could not find wargear Grenade Launcher (with Frag and Krak Rounds)
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs
-Could not find wargear in The Custodian Observer may replace their Guardian Spear with one of the following options:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Custodian Observer may replace their Guardian Spear with one of the following options:" id="b649-630b-4b39-867b">
               <entryLinks>
@@ -2376,12 +2411,12 @@ Could not find wargear in The Custodian Observer may replace their Guardian Spea
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Master-Crafted Power Weapon
-	 Checked under Master-Crafted Power Weapon</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a894-b225-4702-b2cc"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Master-Crafted Power Weapon
+	 Checked under Master-Crafted Power Weapon</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Custodian Observer may select any of the following options:" id="b227-8136-45ed-a11d">
               <entryLinks>
@@ -2411,6 +2446,13 @@ Could not find wargear Master-Crafted Power Weapon
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="703d-abfd-4a3d-b1f7" name="Infantry" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="a90a-8c40-445d-8c70" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs
+Could not find wargear in The Custodian Observer may replace their Guardian Spear with one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2485,10 +2527,6 @@ Could not find wargear Master-Crafted Power Weapon
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Psyk-Out Grenades
-	 Checked under Psyk-Out Grenades
-Could not find wargear in The Executor of the Black Fleet may upgrade a single weapon she is equipped with to have the following Special Rule:</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Executor of the Black Fleet may exchange her Execution Blade for one of the following options:" id="3d21-f353-496d-8df9">
               <entryLinks>
@@ -2568,12 +2606,12 @@ Could not find wargear in The Executor of the Black Fleet may upgrade a single w
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Executor of the Black Fleet may upgrade a single weapon she is equipped with to have the following Special Rule:" id="840c-02d3-47e2-958d">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Master-Crafted
-	 Checked under Master-Crafted</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2108-db68-4a00-8eb0"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Master-Crafted
+	 Checked under Master-Crafted</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -2581,6 +2619,13 @@ Could not find wargear Master-Crafted
             <categoryLink targetId="bff2-ae16-74a8-8712" id="d7b2-d33c-4a97-9090" name="Light" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="a112-8140-4c04-91d0" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Psyk-Out Grenades
+	 Checked under Psyk-Out Grenades
+Could not find wargear in The Executor of the Black Fleet may upgrade a single weapon she is equipped with to have the following Special Rule:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2761,20 +2806,23 @@ Could not find rule: Ex Oblivio</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Envoy of the Asur may select:" id="2daf-b4e4-4c25-bf77">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Haywire Grenades
-	 Checked under Haywire Grenades</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b002-8c5f-49d1-bb33"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Haywire Grenades
+	 Checked under Haywire Grenades</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Envoy of the Asur may select:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="0b29-5902-4780-abf0" name="Infantry" primary="false"/>
             <categoryLink targetId="88bc-c291-44f8-8798" id="7f14-2010-4e86-af82" name="Asuryani" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Envoy of the Asur may select:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2915,21 +2963,24 @@ Could not find wargear in The Envoy of the Asur may select:</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Faceless Delegate may select:" id="e763-a523-4488-bdbf">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Haywire Grenades
-	 Checked under Haywire Grenades</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4d13-81ca-4a8b-989c"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Haywire Grenades
+	 Checked under Haywire Grenades</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Faceless Delegate may select:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="8ab5-8239-499b-92bf" name="Infantry" primary="false"/>
             <categoryLink targetId="e9cf-bae1-4a9a-8d47" id="404f-3b3d-42a1-a10c" name="Rillietann" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="a544-3627-4ca4-a458" name="Skirmish" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Faceless Delegate may select:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2973,6 +3024,9 @@ Could not find wargear in The Faceless Delegate may select:</comment>
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Voidmaster" id="b597-fb23-4056-889d" page="34" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -2994,6 +3048,9 @@ Could not find wargear in The Faceless Delegate may select:</comment>
           </profiles>
           <constraints/>
           <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <comment>!BSC Errors from 20240406-1603
@@ -3273,6 +3330,9 @@ Could not find profile for Voidsmen in [&apos;Voidsman&apos;, &apos;Voidmaster&a
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="59db-9aef-4046-bfb8" name="Infantry" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="7b05-0619-448f-8f02" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="11"/>
+          </costs>
         </selectionEntry>
         <selectionEntry type="model" name="Imperatris Bondmaster" id="1066-d9e1-4178-8f8e" page="35" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -3539,25 +3599,28 @@ Could not find profile for Voidsmen in [&apos;Voidsman&apos;, &apos;Voidmaster&a
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="e4c7-0da9-4563-ac5c" name="Character" primary="false"/>
             <categoryLink targetId="9231-183c-b97b-63f9" id="b433-a40e-421f-ac41" name="Heavy" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="The unit may select:" id="a44c-fb1f-4327-af87">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9e7d-eccd-4fbb-8282"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The unit may select:</comment>
       <infoLinks>
         <infoLink name="Stubborn" hidden="false" type="rule" targetId="7989-1f2c-a43d-82ae" id="58d8-907d-4aca-8ca3"/>
         <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="4126-c5f9-4946-8cab"/>
         <infoLink name="Relentless" hidden="false" type="rule" targetId="7adf-ac9a-5035-522d" id="5ee3-4f49-44cd-ac57"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The unit may select:</comment>
     </selectionEntry>
     <selectionEntry name="Savaris Bondsmen Cadre" type="unit" id="d9ee-677c-4a7b-a579" page="36" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
@@ -3773,19 +3836,22 @@ Could not find wargear in The unit may select:</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may select:" id="77d0-700e-4169-b466">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Boarding Shield (and the Heavy Sub-type)
-	 Checked under Boarding Shield (and the Heavy Sub-type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0bd6-9893-4063-b13c"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Boarding Shield (and the Heavy Sub-type)
+	 Checked under Boarding Shield (and the Heavy Sub-type)</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may select:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="705e-7072-4d4e-a13a" name="Infantry" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="11"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may select:</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Savaris Bondmaster" id="5189-f906-43fe-8b25" page="36" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -3961,12 +4027,12 @@ Could not find wargear in Any model in the unit may select:</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may select:" id="9714-1092-4a28-abd1">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Boarding Shield (and the Heavy Sub-type)
-	 Checked under Boarding Shield (and the Heavy Sub-type)</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="44e4-9456-4f37-a5cb"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Boarding Shield (and the Heavy Sub-type)
+	 Checked under Boarding Shield (and the Heavy Sub-type)</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Savaris Bondmaster may take replace their Close Combat Weapon with one of the following options:" id="eb21-befa-41cc-8d94">
               <entryLinks>
@@ -3992,9 +4058,12 @@ Could not find wargear Boarding Shield (and the Heavy Sub-type)
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks/>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any model in the unit may select:</comment>
-          <categoryLinks/>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -4014,20 +4083,20 @@ Could not find wargear in Any model in the unit may select:</comment>
           </constraints>
         </selectionEntryGroup>
         <selectionEntryGroup name="The unit may select:" id="862a-2305-4356-8424">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Melta Bombs
-	 Checked under Melta Bombs</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4e7b-1d4f-44c1-86f3"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Melta Bombs
+	 Checked under Melta Bombs</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The unit may select:</comment>
       <infoLinks>
         <infoLink name="Stubborn" hidden="false" type="rule" targetId="7989-1f2c-a43d-82ae" id="6d50-fa18-4c3c-a2e0"/>
         <infoLink name="Support Squad" hidden="false" type="rule" targetId="768e-56d6-ca52-24ae" id="7cab-dd5b-4d81-a56e"/>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The unit may select:</comment>
     </selectionEntry>
     <selectionEntry name="Arvus Transport" type="unit" id="ed64-9cb3-4781-bfbf" page="40" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
@@ -4125,12 +4194,12 @@ Could not find wargear in The unit may select:</comment>
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="An Arvus Transport may choose to give a single Ranged Weapon it is equipped with the following Special Rule:" id="b878-b8bb-4452-a0d4">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Twin-Linked
-	 Checked under Twin-Linked</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0e3b-41a1-46b5-b07f"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Twin-Linked
+	 Checked under Twin-Linked</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Arvus Transport may select any of the following options:" id="9a67-6553-4be5-97ee">
               <entryLinks>
@@ -4156,14 +4225,17 @@ Could not find wargear Twin-Linked
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in An Arvus Transport may choose to give a single Ranged Weapon it is equipped with the following Special Rule:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="52db-d813-4fc4-a0a2" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="9e11-7f4e-48ba-9efd" name="Flyer" primary="false"/>
             <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="5ad5-ae06-42aa-a64e" name="Hover" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="d53f-8d08-455f-9c57" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in An Arvus Transport may choose to give a single Ranged Weapon it is equipped with the following Special Rule:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4275,6 +4347,9 @@ Could not find wargear in An Arvus Transport may choose to give a single Ranged 
             <categoryLink targetId="e2b6-b770-784c-9e95" id="54f7-c2de-4313-b928" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="689c-f5df-464c-984e" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4318,9 +4393,6 @@ Could not find wargear in An Arvus Transport may choose to give a single Ranged 
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="The Land Raider Armoured Carrier may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following options:" id="f23f-afc5-4ada-b7e9">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
-	 Checked under Gravis Heavy Bolter Batterie</comment>
               <entryLinks>
                 <entryLink name="Flamestorm Cannon" hidden="false" type="selectionEntry" targetId="4ea6-839a-467c-aee6" id="4f31-8e5a-4c49-bfbc">
                   <costs>
@@ -4370,6 +4442,9 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8a05-4c59-4b9d-ad72"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
+	 Checked under Gravis Heavy Bolter Batterie</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="The Land Raider Armoured Carrier may exchange its Hull (Front) Mounted Twin-Linked Heavy Bolter for one of the following options:" id="d8e2-b92b-4642-9da8">
               <entryLinks>
@@ -4477,13 +4552,16 @@ Could not find wargear Two Sponson Mounted Gravis Heavy Bolter Batteries
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The Land Raider Armoured Carrier may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="af6c-315c-4077-9815" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="b343-a455-4368-befb" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="29cc-bf34-441a-b34d" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The Land Raider Armoured Carrier may exchange its Two Sponson Mounted Gravis Heavy Bolter Batteries for one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4623,20 +4701,23 @@ Could not find wargear in The Land Raider Armoured Carrier may exchange its Two 
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model may take up to two of the following option:" id="9744-0fc6-4089-8add">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear One Hunter-Killer Missile
-	 Checked under One Hunter-Killer Missile</comment>
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="3f7d-f3c0-4414-aa17"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear One Hunter-Killer Missile
+	 Checked under One Hunter-Killer Missile</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model may take up to two of the following option:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="4303-1348-cce4-9501" id="3b0b-942a-4a26-be5f" name="Antigrav" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="50"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model may take up to two of the following option:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -4863,6 +4944,9 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="9b56-2359-422f-a91e" name="Vehicle" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="85"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>

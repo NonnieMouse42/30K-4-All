@@ -32,11 +32,6 @@
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6429-4c52-4e00-b94b"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8902-b986-4fb2-9812"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Nightfall
-	 Checked under Nightfall
-Could not find wargear Psyk-Out Grenades
-	 Checked under Psyk-Out Grenades</comment>
           <entryLinks>
             <entryLink name="Archaeotech Pistol" hidden="false" type="selectionEntry" targetId="c22a-ed4d-af68-bf00" id="db4f-1ccd-43db-9a64">
               <constraints>
@@ -76,6 +71,14 @@ Could not find wargear Psyk-Out Grenades
             <categoryLink targetId="32ee-6da0-41d1-8016" id="c2bc-d055-4bee-bb9d" name="Anathema" primary="false"/>
             <categoryLink targetId="aa94-5c65-d1f1-46a4" id="72da-a7bf-4577-86e9" name="Unique" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Nightfall
+	 Checked under Nightfall
+Could not find wargear Psyk-Out Grenades
+	 Checked under Psyk-Out Grenades</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -177,9 +180,6 @@ Could not find rule: Independent Character</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Psyk-Out Grenades
-	 Checked under Psyk-Out Grenades</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any Knight Ensign may select one of the following options:" id="85f9-a0c4-4c9b-8b94">
               <entryLinks>
@@ -298,6 +298,12 @@ Could not find wargear Psyk-Out Grenades
             <categoryLink targetId="bff2-ae16-74a8-8712" id="d0bd-94eb-4641-affa" name="Light" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="7d33-ee44-4496-b4f0" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Psyk-Out Grenades
+	 Checked under Psyk-Out Grenades</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -366,9 +372,6 @@ Could not find wargear Psyk-Out Grenades
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Vratine Voidplate
-	 Checked under Vratine Voidplate</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may exchange their Indictor Axe for one of the following options:" id="bb7e-00cf-4df5-b38a">
               <entryLinks>
@@ -446,6 +449,12 @@ Could not find wargear Vratine Voidplate
             <categoryLink targetId="9231-183c-b97b-63f9" id="0be5-9b93-4c09-a5d8" name="Heavy" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="ee14-861d-4af6-bc05" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Vratine Voidplate
+	 Checked under Vratine Voidplate</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Indictor Mistress" id="3dae-0aa5-4629-8199" page="97" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -483,9 +492,6 @@ Could not find wargear Vratine Voidplate
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Vratine Voidplate
-	 Checked under Vratine Voidplate</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may exchange their Indictor Axe for one of the following options:" id="b023-0942-4fdf-92ce">
               <entryLinks>
@@ -564,22 +570,24 @@ Could not find wargear Vratine Voidplate
             <categoryLink targetId="9231-183c-b97b-63f9" id="22a6-2981-439d-9bb5" name="Heavy" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="a30d-6e74-4060-8b13" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Vratine Voidplate
+	 Checked under Vratine Voidplate</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="The entire unit may be given:" id="f006-c12f-4495-a022">
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear The Deep Strike Special Rule
-	 Checked under The Deep Strike Special Rule</comment>
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="52ab-b231-4ed3-92d3"/>
           </constraints>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear The Deep Strike Special Rule
+	 Checked under The Deep Strike Special Rule</comment>
         </selectionEntryGroup>
       </selectionEntryGroups>
-      <comment>!BSC Errors from 20240406-1603
-Could not find wargear in The entire unit may be given:
-Indictor Axe is in two option lists for Indictor, you will need to combine them by hand.
-Indictor Axe is in two option lists for Indictor Mistress, you will need to combine them by hand.</comment>
       <infoLinks>
         <infoLink name="Silent Sisterhood (X)" hidden="false" type="rule" targetId="1d8d-3038-9267-6f1b" id="fc16-8a30-449a-95f8">
           <modifiers>
@@ -609,6 +617,10 @@ Indictor Axe is in two option lists for Indictor Mistress, you will need to comb
           </modifiers>
         </infoLink>
       </infoLinks>
+      <comment>!BSC Errors from 20240406-1603
+Could not find wargear in The entire unit may be given:
+Indictor Axe is in two option lists for Indictor, you will need to combine them by hand.
+Indictor Axe is in two option lists for Indictor Mistress, you will need to combine them by hand.</comment>
     </selectionEntry>
     <selectionEntry name="Perditor Cadre" type="unit" id="4e44-12b3-4b55-8a43" page="98" publicationId="f505-5fc8-ee53-1cec">
       <categoryLinks>
@@ -682,14 +694,17 @@ Indictor Axe is in two option lists for Indictor Mistress, you will need to comb
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Psyk-Out Grenades
-	 Checked under Psyk-Out Grenades</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="e04b-9c73-40c4-ba8c" name="Infantry" primary="false"/>
             <categoryLink targetId="bff2-ae16-74a8-8712" id="9111-9737-4009-a104" name="Light" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="a1d2-554c-40d9-84fd" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Psyk-Out Grenades
+	 Checked under Psyk-Out Grenades</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Perditor Mistress" id="089a-d689-4551-971d" page="98" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -754,15 +769,18 @@ Could not find wargear Psyk-Out Grenades
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Psyk-Out Grenades
-	 Checked under Psyk-Out Grenades</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="451f-b0e2-4019-85b4" name="Infantry" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="35dd-d96f-4cae-9e89" name="Character" primary="false"/>
             <categoryLink targetId="bff2-ae16-74a8-8712" id="8900-f7dc-4069-9301" name="Light" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="adbb-3e7a-445b-86c2" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Psyk-Out Grenades
+	 Checked under Psyk-Out Grenades</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -836,14 +854,17 @@ Could not find wargear Psyk-Out Grenades
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Reclaimator-Chainclaws
-	 Checked under Reclaimator-Chainclaw
-Could not find type or subtype &apos;Automata&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="3480-b6fb-4e0e-9f09" id="1ddb-8b9d-47e8-bd57" name="Sycophantica" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="758d-c07d-4061-97fb" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Reclaimator-Chainclaws
+	 Checked under Reclaimator-Chainclaw
+Could not find type or subtype &apos;Automata&apos;</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Repressor Mistress" id="bef4-7eb7-408e-a9d5" page="100" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -962,22 +983,25 @@ Could not find type or subtype &apos;Automata&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Servo Arm
-	 Checked under Servo Arm</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ec18-b274-4ddc-a7d5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Servo Arm
+	 Checked under Servo Arm</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in A Repressor Mistress may select one of the following options:</comment>
           <categoryLinks>
             <categoryLink targetId="8b4f-bfe2-ce7b-f1b1" id="40bb-080e-475b-81ed" name="Infantry" primary="false"/>
             <categoryLink targetId="bff2-ae16-74a8-8712" id="eafc-973c-496f-820c" name="Light" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="9ce8-5054-43fa-8e3c" name="Anathema" primary="false"/>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="45ef-3b64-4ee5-9c67" name="Character" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="30"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in A Repressor Mistress may select one of the following options:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1055,6 +1079,9 @@ Could not find rule: Abominant Aura (Repressor Automata only)</comment>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="afb5-277d-4676-9c7b" name="Vehicle" primary="false"/>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="4326-bf49-45fb-af57" name="Transport" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1114,6 +1141,9 @@ Could not find rule: Abominant Aura (Repressor Automata only)</comment>
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="6e27-ebf4-404a-8ad4" name="Transport" primary="false"/>
             <categoryLink targetId="4303-1348-cce4-9501" id="6db6-7722-4b10-aac4" name="Antigrav" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -1181,9 +1211,6 @@ Could not find rule: Abominant Aura (Repressor Automata only)</comment>
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Shrike Talons
-	 Checked under Shrike Talon</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may select:" id="59ed-957f-418c-bbeb">
               <entryLinks>
@@ -1312,6 +1339,12 @@ Could not find wargear Two Shrike Talons
             <categoryLink targetId="59a4-7b61-600a-c457" id="78d8-fcc7-45ba-9413" name="Skirmish" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="005a-7d13-43fb-b702" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Shrike Talons
+	 Checked under Shrike Talon</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Shrike Mistress" id="dea6-4d31-41cd-a207" page="108" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1361,9 +1394,6 @@ Could not find wargear Two Shrike Talons
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Shrike Talons
-	 Checked under Shrike Talon</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model in the unit may select:" id="8bda-630a-41e9-9d68">
               <entryLinks>
@@ -1493,6 +1523,12 @@ Could not find wargear Two Shrike Talons
             <categoryLink targetId="59a4-7b61-600a-c457" id="f0f4-1d0f-41c7-ba13" name="Skirmish" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="8cbf-fac8-442d-98e9" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Shrike Talons
+	 Checked under Shrike Talon</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -1613,12 +1649,12 @@ Could not find wargear Two Shrike Talons
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Twin-Linked Vratine Grenade Launcher
-	 Checked under Twin-Linked Vratine Grenade Launcher</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e54a-f040-4b09-bbe9"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Twin-Linked Vratine Grenade Launcher
+	 Checked under Twin-Linked Vratine Grenade Launcher</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may replace their Impetus Lance with any of the following options:" id="f58a-d592-41a8-8d5f">
               <entryLinks>
@@ -1711,13 +1747,16 @@ Could not find wargear Twin-Linked Vratine Grenade Launcher
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may replace their Alkonost Combat Bike’s Twin-Linked Vratine Bolter with one of the following options:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="59a4-7b61-600a-c457" id="cf3e-f81b-4c55-952f" name="Skirmish" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="cee5-cfbe-4cda-b65c" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may replace their Alkonost Combat Bike’s Twin-Linked Vratine Bolter with one of the following options:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
         <selectionEntry type="model" name="Impetor Mistress" id="e993-f13a-48e8-972c" page="109" publicationId="f505-5fc8-ee53-1cec">
           <profiles>
@@ -1776,12 +1815,12 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Twin-Linked Vratine Grenade Launcher
-	 Checked under Twin-Linked Vratine Grenade Launcher</comment>
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="348e-403d-4b22-bde5"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Twin-Linked Vratine Grenade Launcher
+	 Checked under Twin-Linked Vratine Grenade Launcher</comment>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any model in the unit may replace their Impetus Lance with any of the following options:" id="ace9-4c22-47fb-a050">
               <entryLinks>
@@ -1874,14 +1913,17 @@ Could not find wargear Twin-Linked Vratine Grenade Launcher
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in Any model in the unit may replace their Alkonost Combat Bike’s Twin-Linked Vratine Bolter with one of the following options:
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <categoryLinks>
             <categoryLink targetId="f75a-d5c1-59ba-5c5a" id="03cf-fc6b-4612-8682" name="Character" primary="false"/>
             <categoryLink targetId="59a4-7b61-600a-c457" id="81db-49d5-4576-a08c" name="Skirmish" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="c20d-a2a1-4fb3-8f20" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="15"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in Any model in the unit may replace their Alkonost Combat Bike’s Twin-Linked Vratine Bolter with one of the following options:
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
@@ -1993,9 +2035,6 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="An Otos Transport may exchange their Centreline Mounted Twin-linked Spiculus Bolt Launcher for the following option:" id="d2d4-27b8-4bd0-92ce">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Twin-linked Spiculus Bolt Launcher
-	 Checked under Twin-linked Spiculus Bolt Launcher</comment>
               <entryLinks>
                 <entryLink name="Twin-Linked Corvae Las-Pulser" hidden="false" type="selectionEntry" targetId="d066-58b3-e43a-b8ad" id="629d-df9e-4f4a-baab">
                   <costs>
@@ -2012,10 +2051,11 @@ Could not find wargear Centreline Mounted Twin-linked Spiculus Bolt Launcher
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b25d-c0b9-4393-86a0"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline Mounted Twin-linked Spiculus Bolt Launcher
+	 Checked under Twin-linked Spiculus Bolt Launcher</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear in An Otos Transport may exchange their Centreline Mounted Twin-linked Spiculus Bolt Launcher for the following option:</comment>
           <categoryLinks>
             <categoryLink targetId="e2b6-b770-784c-9e95" id="d48b-035a-44f9-a007" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="a17d-7d83-41ed-9454" name="Flyer" primary="false"/>
@@ -2023,6 +2063,11 @@ Could not find wargear in An Otos Transport may exchange their Centreline Mounte
             <categoryLink targetId="7b0a-a743-a8da-3a39" id="6ea5-0686-42c4-a0af" name="Transport" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="10f4-247f-44ec-910f" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear in An Otos Transport may exchange their Centreline Mounted Twin-linked Spiculus Bolt Launcher for the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2067,9 +2112,6 @@ Could not find wargear in An Otos Transport may exchange their Centreline Mounte
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="733f-424c-4a56-8858"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fd2c-4f5d-4f6f-b6ee"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Two Hull (Front) Mounted Vratine Rotary Missile Launchers
-	 Checked under Vratine Rotary Missile Launcher</comment>
           <entryLinks>
             <entryLink name="Iliastus Accelerator Cannon Arrays" hidden="false" type="selectionEntry" targetId="d6f0-9912-49d5-846c" id="2e30-6d7f-418c-92e7">
               <modifiers>
@@ -2108,6 +2150,12 @@ Could not find wargear Two Hull (Front) Mounted Vratine Rotary Missile Launchers
             <categoryLink targetId="e2b6-b770-784c-9e95" id="d50a-f881-4d52-8b17" name="Vehicle" primary="false"/>
             <categoryLink targetId="4e84-2d57-4986-2b23" id="8fe0-3724-4dab-aaac" name="Flyer" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Two Hull (Front) Mounted Vratine Rotary Missile Launchers
+	 Checked under Vratine Rotary Missile Launcher</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2166,10 +2214,6 @@ Could not find wargear Two Hull (Front) Mounted Vratine Rotary Missile Launchers
               </constraints>
             </entryLink>
           </entryLinks>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Spectra Cloak
-	 Checked under Spectra Cloak
-Could not find type or subtype &apos;Cavalry&apos;</comment>
           <selectionEntryGroups>
             <selectionEntryGroup name="Any model may exchange their Halian Heavy Jetbike’s Heavy Snare Cannon with one of the following options:" id="6b0e-4758-4275-8b94">
               <entryLinks>
@@ -2205,6 +2249,13 @@ Could not find type or subtype &apos;Cavalry&apos;</comment>
             <categoryLink targetId="59a4-7b61-600a-c457" id="0ea7-3d10-4bad-9bfc" name="Skirmish" primary="false"/>
             <categoryLink targetId="32ee-6da0-41d1-8016" id="440c-e5b1-4365-a549" name="Anathema" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="65"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Spectra Cloak
+	 Checked under Spectra Cloak
+Could not find type or subtype &apos;Cavalry&apos;</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2313,14 +2364,14 @@ Could not find rule: Hit and Run</comment>
                   </constraints>
                 </entryLink>
               </entryLinks>
+              <constraints>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3ebc-33a6-48df-b1dd"/>
+              </constraints>
               <comment>!BSC Errors from 20240406-1603
 Could not find wargear Executor Great-Blade with in-built Vratine Bolter
 	 Checked under Executor Great-Blade with in-built Vratine Bolter
 Could not find wargear Executor Great-Blade with in-built Vratine Bolter
 	 Checked under Executor Great-Blade with in-built Vratine Bolter</comment>
-              <constraints>
-                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3ebc-33a6-48df-b1dd"/>
-              </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="A single Caedecii Exoframe in the unit may exchange their Executor Great-Blade with in-built Vratine Bolter or Vratine Bolt Cannon for the following - no model may select this option more than once:" id="314b-4390-466a-b8f7">
               <entryLinks>
@@ -2338,9 +2389,6 @@ Could not find wargear Executor Great-Blade with in-built Vratine Bolter
               </constraints>
             </selectionEntryGroup>
             <selectionEntryGroup name="Any Caedecii Exoframe not equipped with a Sinistrae Magnificat may select one of the following options:" id="4c9d-d02a-488d-8353">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Spiculus Bolt Launcher
-	 Checked under Spiculus Bolt Launcher</comment>
               <entryLinks>
                 <entryLink name="Vratine Missile Launcher" hidden="false" type="selectionEntry" targetId="0ee4-7a2e-804a-a934" id="c478-e16e-4471-97de">
                   <costs>
@@ -2354,17 +2402,23 @@ Could not find wargear Spiculus Bolt Launcher
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4ed7-c21f-4155-b067"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Spiculus Bolt Launcher
+	 Checked under Spiculus Bolt Launcher</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <categoryLinks>
+            <categoryLink targetId="32ee-6da0-41d1-8016" id="3519-0da1-4c32-8192" name="Anathema" primary="false"/>
+            <categoryLink targetId="59a4-7b61-600a-c457" id="f4d8-fba6-49ef-8fd1" name="Skirmish" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="175"/>
+          </costs>
           <comment>!BSC Errors from 20240406-1603
 Could not find wargear in Any Caedecii Exoframe may exchange their Executor Great-Blade with in-built Vratine Bolter or Vratine Bolt Cannon for one of the following options:
 Could not find wargear in Any Caedecii Exoframe may exchange their Executor Great-Blade with in-built Vratine Bolter or Vratine Bolt Cannon for one of the following options:
 Could not find wargear in Any Caedecii Exoframe not equipped with a Sinistrae Magnificat may select one of the following options:
 Could not find type or subtype &apos;Dreadnought&apos;</comment>
-          <categoryLinks>
-            <categoryLink targetId="32ee-6da0-41d1-8016" id="3519-0da1-4c32-8192" name="Anathema" primary="false"/>
-            <categoryLink targetId="59a4-7b61-600a-c457" id="f4d8-fba6-49ef-8fd1" name="Skirmish" primary="false"/>
-          </categoryLinks>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
@@ -2417,10 +2471,6 @@ Vratine Bolt Cannon is in two option lists for Caedecii Exoframe, you will need 
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ec42-421c-4996-91b8"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4abe-c7f1-4dd7-aec3"/>
           </constraints>
-          <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Enhanced Arachnus Blaze Cannon
-	 Checked under Enhanced Arachnus Blaze Cannon
-Could not find wargear in A Stymphalia may exchange their Centreline Mounted Twin-Linked Spiculus Bolt Launcher for the following option:</comment>
           <entryLinks>
             <entryLink name="Spectra Distort Shield" hidden="false" type="selectionEntry" targetId="d11a-3108-ea62-ffac" id="3206-85dc-46d9-bf03">
               <constraints>
@@ -2431,9 +2481,6 @@ Could not find wargear in A Stymphalia may exchange their Centreline Mounted Twi
           </entryLinks>
           <selectionEntryGroups>
             <selectionEntryGroup name="A Stymphalia may exchange their Centreline Mounted Twin-Linked Spiculus Bolt Launcher for the following option:" id="8c01-b01b-4770-bc79">
-              <comment>!BSC Errors from 20240406-1603
-Could not find wargear Centreline Mounted Twin-Linked Spiculus Bolt Launcher
-	 Checked under Twin-Linked Spiculus Bolt Launcher</comment>
               <entryLinks>
                 <entryLink name="Twin-Linked Corvae Las-Pulser" hidden="false" type="selectionEntry" targetId="d066-58b3-e43a-b8ad" id="6f53-3dd0-4397-9d14">
                   <costs>
@@ -2450,6 +2497,9 @@ Could not find wargear Centreline Mounted Twin-Linked Spiculus Bolt Launcher
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="acb0-5811-4356-9a18"/>
               </constraints>
+              <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline Mounted Twin-Linked Spiculus Bolt Launcher
+	 Checked under Twin-Linked Spiculus Bolt Launcher</comment>
             </selectionEntryGroup>
           </selectionEntryGroups>
           <categoryLinks>
@@ -2458,6 +2508,13 @@ Could not find wargear Centreline Mounted Twin-Linked Spiculus Bolt Launcher
             <categoryLink targetId="3a7a-8bb7-b0d3-e2e7" id="74ce-4191-4994-8f80" name="Hover" primary="false"/>
             <categoryLink targetId="9b0d-738c-10e4-4ec1" id="e916-4db9-45a1-9d8c" name="Reinforced" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name="Pts" typeId="d2ee-04cb-5f8a-2642" value="None"/>
+          </costs>
+          <comment>!BSC Errors from 20240406-1603
+Could not find wargear Centreline Mounted Enhanced Arachnus Blaze Cannon
+	 Checked under Enhanced Arachnus Blaze Cannon
+Could not find wargear in A Stymphalia may exchange their Centreline Mounted Twin-Linked Spiculus Bolt Launcher for the following option:</comment>
         </selectionEntry>
       </selectionEntries>
       <infoLinks>
